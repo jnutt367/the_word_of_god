@@ -1,6 +1,7 @@
 .container {
   background-color: silver;
   max-width: 800px;
+  text-align: center;
 }
 .holy {
   backgroud-color: silver;
