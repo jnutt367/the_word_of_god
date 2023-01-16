@@ -12,6 +12,7 @@
    top: -18px;
   font-size: 36px;
   margin-bottom: 35px;
+  padding-left: 20px;
   tex-align: left;
 }
 .main {
@@ -26,6 +27,7 @@
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: 2px 2px grey;
   font-size: 64px;
+  padding-left: 20px;
   margin-bottom: 4.4rem;
   tex-align: left;
 }
