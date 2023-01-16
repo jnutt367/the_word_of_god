@@ -1,6 +1,9 @@
 .container {
   background-color: silver;
   max-width: 800px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
   text-align: center;
 }
 .holy {
