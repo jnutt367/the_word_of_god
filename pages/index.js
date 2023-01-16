@@ -23,7 +23,7 @@ export default function Home() {
              </p>
                           <div className={styles.hero}>
                              <Image 
-                                src="/jerusalem.jfif"
+                                src="/pexels-photo-977659-jesus.jpeg"
                                 alt="jerusalem"
                                 height={900}
                                 width={2000}
