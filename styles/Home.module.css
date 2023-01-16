@@ -75,3 +75,13 @@
   justify-content: space-around;
   grid-template-columns: 2fr 2fr;
 }
+.aside {
+  display: flex;
+  flex-direction: row;
+}
+@media screen and (max-width: 600px) {
+  .aside {
+    display: none;
+  }
+}
+
