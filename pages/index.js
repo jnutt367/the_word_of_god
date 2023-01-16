@@ -103,6 +103,17 @@ export default function Home() {
                          
                            
                         </ul>
+                        <div className={styles.aside}>
+                          <h2>
+                            My Testimony:
+                          </h2>
+                          <p>
+                          As it is written: "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down. They triumphed over him by the blood of the Lamb and by the word of their testimony;"
+                          </p>
+                          <p>
+                            I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
+                          </p>  
+                          </div>
               <div  className={styles.footer}>
                 <p className={styles.items}>
                    <a href="https://www.pexels.com/photo/black-mug-with-religious-text-from-holy-bible-4200823/"> Photo by Jessica Lewis Creative 
