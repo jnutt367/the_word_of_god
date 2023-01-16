@@ -104,7 +104,7 @@ export default function Home() {
                            
                         </ul>
                         <div className={styles.aside}>
-                          <h2>
+                          <h2 className={styles.testimony}>
                             My Testimony:
                           </h2>
                           <p>
