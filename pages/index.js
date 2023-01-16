@@ -23,8 +23,8 @@ export default function Home() {
              </p>
                           <div className={styles.hero}>
                              <Image 
-                                src="/trust.webp"
-                                alt="Picture of the Gods finger"
+                                src="/jerusalem.jfif"
+                                alt="jerusalem"
                                 height={900}
                                 width={2000}
                                 priority
