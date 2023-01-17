@@ -23,7 +23,7 @@ export default function Home() {
              </p>
                           <div className={styles.hero}>
                              <Image 
-                                src="/heart.webp"
+                                src="/jesus.webp"
                                 alt="jerusalem"
                                 height={900}
                                 width={2000}
