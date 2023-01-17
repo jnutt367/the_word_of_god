@@ -12,7 +12,7 @@
    top: -38px;
   font-size: 36px;
   margin-bottom: 35px;
-  padding-left: 10px;
+  padding-left: 5px;
   tex-align: left;
 }
 .main {
@@ -27,7 +27,7 @@
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: 2px 2px grey;
   font-size: 64px;
-  padding-left: 10px;
+  padding-left: 5px;
   margin-bottom: 4.4rem;
   tex-align: left;
 }
@@ -38,8 +38,8 @@
 }
 .transcribed {
    position: relative;
-   top: -155px;
-   padding-left: 10px;
+   top: -160px;
+   padding-left: 5px;
    font-size: 12px;
 }
 .new {
