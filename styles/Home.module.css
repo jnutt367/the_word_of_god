@@ -67,6 +67,7 @@
   width:100vw;
   grid-gaps: 10px;
   border: 1px solid grey;
+  color: white; 
   padding: 10px;
   padding-left: 100px;
   line-height:1.5;
