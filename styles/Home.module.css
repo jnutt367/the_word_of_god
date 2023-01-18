@@ -16,7 +16,7 @@
   tex-align: left;
 }
 .main {
-  background-color: silver;
+  background-color: #800080;
   position:relative;
   top: 10px;
 }
@@ -34,7 +34,7 @@
 .hero {
   position:relative;
   top: -170px;
-   backgroud-color: silver;
+   backgroud-color:  #800080;
 }
 .transcribed {
    position: relative;
