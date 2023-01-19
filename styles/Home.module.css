@@ -90,16 +90,13 @@
   grid-template-columns: 2fr 2fr;
 }
 .aside {
-  display: flex;
-  flex-direction: row;
+  display: grid;
+  algin-items: center;
+  justify-content: center;
 }
 .testimony {
   text-align: center;
   margin-bottom: 30px;
 }
-@media screen and (max-width: 600px) {
-  .aside {
-    display: none;
-  }
-}
+
 
