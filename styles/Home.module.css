@@ -93,6 +93,7 @@
   display: grid;
   algin-items: center;
   justify-content: center;
+  text-shadow: #FC0 1px 0 10px;
 }
 .testimony {
   text-align: center;
