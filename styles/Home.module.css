@@ -1,5 +1,5 @@
 .container {
-  background-color: #800080;
+  background-color: #C5B4E3;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@
   tex-align: left;
 }
 .main {
-  background-color: #800080;
+  background-color: #C5B4E3;
   position:relative;
   top: 10px;
 }
@@ -25,7 +25,8 @@
   top: -90px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: 1px 1px white;
+  text-shadow: #FC0 1px 0 10px;
+  color: white;
   font-size: 64px;
   padding-left: 5px;
   margin-bottom: 4.4rem;
@@ -50,7 +51,7 @@
   background-color: black;
   color: white;
   font-weight: 900;
-  padding: 10px;
+  padding: 20px;
 }
 .index  {
   backgroud-color: #800080;
@@ -94,13 +95,14 @@
   algin-items: center;
   justify-content: center;
   text-shadow: #FC0 1px 0 10px;
+  color: white;
 }
 .testimony {
   text-align: center;
   margin-bottom: 30px;
 }
 .paragraph {
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
