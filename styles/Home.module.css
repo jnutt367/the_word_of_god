@@ -1,5 +1,5 @@
 .container {
-  background-color: #C5B4E3;
+  background-image:url(tea-stained.jpg);
   display: grid;
   align-items: center;
   justify-content: center;
@@ -54,7 +54,7 @@
   padding: 20px;
 }
 .index  {
-  backgroud-color: #800080;
+  background-image:url(tea-stained.jpg);
   position: relative;
    top: -25px;
   display: grid;
