@@ -16,7 +16,7 @@
   tex-align: left;
 }
 .main {
-  background-image: url(/tea-stained.jpg);
+  background-color: #9F2B68;
   position:relative;
   top: 10px;
 }
@@ -54,7 +54,7 @@
   padding: 20px;
 }
 .index  {
-  background-image:url(/tea-stained.jpg);
+  background-color: #9F2B68;
   position: relative;
    top: -25px;
   display: grid;
