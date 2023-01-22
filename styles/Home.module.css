@@ -1,5 +1,5 @@
 .container {
-  background-image: url(/old-grunge-paper-background.webp);
+  background-image: url(/tea-stained.jpg);
   display: grid;
   align-items: center;
   justify-content: center;
@@ -16,7 +16,7 @@
   tex-align: left;
 }
 .main {
-  background-image: url(/old-grunge-paper-background.webp);
+  background-image: url(/tea-stained.jpg);
   position:relative;
   top: 10px;
 }
@@ -36,7 +36,6 @@
   position:relative;
   top: -170px;
   backgroud-color:  #800080;
-  max-height: 500px;
 }
 .transcribed {
    color: white;
@@ -55,7 +54,7 @@
   padding: 20px;
 }
 .index  {
-  background-image: url(/old-grunge-paper-background.webp);
+  background-image: url(/tea-stained.jpg);
   position: relative;
    top: -25px;
   display: grid;
