@@ -18,6 +18,7 @@
 }
 .main {
   background-image: url(/tea-stained.jpg);
+  background-size: cover;
   position:relative;
   top: 10px;
 }
@@ -56,6 +57,7 @@
 }
 .index  {
   background-image: url(/tea-stained.jpg);
+  background-size: cover;
   position: relative;
    top: -25px;
   display: grid;
