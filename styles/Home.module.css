@@ -35,7 +35,8 @@
 .hero {
   position:relative;
   top: -170px;
-   backgroud-color:  #800080;
+  backgroud-color:  #800080;
+  max-height: 500px;
 }
 .transcribed {
    color: white;
