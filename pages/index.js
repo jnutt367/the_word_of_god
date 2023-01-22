@@ -114,22 +114,31 @@ export default function Home() {
                             I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
                           </p>  
                           </div>
-              <div  className={styles.footer}>
-                <p className={styles.items}>
-                   <a href="https://www.pexels.com/photo/black-mug-with-religious-text-from-holy-bible-4200823/"> Photos by Jessica Lewis Creative 
-                  </a>
-                </p>
+            
 
-               <p className={styles.description}>
+              </div>
+          </div>
+                       <p className={styles.description}>
           
           <code className={styles.publisher}>Coded, Published & Deployed by His servant: Jason Daniel Nutt </code>
         </p>
 
-              </div>
-          </div>
-                    
-    
       </main>
+
+      <footer className={styles.footer}>
+        <a
+          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Powered by{' '}
+          <span className={styles.logo}>
+            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
+          </span>
+        </a>
+      </footer>
+    
+     
 
     </div>
   )
