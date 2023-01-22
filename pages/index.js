@@ -116,14 +116,15 @@ export default function Home() {
                           </div>
               <div  className={styles.footer}>
                 <p className={styles.items}>
-                   <a href="https://www.pexels.com/photo/black-mug-with-religious-text-from-holy-bible-4200823/"> Photo by Jessica Lewis Creative 
+                   <a href="https://www.pexels.com/photo/black-mug-with-religious-text-from-holy-bible-4200823/"> Photos by Jessica Lewis Creative 
                   </a>
                 </p>
-                 <p className={styles.items}>
-                    <a href="https://www.facebook.com/jacob.daleandro.7"> Design inspired by Jake Daleandro
-                   </a>
-                 
-                 </p>
+
+               <p className={styles.description}>
+          
+          <code className={styles.publisher}>Coded, Published & Deployed by His servant: Jason Daniel Nutt </code>
+        </p>
+
               </div>
           </div>
                     
