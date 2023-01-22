@@ -1,5 +1,6 @@
 .container {
   background-image: url(/tea-stained.jpg);
+  background-size: cover;
   display: grid;
   align-items: center;
   justify-content: center;
