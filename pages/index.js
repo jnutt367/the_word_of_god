@@ -118,12 +118,13 @@ export default function Home() {
 
               </div>
           </div>
+ </main>
                        <p className={styles.description}>
           
           <code className={styles.publisher}>Coded, Published & Deployed by His servant: Jason Daniel Nutt </code>
         </p>
 
-      </main>
+     
 
       <footer className={styles.footer}>
         <a
