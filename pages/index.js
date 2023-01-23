@@ -115,10 +115,8 @@ export default function Home() {
                           </p>  
                           </div>
             
-
-              
-        
- </main>
+                  </div>
+            </main>
     </div>
   )
 }
