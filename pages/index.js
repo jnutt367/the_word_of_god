@@ -18,6 +18,7 @@ export default function Home() {
                 <h1 className={styles.title}>
                     <a href="https://en.wikipedia.org/wiki/Bible" target="_blank">BIBLE</a>
                 </h1>
+       <h2>New International Version</h2>     
              <p className={styles.transcribed}>
                     Transcribed by: Jason Daniel Nutt
              </p>
