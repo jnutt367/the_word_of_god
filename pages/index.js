@@ -18,7 +18,7 @@ export default function Home() {
                 <h1 className={styles.title}>
                     <a href="https://en.wikipedia.org/wiki/Bible" target="_blank">BIBLE</a>
                 </h1>
-       <h2>New International Version</h2>     
+        
              <p className={styles.transcribed}>
                     Transcribed by: Jason Daniel Nutt
              </p>
@@ -33,7 +33,7 @@ export default function Home() {
                              
                          
                     <p className={styles.new}>
-                         THE NEW TESTAMENT        
+                         THE NEW TESTAMENT NIV       
                     </p>
                         <ul className={styles.index}>
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
