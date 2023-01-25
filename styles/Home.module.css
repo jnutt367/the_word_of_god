@@ -8,6 +8,8 @@
 }
 .holy {
   backgroud-color: silver;
+  text-shadow: #FC0 1px 0 10px;
+  color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
    top: -38px;
