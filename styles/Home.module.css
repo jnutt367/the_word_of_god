@@ -1,5 +1,5 @@
 .container {
-  background-image: url(/tea-stained.jpg);
+  background-image: url(/yuckpaper.avif);
   background-size: cover;
   display: grid;
   align-items: center;
@@ -19,7 +19,7 @@
   tex-align: left;
 }
 .main {
-  background-image: url(/tea-stained.jpg);
+  background-image: url(/yuckpaper.avif);
   background-size: cover;
   position:relative;
   top: 10px;
@@ -58,7 +58,7 @@
   padding: 20px;
 }
 .index  {
-  background-image: url(/tea-stained.jpg);
+  background-image: url(/yuckpaper.avif);
   background-size: cover;
   position: relative;
    top: -25px;
