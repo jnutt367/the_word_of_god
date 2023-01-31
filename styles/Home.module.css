@@ -76,9 +76,8 @@
   grid-gaps: 10px;
   border: 1px solid grey;
   color: white; 
-  text-shadow: 	#FFBF00 1px 0 10px;
+  text-shadow: 	#36454F 1px 0 10px;
   padding: 10px;
-  padding-left: 100px;
   line-height:1.5;
 }
 .li:hover,
