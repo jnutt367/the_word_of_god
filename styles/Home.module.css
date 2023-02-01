@@ -74,8 +74,9 @@
   text-align: center;
   width:100vw;
   grid-gaps: 10px;
+  font-size: 20px;
   border: 1px solid grey;
-  color: black; 
+  color: orange; 
   text-shadow: 	white 2px 0 10px;
   padding: 10px;
   line-height:1.5;
