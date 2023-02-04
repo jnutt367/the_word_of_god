@@ -23,6 +23,7 @@ export default function Home() {
                     Transcribed by: Jason Daniel Nutt
              </p>
                           <div className={styles.hero}>
+                              <div  className={styles.image}>
                              <Image 
                                 src="/prayingjesus.jpg"
                                 alt="jerusalem"
@@ -30,7 +31,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                             
+                             </div>
                          
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
