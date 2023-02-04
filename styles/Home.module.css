@@ -1,5 +1,5 @@
 .container {
-  background-image: url(/yuckpaper.avif);
+  background-color: white;
   background-size: cover;
   display: grid;
   align-items: center;
@@ -9,7 +9,7 @@
 .holy {
   backgroud-color: silver;
   text-shadow: #FC0 1px 0 10px;
-  color: white;
+  color: black;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
    top: -38px;
@@ -19,7 +19,7 @@
   tex-align: left;
 }
 .main {
-  background-image: url(/yuckpaper.avif);
+  background-color: white;
   background-size: cover;
   position:relative;
   top: 10px;
@@ -30,7 +30,7 @@
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: #FC0 1px 0 10px;
-  color: white;
+  color: black;
   font-size: 64px;
   padding-left: 5px;
   margin-bottom: 4.4rem;
@@ -58,10 +58,10 @@
   padding: 20px;
 }
 .index  {
-  background-image: url(/yuckpaper.avif);
+  background-color: white;
   background-size: cover;
   position: relative;
-   top: -25px;
+  top: -25px;
   display: grid;
   grid-gaps: 10px;
   justify-content: space-around;
@@ -69,7 +69,7 @@
   list-style-type: none;
 }
 .li {
-  backgroud-color:  #800080;
+  background-color: white;
   margin-left: -38px;
   text-align: center;
   width:100vw;
