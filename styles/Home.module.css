@@ -110,6 +110,7 @@
   algin-items: center;
   justify-content: center;
   color: black;
+  max-width: 500px;
 }
 .testimony {
   text-align: center;
