@@ -42,7 +42,7 @@
   backgroud-color:  #800080;
 }
 .transcribed {
-   color: white;
+   color: black;
    position: relative;
    top: -160px;
    padding-left: 8px;
@@ -70,13 +70,12 @@
 }
 .li {
   background-color: white;
-  margin-left: -38px;
   text-align: center;
   width:100vw;
   grid-gaps: 10px;
   font-size: 20px;
   border: 1px solid grey;
-  color: white; 
+  color: black; 
   text-shadow: 	black 10px 20px 20px;
   padding: 10px;
   line-height:1.5;
