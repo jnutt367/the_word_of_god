@@ -132,7 +132,12 @@
         padding-right: 300px;    
   }
 }
-
+@media (min-width: 769px) {
+  .aside {
+        padding-left: 150px;
+        padding-right: 150px;  
+  }
+} 
 @media (max-width: 769px) {
     .image {
         padding: 0;
