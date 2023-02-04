@@ -119,6 +119,14 @@
   padding-left: 30px;
   padding-right: 30px;
 }
+
+@media (min-width: 1080px) {
+         .image {
+        padding-left: 200px;
+        padding-right: 200px;     
+    }
+}
+
 @media (max-width: 769px) {
     .image {
         padding: 0;
