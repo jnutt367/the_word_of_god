@@ -36,6 +36,14 @@
   margin-bottom: 4.4rem;
   tex-align: left;
 }
+.image {
+    padding-left: 100px;
+    padding-right: 100px;
+    display: grid;
+    place-items: center;
+    max-height: 900px; 
+    margin-bottom: 1.5rem;
+}
 .hero {
   position:relative;
   top: -170px;
@@ -111,4 +119,8 @@
   padding-left: 30px;
   padding-right: 30px;
 }
-
+@media (max-width: 769px) {
+    .image {
+        padding: 0;
+    }
+}
