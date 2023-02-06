@@ -14,6 +14,7 @@
   top: 10px;
 }
 .holy {
+  margin-top: 5px;
   backgroud-color: silver;
   text-shadow: #ffa500 1px 0 10px;
   color: black;
@@ -40,6 +41,7 @@
   align-items: center;
   justify-items: center;
   tex-align: left;
+  margin-bottom: 10px;
 }
 
 .image {
@@ -155,7 +157,7 @@
          display: block;
          padding: 0;
          text-align: left;
-         top: -50px;
+         top: -46px;
     }
     .title {
         display: block;
