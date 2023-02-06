@@ -20,7 +20,6 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   top: -38px;
-  left: 5px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -31,7 +30,6 @@
 .title {
   position: relative;
   top: -80px;
-  left: 5px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: #ffa500 1px 0 10px;
@@ -161,14 +159,17 @@
          padding: 0;
          text-align: left;
          top: -46px;
+         left: 15px;
     }
     .title {
         display: block;
         padding: 0;
+        left: 15px;
         text-align: left;
         top: -100px;
     }
   .transcribed {
       text-align: left;
+      left: 15px;
   }
 }
