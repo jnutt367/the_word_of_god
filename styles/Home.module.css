@@ -20,7 +20,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   top: -38px;
-  left: -5px;
+  left: 5px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -31,7 +31,7 @@
 .title {
   position: relative;
   top: -80px;
-  left: -5px;
+  left: 5px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: #ffa500 1px 0 10px;
@@ -63,7 +63,7 @@
    text-align:center;
    color: black;
    position: relative;
-   top: -125px;
+   top: -115px;
    padding-left: 8px;
    padding: 5px;
    font-size: 12px;
