@@ -56,7 +56,6 @@
   backgroud-color:  #800080;
 }
 .transcribed {
-   text-align: center;
    color: black;
    position: relative;
    top: -160px;
@@ -164,7 +163,5 @@
         text-align: left;
         top: -100px;
     }
-    .transcribed {
-    text-align: left;
-    }
+   
 }
