@@ -153,9 +153,6 @@
     .image {
         padding: 0;
     }
-  .li {
-        width: 100%;
-  }
 }
 @media (max-width: 769px) {
   .holy {
