@@ -153,7 +153,8 @@
         padding: 0;
     }
   .li {
-        width: auto;
+        width: 100%;
+         margin: 0;
   }
 }
 @media (max-width: 769px) {
