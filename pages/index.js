@@ -36,75 +36,7 @@ export default function Home() {
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
-                        <ul className={styles.index}>
-                      <a href="https://matthew-coral.vercel.app/" target="_blank">  
-                          <li className={styles.li}>The gospel of Matthew</li>  
-                      </a>
-                      <a href="https://mark-alpha.vercel.app/" target="_blank">  
-                           <li className={styles.li}>The gospel of Mark</li> 
-                      </a>
-                      <a href="https://luke-three.vercel.app/" target="_blank">  
-                            <li className={styles.li}>The gospel of Luke</li> 
-                       </a>
-                       <a href="https://john-zeta.vercel.app/" target="_blank">  
-                           <li className={styles.li}>The gospel of John</li> 
-                       </a>
-                       <a href="https://acts-zeta.vercel.app/" target="_blank">  
-                           <li className={styles.li}>Acts of the Apostles</li> 
-                       </a>
-                       <a href="https://romans-five.vercel.app/" target="_blank">
-                            <li className={styles.li}>Letter of Paul to the Romans</li>  
-                        </a>
-                        <a href="https://first-corinthians.vercel.app/" target="_blank">
-                           <li className={styles.li}>I Corinthians</li>  
-                        </a>
-                        <a href="https://second-corinthians.vercel.app/" target="_blank">
-                            <li className={styles.li}>II Corinthians</li> 
-                        </a>
-                        <a href="https://galatians.vercel.app/" target="_blank">
-                           <li className={styles.li}>Letter of Paul to the Galatians</li>  
-                        </a>
-                        <a href="https://ephesians.vercel.app/" target="_blank">
-                           <li className={styles.li}>Letter of Paul to the Ephesians</li>  
-                        </a>
-                      
-                        <a href="https://phillipians.vercel.app/" target="_blank">
-                               <li className={styles.li}>Letter of Paul to the Philippians</li>  
-                        </a>
-                         
-                        <a href="https://colossians.vercel.app/" target="_blank">
-                            <li className={styles.li}>Letter of Paul to the Colossians</li>  
-                        </a>
-                        <a href="https://first-thessalonians.vercel.app/" target="_blank">
-                           <li className={styles.li}>I Thessalonians</li> 
-                        </a>
-                        <a href="https://second-thessalonians.vercel.app/" target="_blank">
-                           <li className={styles.li}>II Thessalonians</li>  
-                        </a>
-                        <a href="https://first-timothy.vercel.app/" target="_blank">
-                             <li className={styles.li}>I Timothy</li>  
-                        </a>
-                        <a href="https://second-timothy.vercel.app/" target="_blank">
-                           <li className={styles.li}>II Timothy</li> 
-                        </a>
                      
-                            <li className={styles.li}>Letter of Paul to Titus</li>  
-                           <li className={styles.li}>Letter of Paul to Philemon</li>  
-                           <li className={styles.li}>Letter to the Hebrews</li>  
-
-
-                               <li className={styles.li}>Letter of James</li>  
-                           <li className={styles.li}>I Peter</li>  
-                            <li className={styles.li}>II Peter</li>  
-                           <li className={styles.li}>I John</li>  
-                           <li className={styles.li}>II John</li>  
-                           
-                           <li className={styles.li}>III John</li>  
-                           <li className={styles.li}>Letter of Jude</li>  
-                            <li className={styles.li}>The Revelation to John</li>  
-                         
-                           
-                        </ul>
                         <div className={styles.aside}>
                           <h2 className={styles.testimony}>
                             My Testimony:
