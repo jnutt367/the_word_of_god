@@ -5,6 +5,7 @@
   align-items: center;
   justify-content: center;
   text-align: left;
+  position: relative;
 }
 
 .main {
@@ -27,7 +28,7 @@
   tex-align: left;
 }
 .title {
-  position: relative;
+  position: sticky;
   top: -80px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
@@ -42,7 +43,6 @@
 }
 
 .image {
-    position: sticky;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
