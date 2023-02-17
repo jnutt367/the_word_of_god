@@ -1,6 +1,6 @@
 .container {
-  background-color: white;
-  background-size: cover;
+  background-color: #ffa500;
+  opacity: 0.5;
   display: grid;
   align-items: center;
   justify-content: center;
