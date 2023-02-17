@@ -1,6 +1,5 @@
 .container {
   background-color: #ffa500;
-  opacity: 0.5;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -9,7 +8,7 @@
 }
 
 .main {
-  background-color: white;
+  background-color:  #ffa500;
   background-size: cover;
   position:relative;
   top: 10px;
@@ -76,7 +75,7 @@
   padding: 20px;
 }
 .index  {
-  background-color: white;
+  background-color: #ffa500;
   background-size: cover;
   position: relative;
   top: -25px;
