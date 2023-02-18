@@ -92,6 +92,7 @@
   background-color: white;
   text-align: center;
   margin-left: -42px;
+  z-index: 10;
   width:100vw;
   grid-gaps: 10px;
   font-size: 20px;
