@@ -1,5 +1,6 @@
 .container {
   background-color: #ffa500;
+  opacity: 0.6;
   display: grid;
   align-items: center;
   justify-content: center;
