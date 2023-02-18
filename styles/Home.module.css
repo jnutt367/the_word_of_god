@@ -9,7 +9,8 @@
 
 .main {
   background-color:  black;
-  opacity: 0.85;
+  opacity: 0.9;
+  margin-left: 20px;
   background-size: cover;
   position:relative;
   top: 10px;
