@@ -107,6 +107,7 @@
 .li:focus,
 .li:active {
   border: 2px solid black;
+  color: white;
   background-color: #ffa500;
   opacity: 0.85;
   cursor:pointer;
