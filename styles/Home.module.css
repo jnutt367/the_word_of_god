@@ -9,6 +9,7 @@
 
 .main {
   background-color:  #ffa500;
+  opacity: 0.8;
   background-size: cover;
   position:relative;
   top: 10px;
@@ -115,6 +116,7 @@
   grid-template-columns: 2fr 2fr;
 }
 .aside {
+  background-color: white;
   display: grid;
   algin-items: center;
   justify-content: center;
