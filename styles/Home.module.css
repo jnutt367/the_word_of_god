@@ -59,7 +59,8 @@
 }
 .transcribed {
    text-align:center;
-   color: white;
+   color: black;
+   font-weight: bolder;
    position: relative;
    top: -115px;
    padding-left: 8px;
