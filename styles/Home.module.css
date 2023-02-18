@@ -1,7 +1,6 @@
 .container {
   background-color: black;
   width: 100%;
-  margin-left: 15px;
   display: grid;
   align-items: center;
   justify-content: center;
@@ -177,5 +176,8 @@
   .transcribed {
       text-align: left;
       left: 15px;
+  }
+  .container {
+      margin-left: 15px;
   }
 }
