@@ -106,8 +106,8 @@
 .li:active {
   border: 2px solid black;
   color: white;
-  background-color: #ffa500;
-  opacity: 0.9;
+  background-color:  #ED7014;
+  opacity: 1;
   cursor:pointer;
 }
 .footer {
