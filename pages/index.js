@@ -42,12 +42,8 @@ export default function Home() {
                              <Image 
                                 src="/mark-github.svg"
                                 alt="jerusalem"
-                                 fill
-      sizes="(max-width: 768px) 100vw,
-              (max-width: 1200px) 50vw,
-              33vw"
-    
-                                priority
+                                height={75}
+                                width={2000}
                               />
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
