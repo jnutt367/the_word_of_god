@@ -36,6 +36,15 @@ export default function Home() {
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
+                    
+ <Image 
+                                src="/logo-github.svg"
+                                alt="jerusalem"
+                                height={100}
+                                width={100}
+                                priority
+                              />
+
                         <ul className={styles.index}>
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
                           <li className={styles.li}>The gospel of Matthew</li>  
