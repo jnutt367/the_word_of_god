@@ -38,7 +38,7 @@ export default function Home() {
                     </p>
                     
  <Image 
-                                src="/logo-github.svg"
+                                src="/mark-github.svg"
                                 alt="jerusalem"
                                 height={100}
                                 width={100}
