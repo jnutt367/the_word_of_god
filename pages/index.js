@@ -39,12 +39,6 @@ export default function Home() {
             
 
                         <ul className={styles.index}>
-                             <Image 
-                                src="/mark-github.svg"
-                                alt="jerusalem"
-                                height={75}
-                                width={2000}
-                              />
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
                           <li className={styles.li}>The gospel of Matthew</li>  
