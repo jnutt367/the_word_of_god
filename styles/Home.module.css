@@ -119,12 +119,12 @@
   grid-template-columns: 2fr 2fr;
 }
 .aside {
-  background-color: white;
+  background-color: black;
   display: grid;
   algin-items: center;
   justify-content: center;
   align-self: center;
-  color: black;
+  color: white;
   text-align: center;
 }
 .testimony {
