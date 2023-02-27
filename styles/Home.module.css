@@ -18,7 +18,7 @@
   backgroud-color: silver;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  position: relative;
+  position: sticky;
   top: -38px;
   font-size: 36px;
   display: grid;
@@ -28,7 +28,7 @@
   tex-align: left;
 }
 .title {
-  position:relative;
+  position: sticky;
   top: -80px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
