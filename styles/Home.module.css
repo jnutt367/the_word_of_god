@@ -27,6 +27,7 @@
   tex-align: left;
 }
 .title {
+  position:relative;
   top: -80px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
