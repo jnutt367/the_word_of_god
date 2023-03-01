@@ -87,7 +87,7 @@
   position: relative;
   top: -25px;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10%;
   justify-content: space-around;
   background-color: transparent;
   list-style-type: none; 
