@@ -143,12 +143,12 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 200px;
-        padding-right: 200px;     
+        padding-left: 100px;
+        padding-right: 100px;     
     }
   .aside {
          padding-left: 300px;
-        padding-right: 300px;    
+         padding-right: 300px;    
   }
 }
 @media (min-width: 769px) {
