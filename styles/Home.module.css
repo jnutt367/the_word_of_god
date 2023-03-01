@@ -87,7 +87,7 @@
   position: relative;
   top: -25px;
   display: grid;
-  gap: 10%;
+  gap: 0.5%;
   justify-content: space-around;
   background-color: transparent;
   list-style-type: none; 
