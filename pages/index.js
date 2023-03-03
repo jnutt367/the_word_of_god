@@ -36,9 +36,13 @@ export default function Home() {
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
-            
+         <a href="https://proverbs.vercel.app/" target="_blank"> 
+             <p className={styles.new}>
+                        PROVERBS      
+                    </p>
+          </a>
 
-                        <ul className={styles.index}>
+                    <ul className={styles.index}>
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
                           <li className={styles.li}>The gospel of Matthew</li>  
