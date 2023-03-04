@@ -76,8 +76,10 @@
    font-weight: 900;
    padding: 20px;
    text-align: center;
-   width:100%;
-  border: 2px solid #ffa500;
+   border: 2px solid #ffa500;
+   margin-left: -42px;
+   z-index: 10;
+   width:100vw;
 }
 .proverbs:hover,
 .proverbs:focus,
