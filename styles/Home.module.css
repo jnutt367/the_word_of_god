@@ -76,7 +76,7 @@
    font-weight: 900;
    padding: 20px;
    text-align: center;
-   width:100vw;
+   width:100%;
   border: 2px solid #ffa500;
 }
 .proverbs:hover,
