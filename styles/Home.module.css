@@ -76,6 +76,8 @@
    font-weight: 900;
    padding: 20px;
    text-align: center;
+   width:100vw;
+  border: 2px solid #ffa500;
 }
 
 .new {
