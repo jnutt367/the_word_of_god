@@ -169,7 +169,10 @@
   padding-left: 30px;
   padding-right: 30px;
 }
-
+.a {
+  color: #ffa500;
+  padding-right: 5px;
+}
 @media (min-width: 1080px) {
          .image {
         padding-left: 100px;
