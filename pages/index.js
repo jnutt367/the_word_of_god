@@ -31,12 +31,13 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                             </div>
-                           <a href="https://proverbs.vercel.app/" target="_blank"> 
+                                    <a href="https://proverbs.vercel.app/" target="_blank"> 
              <p className={styles.proverbs}>
                         PROVERBS      
                     </p>
           </a>
+                             </div>
+                         
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
