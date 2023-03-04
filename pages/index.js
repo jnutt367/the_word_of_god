@@ -132,7 +132,15 @@ export default function Home() {
                             I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
                           </p>  
                           </div>
-            
+            <div  className={styles.image}>
+       <Image
+                                src="/istockphoto-1165307675-612x612.jpg"
+                                alt="Jesus carries the cross"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>     
                   </div>
             </main>
     </div>
