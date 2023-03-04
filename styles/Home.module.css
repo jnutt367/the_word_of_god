@@ -92,7 +92,7 @@
   opacity: 1;
   cursor:pointer;
 }
-.proverbs:hover + .hide {
+.proverbs:hover .hide {
   display: block;
   color: red;
 }
