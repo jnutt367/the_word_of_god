@@ -89,6 +89,13 @@
   opacity: 1;
   cursor:pointer;
 }
+.proverbs:hover + .hide {
+  display: block;
+  color: red;
+}
+.hide {
+  display:none;
+}
 .new {
   position: relative;
   top: -15px;
