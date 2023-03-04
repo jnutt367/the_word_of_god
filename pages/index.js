@@ -36,6 +36,8 @@ export default function Home() {
                         PROVERBS      
                     </p>
           </a>
+                  <p className={styles.hide}> understanding proverbs and parables,
+    the sayings and riddles of the wise.</p>
                              </div>
                          
                     <p className={styles.new}>
