@@ -32,15 +32,15 @@ export default function Home() {
                                 priority
                               />
                              </div>
-                         
-                    <p className={styles.new}>
-                         THE NEW TESTAMENT NIV       
-                    </p>
-         <a href="https://proverbs.vercel.app/" target="_blank"> 
-             <p className={styles.new}>
+                           <a href="https://proverbs.vercel.app/" target="_blank"> 
+             <p className={styles.proverbs}>
                         PROVERBS      
                     </p>
           </a>
+                    <p className={styles.new}>
+                         THE NEW TESTAMENT NIV       
+                    </p>
+       
 
                     <ul className={styles.index}>
                          
