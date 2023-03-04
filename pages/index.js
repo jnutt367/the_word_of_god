@@ -35,9 +35,10 @@ export default function Home() {
              <p className={styles.proverbs}>
                         PROVERBS      
                     </p>
-          </a>
-                  <p className={styles.hide}> understanding proverbs and parables,
+               <p className={styles.hide}> understanding proverbs and parables,
     the sayings and riddles of the wise.</p>
+          </a>
+                 
                              </div>
                          
                     <p className={styles.new}>
