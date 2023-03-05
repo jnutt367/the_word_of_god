@@ -141,11 +141,11 @@ export default function Home() {
        <Image
                                 src="/istockphoto-1165307675-612x612.jpg"
                                 alt="Jesus carries the cross"
-                                height={900}
-                                width={2000}
+                                height={1800}
+                                width={2800}
                                 priority
                               />
-           <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjonathan.harlan.184%2Fposts%2Fpfbid02XF8j1FShmgTaEPGV3cEDyLS4rw3kmD78DQuvdY8MYsiaQwUdpuKCN9hRrq3p4fWtl&show_text=true&width=500" width="500" height="859" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+           
         </div>     
                   </div>
             </main>
