@@ -31,9 +31,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                                    <a href="https://proverbs.vercel.app/" target="_blank"> 
-            
-          </a>
+                                   
                  
                              </div>
                          
@@ -131,7 +129,7 @@ export default function Home() {
                           <p className={styles.paragraph}>
                             I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
                           </p>  
-                           <a className={styles.a} href="https://proverbs.vercel.app/"
+                           <a className={styles.proverbs} href="https://proverbs.vercel.app/"
                             
                         PROVERBS      
                       </a>
