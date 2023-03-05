@@ -131,9 +131,10 @@ export default function Home() {
                           <p className={styles.paragraph}>
                             I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
                           </p>  
+                           <a className={styles.a} href="https://proverbs.vercel.app/"
                              <p className={styles.proverbs}>
                         PROVERBS      
-                    </p>
+                    </p>   </a>
                <p className={styles.hide}> understanding proverbs and parables,
     the sayings and riddles of the wise.</p>
                           </div>
