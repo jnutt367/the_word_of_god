@@ -139,10 +139,10 @@ export default function Home() {
                           </div>
             <div  className={styles.image}>
        <Image
-                                src="/istockphoto-1165307675-612x612.jpg"
-                                alt="Jesus carries the cross"
-                                height={1800}
-                                width={2800}
+                                src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fjonathan.harlan.184%2Fposts%2Fpfbid0ThVY65pLvUTvkzVfGTE1zbxRimTD3e4BcerTtwf78haDfJ5TYBPnjuj1Mq8ecXyxl&show_text=true&width=500" width="500" height="859" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share">
+                                alt="Testimonial from Jon"
+                                 width={500}
+                                 height={500}
                                 priority
                               />
            
