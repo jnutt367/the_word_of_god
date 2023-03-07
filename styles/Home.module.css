@@ -17,6 +17,9 @@
   position:relative;
   top: 10px;
 }
+.give {
+  text-align: center;
+}
 .holy {
   backgroud-color: silver;
   position:relative;
