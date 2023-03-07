@@ -133,6 +133,9 @@ export default function Home() {
                             
                         PROVERBS      
                       </a>
+                       <a className={styles.proverbs} href="https://gofund.me/74b25232">
+                         GoFundThisBibleApp
+                         </a>
                <p className={styles.hide}> understanding proverbs and parables,
     the sayings and riddles of the wise.</p>
                           </div>
