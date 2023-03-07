@@ -137,7 +137,9 @@ export default function Home() {
                        <a className={styles.proverbs} href="https://gofund.me/74b25232">
                          GoFundThisBibleApp
                          </a>
-<div className={styles.give} class="gfm-embed" data-url="https://www.gofundme.com/f/the-holy-bible-transcribed-by-jason-nutt/widget/small"></div>
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/the-holy-bible-transcribed-by-jason-nutt/widget/small">
+  
+  </div>
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
                <p className={styles.hide}> understanding proverbs and parables,
