@@ -38,9 +38,9 @@ export default function Home() {
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
-        <a className={styles.proverbs} href="https://gofund.me/74b25232">
-                         GoFundThisBibleApp
-                         </a>
+     <a href="https://gofund.me/a2b590af" target="_blank">  
+                          <p className={styles.fund}>Help Fund This Bible</p>  
+                      </a>
 
 
                     <ul className={styles.index}>
