@@ -1,6 +1,6 @@
 .container {
   background-color: black;
-  background-color: #ED7014;
+  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -10,8 +10,7 @@
 }
 
 .main {
-  background-color:  black;
-  background-color: #ED7014;
+  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 900px;
