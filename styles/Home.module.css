@@ -50,6 +50,8 @@
 .fund {
     text-align: center;
     color: white;
+    position: relative;
+    top: -30px;
     font-family: cursive, Fantasy;
 }
 .image {
