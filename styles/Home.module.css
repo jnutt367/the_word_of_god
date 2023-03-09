@@ -1,6 +1,6 @@
 .container {
   background-color: black;
-  background-image: url(/yuckpaper.avif);
+  background-color: #ED7014;
   width: 100%;
   display: grid;
   align-items: center;
@@ -11,7 +11,7 @@
 
 .main {
   background-color:  black;
-  background-image: url(/yuckpaper.avif);
+  background-color: #ED7014;
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 900px;
