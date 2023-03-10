@@ -52,7 +52,8 @@
     color: white;
     position: relative;
     top: -30px;
-    font-family: cursive, Fantasy;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 900;
 }
 .image {
     padding-left: 100px;
