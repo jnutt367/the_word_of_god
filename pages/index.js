@@ -38,8 +38,8 @@ export default function Home() {
                           <Image 
                                 src="/youtube_logo_dark.webp"
                                 alt="jerusalem"
-                                height={50}
-                                width={50}
+                                height={75}
+                                width={150}
                                 priority
                               />
                           </div>
