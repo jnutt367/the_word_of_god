@@ -48,6 +48,10 @@
   tex-align: left;
   margin-bottom: 10px;
 }
+.youtube {
+    position: relative;
+    z-index:10;
+}
 .fund {
     text-align: center;
     color: white;
