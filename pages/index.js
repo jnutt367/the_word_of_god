@@ -140,7 +140,7 @@ export default function Home() {
                        <a className={styles.proverbs} href="https://gofund.me/74b25232">
                          GoFundThisBibleApp
                          </a>
-
+                        <p className={styles.fund}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20</p> 
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
                <p className={styles.hide}> understanding proverbs and parables,
