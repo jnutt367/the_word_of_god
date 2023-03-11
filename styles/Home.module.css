@@ -55,19 +55,11 @@
     padding-right: 15px;
     padding-left: 15px;
     margin-top: 25px;
-    top: -30px;
+    top: -85px;
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
-.youtube {
-    padding: 0;
-    padding-left: 50px;
-    display: grid;
-    align-items: center;
-    justify-content: center;
-    height: 75px;
-    width: 200px;
-}
+
 .glory {
     text-align: center;
     color: white;
