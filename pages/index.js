@@ -43,7 +43,7 @@ export default function Home() {
                                 width={150}
                                 priority
                               />
-                               
+                       </a> 
                           </div>
  
                     <p className={styles.new}>
