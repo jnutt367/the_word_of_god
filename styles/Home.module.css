@@ -51,6 +51,8 @@
     text-align: center;
     color: white;
     position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
     margin-top: 25px;
     top: -30px;
     font-family:"Times New Roman", Times, serif;
