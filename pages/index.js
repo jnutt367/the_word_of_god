@@ -35,6 +35,7 @@ export default function Home() {
                  
                              </div>
                          <div className={styles.youtube}>
+                      <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw" target="_blank">     
                           <Image 
                                 src="/youtube_logo_dark.webp"
                                 alt="jerusalem"
