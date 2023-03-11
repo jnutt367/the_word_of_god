@@ -89,6 +89,10 @@
   top: -170px;
   backgroud-color:  #800080;
 }
+.youtube {
+    text-align: center;
+    padding: 0;
+}
 .transcribed {
    text-align:center;
    color: white;
