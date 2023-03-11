@@ -61,6 +61,8 @@
 }
 .youtube {
     padding: 0;
+    position: relative;
+    left: 100px;
     display: grid;
     align-items: center;
     justify-content: center;
@@ -137,7 +139,7 @@
 }
 .new {
   position: relative;
-  top: -45px;
+  top: -100px;
   text-align: center;
   background-color: black;
   color: white;
