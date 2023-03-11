@@ -61,7 +61,7 @@
 }
 .youtube {
     padding: 0;
-    position: relative;
+    padding-left: 50px;
     display: grid;
     align-items: center;
     justify-content: center;
