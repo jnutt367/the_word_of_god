@@ -36,7 +36,7 @@ export default function Home() {
                              </div>
                          <div className={styles.youtube}>
                           <Image 
-                                src="/youtube-icon-png-favpng-2fzN1w16ZWNcxH5W6VD8Bni39.jpg"
+                                src="/youtube_logo_dark.webp"
                                 alt="jerusalem"
                                 height={50}
                                 width={50}
