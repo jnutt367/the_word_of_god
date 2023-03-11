@@ -44,13 +44,7 @@ export default function Home() {
                               />
                                
                           </div>
-  <Image 
-                                src="/mark-github.svg"
-                                alt="jerusalem"
-                                height={75}
-                                width={75}
-                                priority
-                              />  
+ 
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
