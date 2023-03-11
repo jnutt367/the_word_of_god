@@ -58,6 +58,10 @@
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
+.youtube {
+    height: 75px;
+    width: 200px;
+}
 .glory {
     text-align: center;
     color: white;
