@@ -60,6 +60,10 @@
     font-weight: 900;
 }
 .youtube {
+    padding: 0;
+    display: grid;
+    align-items: center;
+    justify-content: center;
     height: 75px;
     width: 200px;
 }
@@ -89,10 +93,9 @@
   top: -170px;
   backgroud-color:  #800080;
 }
-.youtube {
-    text-align: center;
-    padding: 0;
-}
+
+    
+
 .transcribed {
    text-align:center;
    color: white;
