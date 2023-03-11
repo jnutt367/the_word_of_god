@@ -34,13 +34,15 @@ export default function Home() {
                                    
                  
                              </div>
+                         <div className={styles.youtube}>
                           <Image 
-                                src="/3d-square-with-youtube-logo_125540-1573.avif"
+                                src="/youtube-icon-png-favpng-2fzN1w16ZWNcxH5W6VD8Bni39.jpg"
                                 alt="jerusalem"
-                                height={30}
-                                width={30}
+                                height={50}
+                                width={50}
                                 priority
                               />
+                          </div>
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
