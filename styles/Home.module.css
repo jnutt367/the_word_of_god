@@ -53,6 +53,10 @@
     z-index:10;
     top: -10px;
     left: 100px;
+    display: grid;
+   align-items: center;
+   justify-items: center;
+   tex-align: center;
 }
 .fund {
     text-align: center;
