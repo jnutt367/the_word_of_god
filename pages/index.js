@@ -50,7 +50,7 @@ export default function Home() {
                          THE NEW TESTAMENT NIV       
                     </p>
      <a href="https://gofund.me/a2b590af" target="_blank">  
-                          <p className={styles.fund}>Help Fund This Bible</p>  
+                          <p className={styles.give}>Contribute 2 Project Funding</p>  
                          
                       </a>
                          <p className={styles.fund}>"Trust in the LORD with all your heart and lean not on your own understanding;
