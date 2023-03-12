@@ -58,12 +58,12 @@
    tex-align: center;
 }
 .give {
-    max-width: 325px;
     display: grid;
     align-items: center;
     justify-items: center;
     tex-align: center;
     color: white;
+    width: 330px;
     position: relative;
     padding-right: 5px;
     padding-left: 5px;
