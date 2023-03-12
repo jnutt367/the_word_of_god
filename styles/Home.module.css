@@ -57,6 +57,21 @@
    justify-items: center;
    tex-align: center;
 }
+.give {
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #ED7014;
+    border-radius: 4px;
+    margin-top: 25px;
+    top: -115px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 900;
+}
 .fund {
     text-align: center;
     color: white;
