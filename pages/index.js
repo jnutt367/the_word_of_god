@@ -51,6 +51,13 @@ export default function Home() {
                     </p>
      <a href="https://gofund.me/a2b590af" target="_blank">  
                           <p className={styles.fund}>Help Fund This Bible</p>  
+                          <Image 
+                                src="/favicon-tbn.png"
+                                alt="jerusalem"
+                                height={50}
+                                width={50}
+                                priority
+                              />
                       </a>
                          <p className={styles.fund}>"Whatever your hand finds to do, do it with all your might" Ecclesiastes 9:10</p> 
 
