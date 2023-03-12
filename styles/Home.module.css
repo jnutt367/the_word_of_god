@@ -58,6 +58,7 @@
    tex-align: center;
 }
 .give {
+    position: relative;
     display: grid;
     align-items: center;
     justify-items: center;
