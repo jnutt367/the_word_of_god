@@ -55,7 +55,7 @@ export default function Home() {
                       </a>
                          <p className={styles.fund}>"Trust in the LORD with all your heart and lean not on your own understanding;
  in all your ways submit to him, and he will make your paths straight.
- Do not be wise in your own eyes; fear the LORD and shun evil. (Proverbs 3:5-7)</p> 
+ Do not be wise in your own eyes; fear the LORD and shun evil." (Proverbs 3:5-7)</p> 
 
                     <ul className={styles.index}>
                          
