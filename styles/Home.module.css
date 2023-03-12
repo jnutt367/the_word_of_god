@@ -62,6 +62,7 @@
     align-items: center;
     justify-items: center;
     tex-align: center;
+    align-self: center;
     color: white;
     width: 330px;
     position: relative;
