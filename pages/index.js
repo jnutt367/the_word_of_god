@@ -53,7 +53,9 @@ export default function Home() {
                           <p className={styles.fund}>Help Fund This Bible</p>  
                          
                       </a>
-                         <p className={styles.fund}>"Whatever your hand finds to do, do it with all your might" Ecclesiastes 9:10</p> 
+                         <p className={styles.fund}>"Trust in the LORD with all your heart and lean not on your own understanding;
+ in all your ways submit to him, and he will make your paths straight.
+ Do not be wise in your own eyes; fear the LORD and shun evil. (Proverbs 3:5-7)</p> 
 
                     <ul className={styles.index}>
                          
