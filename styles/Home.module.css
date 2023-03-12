@@ -61,8 +61,8 @@
     text-align: center;
     color: white;
     position: relative;
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
     padding-top: 8px;
     padding-bottom: 8px;
     background-color: #ED7014;
@@ -71,6 +71,13 @@
     top: -115px;
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
+}
+.give:hover,
+.give:active,
+.give:focus {
+    background-color: white;
+    color: black;
+    border: 2px solid #ED7014;
 }
 .fund {
     text-align: center;
