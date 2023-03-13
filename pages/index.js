@@ -54,7 +54,7 @@ export default function Home() {
  in all your ways submit to him, and he will make your paths straight.
  Do not be wise in your own eyes;" (Proverbs 3:5-7)</p> 
   <a href="https://gofund.me/a2b590af" target="_blank">  
-                          <p className={styles.give}>Contribute 2 Project Funding</p>  
+                          <p className={styles.give}>Donate 2 Help Fund Project</p>  
                          
                       </a>
                     <ul className={styles.index}>
