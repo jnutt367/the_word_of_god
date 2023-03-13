@@ -49,14 +49,14 @@ export default function Home() {
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
-     <a href="https://gofund.me/a2b590af" target="_blank">  
-                          <p className={styles.give}>Contribute 2 Project Funding</p>  
-                         
-                      </a>
+   
                          <p className={styles.fund}>"Trust in the LORD with all your heart and lean not on your own understanding;
  in all your ways submit to him, and he will make your paths straight.
  Do not be wise in your own eyes;" (Proverbs 3:5-7)</p> 
-
+  <a href="https://gofund.me/a2b590af" target="_blank">  
+                          <p className={styles.give}>Contribute 2 Project Funding</p>  
+                         
+                      </a>
                     <ul className={styles.index}>
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
