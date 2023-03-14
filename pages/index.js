@@ -50,8 +50,7 @@ export default function Home() {
                          THE NEW TESTAMENT NIV       
                     </p>
    
-                         <p className={styles.fund}>"Trust in the LORD with all your heart and lean not on your own understanding;
- in all your ways submit to him, and he will make your paths straight." (Proverbs 3:5-6)</p> 
+                         <p className={styles.fund}>"in all your ways submit to him, and he will make your paths straight." (Proverbs 3:6)</p> 
   <a href="https://gofund.me/a2b590af" target="_blank">  
                           <p className={styles.give}>Donate 2 Help Fund Project</p>  
                          
