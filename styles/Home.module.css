@@ -61,12 +61,13 @@
     justify-items: center;
     tex-align: center;
     align-self: center;
-    color: white;
+    color: black;
     position: relative;
     padding-right: 5px;
     padding-left: 5px;
     padding-top: 8px;
     padding-bottom: 8px;
+    border-color: white;
     background-color: #89CFF0;
     border-radius: 4px;
     margin-top: 25px;
@@ -79,7 +80,7 @@
 .give:focus {
     background-color: white;
     color: black;
-    border: 2px solid #ED7014;
+    border: 2px solid #89CFF0;
 }
 .fund {
     text-align: center;
