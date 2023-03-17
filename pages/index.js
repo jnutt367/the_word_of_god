@@ -25,7 +25,7 @@ export default function Home() {
                           <div className={styles.hero}>
                               <div  className={styles.image}>
                              <Image 
-                                src="/prayingjesus.jpg"
+                                src="/depositphotos_66700939-stock-illustration-praying-christ.jpg"
                                 alt="jerusalem"
                                 height={900}
                                 width={2000}
