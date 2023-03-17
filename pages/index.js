@@ -25,7 +25,7 @@ export default function Home() {
                           <div className={styles.hero}>
                               <div  className={styles.image}>
                              <Image 
-                                src="/depositphotos_66700939-stock-illustration-praying-christ.jpg"
+                                src="/epiphany-characters-light-moon_23-2148798278.avif"
                                 alt="jerusalem"
                                 height={900}
                                 width={2000}
