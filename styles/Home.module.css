@@ -141,7 +141,7 @@
    padding-right: 100px;
    padding-left: 100px;
    text-align: center;
-   border: 2px solid #ffa500;
+   border: 2px solid  #89CFF0;
    width: 100%;
   
 }
@@ -151,7 +151,7 @@
 .proverbs:hover,
 .proverbs:focus,
 .proverbs:active {
-  background-color:  #ED7014;
+  background-color: #89CFF0;
   opacity: 1;
   cursor:pointer;
 }
@@ -202,7 +202,7 @@
 .li:active {
   border: 2px solid black;
   color: white;
-  background-color:  #ED7014;
+  background-color: #89CFF0;
   opacity: 1;
   cursor:pointer;
 }
