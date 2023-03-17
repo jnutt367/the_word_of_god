@@ -50,7 +50,7 @@ export default function Home() {
                          THE NEW TESTAMENT NIV       
                     </p>
    
-                         <p className={styles.fund}>"in all your ways submit to him, and he will make your paths straight." (Proverbs 3:6)</p> 
+                         <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
   <a href="https://gofund.me/a2b590af" target="_blank">  
                           <p className={styles.give}>Donate 2 Help Fund Project</p>  
                          
