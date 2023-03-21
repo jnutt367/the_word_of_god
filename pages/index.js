@@ -39,8 +39,8 @@ export default function Home() {
              <Image className={styles.arrow}
                                 src="/—Pngtree—vector money saving icon_4184467.png"
                                 alt="Left arrow"
-                                height={25}
-                                width={25}
+                                height={50}
+                                width={50}
                                 priority
                               />
        </a>
@@ -58,10 +58,10 @@ export default function Home() {
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <Image className={styles.arrow}
-                                src="/sub.png"
+                                src="/403-4039785_heart-with-social-media-logo-of-youtube-vector.png"
                                 alt="right arrow"
-                                 height={25}
-                                width={75}
+                                 height={50}
+                                width={50}
                                 priority
                               />
        </a>           
