@@ -113,6 +113,7 @@
     max-height: 900px; 
     margin-bottom: 1.5rem;
     margin-top: -10px;
+    border: 50px 0 10px solid #89CFF0;
 }
 .hero {
   margin-left: 0px;
@@ -278,4 +279,10 @@
   .container {
       margin-left: 15px;
   }
+}
+@media (min-width: 1080px) {
+         .image {
+        padding-left: 200px;
+        padding-right: 200px;     
+    }
 }
