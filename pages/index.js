@@ -58,7 +58,7 @@ export default function Home() {
         </a> 
          <a href="https://matthew-coral.vercel.app/">
             <Image className={styles.arrow}
-                                src="/chevron-right.svg"
+                                src="/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk4Mi1kNi0wOS5wbmc.webp"
                                 alt="right arrow"
                                  height={25}
                                 width={25}
