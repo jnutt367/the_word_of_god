@@ -94,7 +94,7 @@
     padding-right: 30px;
     padding-left: 30px;
     margin-top: 25px;
-    top: -300px;
+    top: -250px;
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
@@ -178,7 +178,7 @@
 }
 .new {
   position: relative;
-  top: -25px;
+  top: 10px;
   text-align: center;
   background-color: black;
   color: white;
