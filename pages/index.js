@@ -58,7 +58,7 @@ export default function Home() {
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <Image className={styles.arrow}
-                                src="/sub.png"
+                                src="/hd-youtube-logo-png-transparent-background-20.png"
                                 alt="right arrow"
                                  height={25}
                                 width={25}
