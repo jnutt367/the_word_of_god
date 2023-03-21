@@ -82,6 +82,11 @@
     color: black;
     border: 2px solid #89CFF0;
 }
+.arrow {
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+}
 .fund {
     text-align: center;
     color: white;
