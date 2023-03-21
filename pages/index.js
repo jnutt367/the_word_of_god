@@ -34,6 +34,39 @@ export default function Home() {
                                    
                  
                              </div>
+                      <div className={styles.nav}>           
+      <a href="https://gofund.me/a2b590af">
+             <Image className={styles.arrow}
+                                src="/—Pngtree—vector money saving icon_4184467.png"
+                                alt="Left arrow"
+                                height={25}
+                                width={25}
+                                priority
+                              />
+       </a>
+
+         <a href="#PayPalButton">
+          
+           <Image
+                                src="/chevron-down.svg"
+                                alt="Donate Button"
+                                height={25}
+                                width={25}
+                                priority
+                              />
+          
+        </a> 
+         <a href="https://matthew-coral.vercel.app/">
+            <Image className={styles.arrow}
+                                src="/chevron-right.svg"
+                                alt="right arrow"
+                                 height={25}
+                                width={25}
+                                priority
+                              />
+       </a>           
+         
+               </div>
                          <div className={styles.youtube}>
                       <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw" target="_blank">     
                           <Image 
