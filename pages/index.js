@@ -67,27 +67,14 @@ export default function Home() {
        </a>           
          
                </div>
-                         <div className={styles.youtube}>
-                      <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw" target="_blank">     
-                          <Image 
-                                src="/youtube_logo_dark.webp"
-                                alt="jerusalem"
-                                height={75}
-                                width={150}
-                                priority
-                              />
-                       </a> 
-                          </div>
+                        
  
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
    
                          <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
-  <a href="https://gofund.me/a2b590af" target="_blank">  
-                          <p className={styles.give}>Donate 2 Help Fund Project</p>  
-                         
-                      </a>
+  
                     <ul className={styles.index}>
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
