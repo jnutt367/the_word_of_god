@@ -58,7 +58,7 @@ export default function Home() {
         </a> 
          <a href="https://matthew-coral.vercel.app/">
             <Image className={styles.arrow}
-                                src="/png-transparent-youtube-logo-youtube-play-button-computer-icons-youtube-icon-angle-rectangle-desktop-wallpaper.png"
+                                src="/Black-youtube-icon-design-on-transparent-background-PNG.png"
                                 alt="right arrow"
                                  height={25}
                                 width={25}
