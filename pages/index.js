@@ -56,7 +56,7 @@ export default function Home() {
                               />
           
         </a> 
-         <a href="https://matthew-coral.vercel.app/">
+         <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <Image className={styles.arrow}
                                 src="/Black-youtube-icon-design-on-transparent-background-PNG.png"
                                 alt="right arrow"
