@@ -25,8 +25,8 @@ export default function Home() {
                           <div className={styles.hero}>
                               <div  className={styles.image}>
                              <Image 
-                                src="/manger.jpg"
-                                alt="jerusalem"
+                                src="/giphy.gif"
+                                alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
                                 priority
