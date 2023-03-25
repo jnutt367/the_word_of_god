@@ -37,10 +37,10 @@ export default function Home() {
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <Image className={styles.arrow}
-                                src="/414-4149629_paypal-donate-button-clipart-paypal-donate-button.png"
+                                src="/DONATE-BUTTON-RED.jpg"
                                 alt="Left arrow"
                                 height={25}
-                                width={25}
+                                width={75}
                                 priority
                               />
        </a>
