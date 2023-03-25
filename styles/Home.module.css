@@ -86,6 +86,10 @@
     height: 25px;
     width: 25px;
 }
+.donate {
+  background-color:#89CFF0;
+  opacity: 0.5;
+}
 .fund {
     text-align: center;
     color: white;
