@@ -37,7 +37,7 @@ export default function Home() {
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <Image className={styles.arrow}
-                                src="/—Pngtree—vector money saving icon_4184467.png"
+                                src="/414-4149629_paypal-donate-button-clipart-paypal-donate-button.png"
                                 alt="Left arrow"
                                 height={25}
                                 width={25}
