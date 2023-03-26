@@ -54,7 +54,7 @@ export default function Home() {
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <Image className={styles.donate}
-                                src="/utube.png"
+                                src="/utube.jpg"
                                 alt="right arrow"
                                  height={25}
                                 width={25}
