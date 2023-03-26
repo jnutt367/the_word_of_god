@@ -56,8 +56,8 @@ export default function Home() {
             <Image className={styles.donate}
                                 src="/utube.jpg"
                                 alt="right arrow"
-                                 height={25}
-                                width={25}
+                                 height={50}
+                                width={75}
                                 priority
                               />
        </a>           
