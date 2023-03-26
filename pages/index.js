@@ -37,7 +37,7 @@ export default function Home() {
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
-               Buy me a coffee
+               SUPPORT
                </p>
        </a>
 
