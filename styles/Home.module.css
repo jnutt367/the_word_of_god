@@ -87,9 +87,16 @@
     width: 25px;
 }
 .donate {
-  background-color:#89CFF0;
+  background-color:blue;
   opacity: 0.8;
   border-radius: 10px;
+  
+}
+.donate:hover,
+.donate:focus,
+.donate:active {
+  bacground-color: red;
+  color: white;
 }
 .fund {
     text-align: center;
