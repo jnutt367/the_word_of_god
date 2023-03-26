@@ -53,7 +53,7 @@ export default function Home() {
           
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
-            <Image className={styles.donate}
+            <Image className={styles.youtube}
                                 src="/utube.jpg"
                                 alt="right arrow"
                                  height={50}
