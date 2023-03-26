@@ -56,7 +56,9 @@ export default function Home() {
             <Image className={styles.youtube}
                                 src="/utube.jpg"
                                 alt="right arrow"
-                                fit
+                                height={55}
+                                width={75}
+                                padding-top={10} 
                                 priority
                               />
        </a>           
