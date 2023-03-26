@@ -56,8 +56,10 @@ export default function Home() {
             <Image className={styles.youtube}
                                 src="/utube.jpg"
                                 alt="right arrow"
-                                 height={50}
-                                width={75}
+                               fill
+      sizes="(max-width: 768px) 100vw,
+              (max-width: 1200px) 50vw,
+              33vw"
                                 priority
                               />
        </a>           
