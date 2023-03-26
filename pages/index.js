@@ -53,14 +53,9 @@ export default function Home() {
           
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
-            <Image className={styles.youtube}
-                                src="/utube.jpg"
-                                alt="right arrow"
-                                height={55}
-                                width={75}
-                                margin-top={20} 
-                                priority
-                              />
+            <p className={styles.donate}>
+              YouTube
+              </p>
        </a>           
          
                </div>
