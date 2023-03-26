@@ -58,7 +58,7 @@ export default function Home() {
                                 alt="right arrow"
                                 height={55}
                                 width={75}
-                                padding-top={10} 
+                                margin-top={20} 
                                 priority
                               />
        </a>           
