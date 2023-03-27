@@ -300,6 +300,9 @@
     }
 }
 @media (max-width: 769px) {
+  .image {
+        height: 700px;
+  }
   .holy {
          display: block;
          padding: 0;
