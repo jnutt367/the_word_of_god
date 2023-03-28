@@ -102,9 +102,9 @@
     width: 25px;
 }
 .donate {
-  background-color:blue;
+  background-color: white;
   opacity: 0.8;
-  color: white;
+  color: black;
   border-radius: 10px;
   padding: 10px;
   
@@ -112,7 +112,7 @@
 .donate:hover,
 .donate:focus,
 .donate:active {
-  background-color: red;
+  background-color: black;
   color: whitesmoke;
 }
 .fund {
