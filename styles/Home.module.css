@@ -267,9 +267,10 @@
   text-align: center;
 }
 .testimony {
+  position: relative;
   padding-top: 15px;
   text-align: center;
-  top: 220px;
+  top: 120px;
 }
 #testimony {
   top: 100px;
