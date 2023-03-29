@@ -38,7 +38,8 @@ export default function Home() {
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
-               SUPPORT
+               Support <br />
+                  Creator
                </p>
        </a>
 
@@ -55,7 +56,8 @@ export default function Home() {
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <p className={styles.donate}>
-              YouTube
+              You  < br />
+              Tube
               </p>
        </a>           
          
