@@ -271,6 +271,9 @@
   text-align: center;
   top: 220px;
 }
+#testimony {
+  top: 100px;
+}
 .paragraph {
   padding-left: 30px;
   padding-right: 30px;
