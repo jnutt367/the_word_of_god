@@ -41,13 +41,13 @@ export default function Home() {
                </p>
        </a>
 
-         <a href="#PayPalButton">
+         <a href="#testimony">
           
            <Image
                                 src="/chevron-down.svg"
                                 alt="Donate Button"
-                                height={25}
-                                width={25}
+                                height={50}
+                                width={50}
                                 priority
                               />
           
@@ -138,7 +138,7 @@ export default function Home() {
                            
                         </ul>
                         <div className={styles.aside}>
-                          <h2 className={styles.testimony}>
+                          <h2 id={testimony} className={styles.testimony}>
                             My Testimony:
                           </h2>
                           <p className={styles.paragraph}>
