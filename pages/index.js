@@ -24,14 +24,15 @@ export default function Home() {
              </p>
                           <div className={styles.hero}>
                               <div  className={styles.image}>
-                             <Image 
+                     <a href="https://matthew-coral.vercel.app/">
+                               <Image 
                                 src="/giphy.gif"
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                                   
+                     </a>
                  
                              </div>
                       <div className={styles.nav}>           
