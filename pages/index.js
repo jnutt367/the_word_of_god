@@ -39,7 +39,6 @@ export default function Home() {
       <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
                Support <br />
-                  Creator
                </p>
        </a>
 
@@ -56,8 +55,8 @@ export default function Home() {
         </a> 
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <p className={styles.donate}>
-              You  < br />
-              Tube
+              Community  < br />
+              
               </p>
        </a>           
          
