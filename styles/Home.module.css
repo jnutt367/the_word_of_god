@@ -325,16 +325,7 @@
       text-align: left;
       left: 15px;
   }
-  .nav {
-    top: 60px;
-    background-color: #89CFF0;
-    opacity: 1;
-    padding: 5px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    position: sticky;
-}
+  
   .container {
       margin-left: 15px;
   }
@@ -345,3 +336,7 @@
         padding-right: 200px;     
     }
 }
+@media (max-width 400px) {
+         .nav {
+          top:0;     
+    }
