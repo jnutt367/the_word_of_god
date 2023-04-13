@@ -308,6 +308,7 @@
 @media (max-width: 769px) {
   .image {
         height: 240px;
+        padding: 0;
   }
   .holy {
          display: block;
@@ -329,6 +330,9 @@
   .container {
       margin-left: 15px;
   }
+  .nav {
+   top: 2px;
+  }
 }
 @media (min-width: 1080px) {
          .image {
@@ -336,8 +340,4 @@
         padding-right: 200px;     
     }
 }
-@media (min-width 400px) {
-         .nav {
-          top:0;     
-    }
-}
+
