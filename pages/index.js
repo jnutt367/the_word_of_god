@@ -38,8 +38,9 @@ export default function Home() {
                                 priority
                               />
                      </a>
-                 <iframe type="text/html" width="100%" height="200" src="https://www.youtube.com/embed/rVDq-z6qneI?modestbranding=1&autoplay=1&loop=1&playlist=rVDq-z6qneI" frameborder="4" allow="autoplay" ></iframe>
+                
                              </div>
+ <iframe type="text/html" width="100%" height="200" src="https://www.youtube.com/embed/rVDq-z6qneI?modestbranding=1&autoplay=1&loop=1&playlist=rVDq-z6qneI" frameborder="4" allow="autoplay" ></iframe>
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
