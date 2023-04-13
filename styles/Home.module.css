@@ -330,9 +330,6 @@
   .container {
       margin-left: 15px;
   }
-  .nav {
-   top: 500px;
-  }
 }
 @media (min-width: 1080px) {
          .image {
