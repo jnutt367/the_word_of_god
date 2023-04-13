@@ -336,7 +336,7 @@
         padding-right: 200px;     
     }
 }
-@media (max-width 400px) {
+@media (min-width 400px) {
          .nav {
           top:0;     
     }
