@@ -11,7 +11,7 @@ export default function Home() {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
-        <title>The Holy Bible Transcribed by: Jason Nutt</title>
+        <title>The WORD of GOD: "Risen"</title>
         <meta name="description" content="The Holy Bible App" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -19,12 +19,16 @@ export default function Home() {
      
       <main className={styles.main}>
     
-       <h2 className={styles.holy}>THE HOLY</h2>
+       <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.title}>
-                    <a href="https://en.wikipedia.org/wiki/Bible" target="_blank">BIBLE</a>
+                    <a href="https://en.wikipedia.org/wiki/Bible" target="_blank">OF GOD</a>
                 </h1>
-        
+         <p className={styles.transcribed}>
+               
+                   "Risen"
+             </p>
              <p className={styles.transcribed}>
+               
                     Transcribed by: Jason Daniel Nutt
              </p>
                           <div className={styles.hero}>
