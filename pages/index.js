@@ -48,15 +48,15 @@ export default function Home() {
 <iframe width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <div className={styles.nav}>           
      
-         
-                <Image 
+         <a href="https://gofund.me/041664f2/">
+           <Image 
                                 src="/funding.png"
                                 alt="gofundme-icon"
                                 height={50}
                                 width={100}
                                 priority
                               />
-       
+       </a>
           
            <Image 
                                 src="/chevron-down.svg"
