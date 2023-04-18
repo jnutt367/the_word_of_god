@@ -56,7 +56,7 @@ export default function Home() {
                                 width={100}
                                 priority
                               />
-         <a href"#testimony" 
+       
           
            <Image 
                                 src="/chevron-down.svg"
@@ -66,7 +66,7 @@ export default function Home() {
                                 priority
                               />
           
-        </a> 
+     
          <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
             <p className={styles.donate}>
               YOUTUBE  < br />
