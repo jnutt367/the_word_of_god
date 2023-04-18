@@ -48,7 +48,7 @@ export default function Home() {
 <iframe width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <div className={styles.nav}>           
      
-           <a href"https://gofund.me/754323ae" 
+         
                 <Image 
                                 src="/funding.png"
                                 alt="gofundme-icon"
@@ -56,7 +56,6 @@ export default function Home() {
                                 width={100}
                                 priority
                               />
-          </a>
          <a href"#testimony" 
           
            <Image 
