@@ -46,8 +46,7 @@ export default function Home() {
                       <div className={styles.nav}>           
        <a href="#">
             <p className={styles.donate}>
-              SCROLL DOWN  < br />
-              
+              SCROLL DOWN 
               </p>
        </a>           
          <a href="https://gofund.me/754323ae">
@@ -60,14 +59,7 @@ export default function Home() {
                               />
        </a>
           
-           <Image 
-                                src="/chevron-down.svg"
-                                alt="DownButton"
-                                height={50}
-                                width={50}
-                                priority
-                              />
-          
+         
      
          <a href="#testimony">
             <p className={styles.donate}>
