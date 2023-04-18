@@ -49,13 +49,19 @@ export default function Home() {
                       <div className={styles.nav}>           
      
             <div className={styles.donate} url="https://www.gofundme.com/f/the-holy-bible-transcribed-by-jason-nutt/widget/small"></div>
-       
-
+<Image 
+                                src="/favicon-tbn.png"
+                                alt="gofundme-icon"
+                                height={50}
+                                width={100}
+                                priority
+                              />
+      
          <a href="#testimony">
           
            <Image
                                 src="/chevron-down.svg"
-                                alt="Donate Button"
+                                alt="DownButton"
                                 height={50}
                                 width={50}
                                 priority
