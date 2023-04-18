@@ -44,7 +44,8 @@ export default function Home() {
                      </a>
                 
                              </div>
- <iframe type="text/html" width="100%" height="200" src="https://youtu.be/J0p9Qp1cyfk" frameborder="4" allow="autoplay" ></iframe>
+ 
+<iframe type="text/html" width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="0" allow="accelerometer; allow-="autoplay"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
