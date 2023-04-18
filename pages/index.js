@@ -45,7 +45,7 @@ export default function Home() {
                 
                              </div>
  
-<iframe type="text/html" width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="0" allow="accelerometer; allow-="autoplay"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <div className={styles.nav}>           
       <a href="https://gofund.me/a2b590af">
              <p className={styles.donate}>
