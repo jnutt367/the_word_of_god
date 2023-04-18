@@ -48,7 +48,7 @@ export default function Home() {
 <iframe width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <div className={styles.nav}>           
      
-            <div className="gfm-embed" data-url="https://www.gofundme.com/f/the-holy-bible-transcribed-by-jason-nutt/widget/small"></div>
+            <div className={styles.donate} url="https://www.gofundme.com/f/the-holy-bible-transcribed-by-jason-nutt/widget/small"></div>
        
 
          <a href="#testimony">
