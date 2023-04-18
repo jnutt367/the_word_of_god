@@ -49,7 +49,7 @@ export default function Home() {
                       <div className={styles.nav}>           
      
          <a href="https://gofund.me/754323ae">
-           <Image 
+           <Image className={styles.donate}
                                 src="/funding.png"
                                 alt="gofundme-icon"
                                 height={50}
@@ -67,7 +67,7 @@ export default function Home() {
                               />
           
      
-         <a href="https://www.youtube.com/@JNUTTLOVEDISCIPLE">
+         <a href="#testimony">
             <p className={styles.donate}>
               TESTIMONY  < br />
               
