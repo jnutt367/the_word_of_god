@@ -23,13 +23,10 @@ export default function Home() {
                 <h1 className={styles.title}>
                     <a href="https://en.wikipedia.org/wiki/Bible" target="_blank">OF GOD</a>
                 </h1>
-         <p className={styles.transcribed}>
-               
-                   "Risen"
-             </p>
+       
              <p className={styles.transcribed}>
                
-                    Transcribed by: Jason Daniel Nutt
+                    "Risen": Transcribed by Jason Nutt
              </p>
                           <div className={styles.hero}>
                               <div  className={styles.image}>
@@ -52,8 +49,8 @@ export default function Home() {
            <Image className={styles.donate}
                                 src="/funding.png"
                                 alt="gofundme-icon"
-                                height={50}
-                                width={100}
+                                height={75}
+                                width={75}
                                 priority
                               />
        </a>
