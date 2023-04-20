@@ -42,11 +42,11 @@ export default function Home() {
                 
                              </div>
  
-<iframe width="100%" height="250" src="https://www.youtube.com/embed/3-3xRwS4J3Q" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/PLm892bys1I" title="YouTube video player" frameborder="4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                       <div className={styles.nav}>           
-       <a href="#">
+       <a href="#index">
             <p className={styles.donate}>
-              SCROLL DOWN 
+              SCROLL &darr; 
               </p>
        </a>           
          <a href="https://gofund.me/754323ae">
@@ -77,7 +77,7 @@ export default function Home() {
    
                          <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
   
-                    <ul className={styles.index}>
+                    <ul id="index" className={styles.index}>
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
                           <li className={styles.li}>The gospel of Matthew</li>  
