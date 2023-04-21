@@ -1,6 +1,6 @@
 .container {
   background-color: black;
- /* background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
+  background-image: url(/monophy.gif);
   width: 100%;
   display: grid;
   align-items: center;
@@ -11,7 +11,7 @@
 
 .main {
   background-color: black;
-  /* background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
+   background-image: url(/monophy.gif);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 900px;
