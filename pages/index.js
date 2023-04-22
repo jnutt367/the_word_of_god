@@ -21,7 +21,7 @@ export default function Home() {
     
        <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.title}>
-                    <a href="https://en.wikipedia.org/wiki/Bible" target="_blank">OF GOD</a>
+                    <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
        
              <p className={styles.transcribed}>
