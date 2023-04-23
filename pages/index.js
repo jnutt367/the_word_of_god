@@ -45,7 +45,7 @@ export default function Home() {
 <iframe width="100%" height="250" src="https://www.youtube.com/embed/dhsAjjz8WLk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
                       <div className={styles.nav}>           
-       <a href="#index">
+       <a href="https://jesusparables.vercel.app/">
             <p className={styles.donate}>
              PARABLES 
               </p>
@@ -63,9 +63,9 @@ export default function Home() {
          
      
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
-             <Image
+             <Image className={styles.youtubeicon}
                                 src="/youtube_logo_dark.webp"
-                                alt="gofundme-icon"
+                                alt="youtube icon"
                                 height={75}
                                 width={75}
                                 priority
