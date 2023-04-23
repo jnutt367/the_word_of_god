@@ -46,7 +46,9 @@
   tex-align: left;
   margin-bottom: 10px;
 }
-
+.youtubeicon {
+   border-radius: 50%;
+}
 .youtube {
     border-radius: 10px;
     position: relative;
