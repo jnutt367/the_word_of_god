@@ -47,7 +47,7 @@ export default function Home() {
                       <div className={styles.nav}>           
        <a href="#index">
             <p className={styles.donate}>
-              SCROLL &darr; 
+             PARABLES 
               </p>
        </a>           
          <a href="https://gofund.me/754323ae">
@@ -62,11 +62,14 @@ export default function Home() {
           
          
      
-         <a href="#testimony">
-            <p className={styles.donate}>
-              TESTIMONY  < br />
-              
-              </p>
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+             <Image
+                                src="/youtube_logo_dark.webp"
+                                alt="gofundme-icon"
+                                height={75}
+                                width={75}
+                                priority
+                              />
        </a>           
          
                </div>
