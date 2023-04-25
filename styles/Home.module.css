@@ -170,7 +170,9 @@
   backgroud-color:  #800080;
 }
 
-    
+.fb-video {
+  color: white;
+}  
 
 .transcribed {
    text-align:center;
