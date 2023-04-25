@@ -90,12 +90,12 @@ export default function Home() {
 
 
 
-  <div class="fb-video" data-href="https://fb.watch/k7ERr8W_C0/" data-width="500" data-show-text="false">
+  <div class="fb-video" data-href="https://fb.watch/k7Gd4OOF4Y/" data-width="100%" data-show-text="false">
     <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://fb.watch/k7ERr8W_C0/">
-        <a href="https://fb.watch/k7ERr8W_C0/">My testimony, when I first was getting sober, again...over 5 years ago!</a>
-        <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a>In December, 2018
+      <blockquote cite="https://fb.watch/k7Gd4OOF4Y/">
+        <a href="https://fb.watch/k7Gd4OOF4Y/">Ian & I making music for the PEOPLE!</a>
+        <p>God IS GOOD!</p>
+        Posted by <a href="https://www.facebook.com/DiscipleofChristJasonNutt">Jason Nutt</a>In December, 2019
       </blockquote>
     </div>
   </div>
