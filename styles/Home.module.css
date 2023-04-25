@@ -170,8 +170,14 @@
   backgroud-color:  #800080;
 }
 
-.fb-video {
-  color: white;
+.parables {
+  position: relative;
+  top: 10px;
+  text-align: center;
+  background-color: white;
+  color: black;
+  font-weight: 900;
+  padding: 2px;
 }  
 
 .transcribed {
