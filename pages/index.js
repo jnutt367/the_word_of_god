@@ -79,26 +79,7 @@ export default function Home() {
 
 
 
-
-
-  <div id="fb-root"></div>
-  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
-  
-
-
-
-
-
-  <div class="fb-video" data-href="https://fb.watch/k7HXfWIJ5X/" data-width="100%" data-show-text="true">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://fb.watch/k7HXfWIJ5X/">
-        <a href="https://fb.watch/k7HXfWIJ5X/">The beginning of a great JOURNEY!</a>
-        <p>God IS GOOD!</p>
-        Posted by <a href="https://www.facebook.com/DiscipleofChristJasonNutt">Jason Nutt</a>Over 5 years ago!
-      </blockquote>
-    </div>
-  </div>
+<iframe width="100%" height="250" src="https://fb.watch/k7HXfWIJ5X/" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
