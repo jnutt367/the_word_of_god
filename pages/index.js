@@ -90,12 +90,12 @@ export default function Home() {
 
 
 
-  <div class="fb-video" data-href="https://fb.watch/k7GTUr60T1/" data-width="100%" data-show-text="true">
+  <div class="fb-video" data-href="https://www.facebook.com/reel/543895464556166" data-width="100%" data-show-text="true">
     <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://fb.watch/k7GTUr60T1/">
-        <a href="https://fb.watch/k7GTUr60T1/">The beginning of a great JOURNEY!</a>
+      <blockquote cite="https://www.facebook.com/reel/543895464556166">
+        <a href="https://www.facebook.com/reel/543895464556166">The beginning of a great JOURNEY!</a>
         <p>God IS GOOD!</p>
-        Posted by <a href="https://www.facebook.com/DiscipleofChristJasonNutt">Jason Nutt</a>In December, 2019
+        Posted by <a href="https://www.facebook.com/DiscipleofChristJasonNutt">Jason Nutt</a>A happy time! God is good!
       </blockquote>
     </div>
   </div>
