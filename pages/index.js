@@ -90,7 +90,7 @@ export default function Home() {
 
 
 
-  <div className={styles.fb-video} data-href="https://fb.watch/k7GTUr60T1/" data-width="100%" data-show-text="false">
+  <div class="fb-video" data-href="https://fb.watch/k7GTUr60T1/" data-width="100%" data-show-text="false">
     <div class="fb-xfbml-parse-ignore">
       <blockquote cite="https://fb.watch/k7GTUr60T1/">
         <a href="https://fb.watch/k7GTUr60T1/">The beginning of a great JOURNEY!</a>
