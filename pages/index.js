@@ -90,10 +90,10 @@ export default function Home() {
 
 
 
-  <div class="fb-video" data-href="https://fb.watch/k7GwMI58Ez/" data-width="100%" data-show-text="false">
+  <div class="fb-video" data-href="https://www.facebook.com/DiscipleofChristJasonNutt/videos/116837722891189/" data-width="100%" data-show-text="false">
     <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://fb.watch/k7GwMI58Ez/">
-        <a href="https://fb.watch/k7GwMI58Ez/">Ian & I making music for the PEOPLE!</a>
+      <blockquote cite="https://www.facebook.com/DiscipleofChristJasonNutt/videos/116837722891189/">
+        <a href="https://www.facebook.com/DiscipleofChristJasonNutt/videos/116837722891189/">Ian & I making music for the PEOPLE!</a>
         <p>God IS GOOD!</p>
         Posted by <a href="https://www.facebook.com/DiscipleofChristJasonNutt">Jason Nutt</a>In December, 2019
       </blockquote>
