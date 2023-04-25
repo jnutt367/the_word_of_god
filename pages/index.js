@@ -77,6 +77,8 @@ export default function Home() {
  
 
 
+  <div id="fb-root"></div>
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
 
 <iframe width="100%" height="250" src="https://fb.watch/k7HXfWIJ5X/" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
