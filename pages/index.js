@@ -74,11 +74,22 @@ export default function Home() {
          
                </div>
                    
-  <!-- Load Facebook SDK for JavaScript -->
+ 
+
+
+
+
+
+
   <div id="fb-root"></div>
   <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
-  <!-- Your embedded video player code -->
+  
+
+
+
+
+
   <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
     <div class="fb-xfbml-parse-ignore">
       <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
@@ -88,6 +99,14 @@ export default function Home() {
       </blockquote>
     </div>
   </div>
+
+
+
+
+
+
+
+
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
