@@ -73,7 +73,7 @@ export default function Home() {
        </a>           
          
                </div>
-                        
+                    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDiscipleofChristJasonNutt%2Fvideos%2F150809869493974%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>    
  
                     <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
