@@ -32,8 +32,8 @@ export default function Home() {
                               <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
-                                src="/bible.gif"
-                                alt="Nativity silent night gif"
+                                src="/aurora.png"
+                                alt="Jason Illustrated and praising"
                                 height={900}
                                 width={2000}
                                 priority
