@@ -32,7 +32,7 @@ export default function Home() {
                               <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
-                                src="/Praying.png"
+                                src="/hand-held-earth.jpg
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
@@ -42,7 +42,7 @@ export default function Home() {
                 
                              </div>
  
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/E6Ih1GnZGBU" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/J3K4LekklkA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
                       <div className={styles.nav}>           
        <a href="https://jesusparables.vercel.app/">
