@@ -32,7 +32,7 @@ export default function Home() {
                               <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
-                                src="/he-is-risen-cross-k36ya420y1bci2u5.gif"
+                                src="/bg-wordofgod.gif"
                                 alt="Jason Illustrated and praising"
                                 height={900}
                                 width={2000}
