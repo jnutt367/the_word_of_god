@@ -85,6 +85,12 @@ export default function Home() {
                          JESUS' PARABLES   
                     </p>
                </a>   
+
+                          <a href="https://mypsalms.vercel.app/">
+                     <p className={styles.parables}>
+                         PSALMS  
+                    </p>
+               </a>   
                          <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
   
                     <ul id="index" className={styles.index}>
