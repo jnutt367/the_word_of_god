@@ -45,7 +45,7 @@ export default function Home() {
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/J3K4LekklkA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
                       <div className={styles.nav}>           
-        <a href="#tesimony">
+        <a href="#testimony">
            <Image
                                 src="/testify.png"
                                 alt="testimonials button"
