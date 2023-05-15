@@ -12,7 +12,7 @@ export default function Home() {
     
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
         <title>The WORD of GOD: "Risen"</title>
-        <meta name="description" content="The Holy Bible App" />
+        <meta name="description" content="The WORD of GOD Risen, A bible application for prayer meditation and reading" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
        
@@ -47,7 +47,7 @@ export default function Home() {
                       <div className={styles.nav}>           
         <a href="#tesimony">
            <Image
-                                src="/testimonial-icon-png-image.jpeg"
+                                src="/testify.png"
                                 alt="testimonials button"
                                 height={75}
                                 width={75}
