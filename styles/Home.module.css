@@ -105,9 +105,10 @@
 .donate {
   background-color: rgb(52, 100, 144) ;
   opacity: 0.8;
+  border-radius: 50%;
+  
   color: white;
-  font-family: fantasy, cursive, Times New Roman, monospace;
-  border-radius: 10px;
+  font-family: Ariel, Times New Roman, monospace;
   padding: 10px;
   
 }
