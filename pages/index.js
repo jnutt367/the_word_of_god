@@ -47,7 +47,7 @@ export default function Home() {
                       <div className={styles.nav}>           
         <a href="#tesimony">
            <Image
-                                src="/testimonials-comments-icon-splash-natural-blue-round-button-isolated-abstract-illustration-142317604.jpeg"
+                                src="/testimonial-icon-png-image.jpeg"
                                 alt="testimonials button"
                                 height={75}
                                 width={75}
