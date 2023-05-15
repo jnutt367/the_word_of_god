@@ -45,11 +45,17 @@ export default function Home() {
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/J3K4LekklkA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                    
                       <div className={styles.nav}>           
-       <a href="https://jesusparables.vercel.app/">
-            <p className={styles.donate}>
-             PARABLES 
-              </p>
-       </a>           
+        <a href="#tesimony">
+           <Image
+                                src="/testimonials-comments-icon-splash-natural-blue-round-button-isolated-abstract-illustration-142317604.jpeg"
+                                alt="testimonials button"
+                                height={75}
+                                width={75}
+                                priority
+                              />
+       </a>
+         
+                  
          <a href="https://gofund.me/754323ae">
            <Image
                                 src="/fundme.png"
