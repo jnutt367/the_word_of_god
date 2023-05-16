@@ -140,6 +140,9 @@
     justify-content: space-around;
     position: relative;
 }
+.iframe {
+  max-height: 900px; 
+}
 .glory {
     text-align: center;
     color: white;
