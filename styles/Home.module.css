@@ -152,7 +152,7 @@
     font-weight: 900;
 }
 .image {
-    background-image: url(/monophy.gif);
+    background-color: black;
     opacity: 0.5;
     margin-top: 50px;
     padding-left: 100px;
