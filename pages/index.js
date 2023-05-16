@@ -32,7 +32,7 @@ export default function Home() {
                               <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
-                                src="/ONLY-GOD.jpeg"
+                                src="/Jesus-color-silhouette-low-poly-pattern.svg"
                                 alt="Jason Illustrated and praising"
                                 height={900}
                                 width={2000}
