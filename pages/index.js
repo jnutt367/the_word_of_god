@@ -186,7 +186,7 @@ export default function Home() {
                             The Old testament is being worked on already too! Hallelujah! Please follow the journey and become a member if you want. If NOT simply use the bible app at no cost whatsoever. Praise God.  
                           </p>  
                           <p className={styles.paragraph}>
-                            I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
+                            I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace of Jesus and the truth about His life, death and ressurection, and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
                           </p>  
                          <div  className={styles.image}>
        <Image 
