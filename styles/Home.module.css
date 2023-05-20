@@ -131,7 +131,7 @@
 }
 .nav {
     top: -60px;
-    background-color: #89CFF0;
+    background-color: black;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -154,7 +154,8 @@
     font-weight: 900;
 }
 .image {
-    background-color: black;
+    background-color: white;
+    background-image: url(/19-wordle-psalms.jpeg);
     opacity: 0.5;
     margin-top: 50px;
     padding-left: 100px;
