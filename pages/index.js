@@ -18,8 +18,8 @@ export default function Home() {
        
      
       <main className={styles.main}>
-    
-       <h2 className={styles.holy}>THE WORD</h2>
+        <div className={styles.hero}>
+           <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.title}>
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
@@ -97,6 +97,7 @@ export default function Home() {
                          PSALMS  
                     </p>
                </a>   
+            </div>
                          <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
   
                     <ul id="index" className={styles.index}>
