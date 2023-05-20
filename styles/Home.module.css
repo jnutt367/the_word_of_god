@@ -156,6 +156,7 @@
 .image {
     background-color: white;
     background-image: url(/19-wordle-psalms.jpeg);
+    background-size: cover;
     opacity: 0.5;
     margin-top: 50px;
     padding-left: 100px;
