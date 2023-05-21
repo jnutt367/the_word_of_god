@@ -80,13 +80,7 @@ export default function Home() {
          
                </div>
                    
- 
-
-
-                    <p className={styles.new}>
-                         THE NEW TESTAMENT NIV       
-                    </p>
-                <a href="https://jesusparables.vercel.app/">
+   <a href="https://jesusparables.vercel.app/">
                      <p className={styles.parables}>
                          PARABLES   
                     </p>
@@ -102,6 +96,12 @@ export default function Home() {
                          PROVERBS
                        </p>
                </a>   
+
+
+                    <p className={styles.new}>
+                         THE NEW TESTAMENT NIV       
+                    </p>
+              
           
                          <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
   
