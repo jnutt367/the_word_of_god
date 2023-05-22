@@ -155,7 +155,8 @@
 }
 .image {
     background-color: white;
-    background-image: url(/19-wordle-psalms.jpeg);
+    background-image: url(/aurora.png); 
+    /*background-image: url(/19-wordle-psalms.jpeg);*/
     background-size: cover;
     opacity: 0.5;
     margin-top: 50px;
