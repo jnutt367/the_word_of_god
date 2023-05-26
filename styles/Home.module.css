@@ -140,7 +140,7 @@
     position: relative;
 }
 .iframe {
-  max-height: 900px; 
+  background-size: cover;
 }
 .glory {
     text-align: center;
