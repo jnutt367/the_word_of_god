@@ -140,7 +140,9 @@
     position: relative;
 }
 .iframe {
-  background-size: cover;
+  background-size: contain;
+  margin-top: 25px;
+  border: 2px solid white;
 }
 .glory {
     text-align: center;
