@@ -22,7 +22,7 @@
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
-  z-index:10;
+  z-index:5;
   top: 12px;
   font-size: 36px;
   display: grid;
@@ -30,11 +30,12 @@
   justify-items: center;
   padding-left: 5px;
   tex-align: left;
+  
 }
 .bible {
  position: relative;
   top: -37px;
-  z-index: 10;
+  z-index: 5;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
