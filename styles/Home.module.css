@@ -22,7 +22,7 @@
   position:relative;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  top: -92px;
+  top: -192px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -32,7 +32,7 @@
 }
 .title {
   position:relative;
-  top: -140px;
+  top: -240px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
