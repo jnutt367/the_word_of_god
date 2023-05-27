@@ -19,7 +19,7 @@ export default function Home() {
      
       <main className={styles.main}>
         <div className={styles.hero}>
-           <h2 className={styles.holy}>THE WORD</h2>
+           <h2 className={styles.word}>THE WORD</h2>
                 <h1 className={styles.holy}>
                    OF GOD
                 </h1>
