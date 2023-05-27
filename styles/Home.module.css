@@ -23,7 +23,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 12px;
+  top: 112px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -34,7 +34,7 @@
 }
 .bible {
  position: relative;
-  top: -37px;
+  top: 137px;
   z-index: 5;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
@@ -45,6 +45,11 @@
   align-items: center;
   justify-items: center;
   tex-align: left;
+}
+.risen {
+  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  color: white;
+  font-size: 52px;
 }
 .title {
   position:relative;
