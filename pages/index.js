@@ -44,6 +44,7 @@ export default function Home() {
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  </div>               
+  </div>
                       <div className={styles.nav}>           
         <a href="#testimony">
            <Image
@@ -222,7 +223,7 @@ export default function Home() {
     the sayings and riddles of the wise.</p>
                           </div>
           
-                  </div>
+                
             </main>
     </div>
 
