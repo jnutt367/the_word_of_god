@@ -18,17 +18,17 @@ export default function Home() {
        
      
       <main className={styles.main}>
-       
+        <div className={styles.hero}>
            <h2 className={styles.holy}>THE WORD</h2>
                 <h1 className={styles.title}>
                     <a href="https://the-word-of-god.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
        
-             <p className={styles.transcribed}>
+             <p className={styles.title}>
                
-                    "Risen": Transcribed by Jason Nutt
+                    RISEN
              </p>
-                          <div className={styles.hero}>
+                         
                               <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
@@ -40,9 +40,9 @@ export default function Home() {
                               />
                      </a>
                 
-                             </div>
- <div className={styles.iframe}>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  </div>               
                       <div className={styles.nav}>           
         <a href="#testimony">
