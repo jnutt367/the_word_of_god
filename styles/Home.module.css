@@ -23,8 +23,8 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: -8px;
-  font-size: 64px;
+  top: -18px;
+  font-size: 56px;
   display: grid;
   align-items: center;
   justify-items: center;
@@ -33,7 +33,7 @@
   
 }
 .word {
-  font-size: 48px;
+  font-size: 36px;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
