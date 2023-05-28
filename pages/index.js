@@ -57,7 +57,7 @@ export default function Home() {
        </a>
          
                   
-         <a href="https://gofund.me/754323ae">
+         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
            <Image
                                 src="/youtube-logo-png-hd-21.png"
                                 alt="youtube-icon"
