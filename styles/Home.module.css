@@ -23,7 +23,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: -18px;
+  top: 8px;
   font-size: 56px;
   display: grid;
   align-items: center;
@@ -38,8 +38,8 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 48px;
- text-align: center;
+  top: 58px;
+  text-align: center;
 }
 
 .bible {
