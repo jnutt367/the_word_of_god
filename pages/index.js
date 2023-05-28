@@ -59,8 +59,8 @@ export default function Home() {
                   
          <a href="https://gofund.me/754323ae">
            <Image
-                                src="/Black-youtube-icon-design-on-transparent-background-PNG.png"
-                                alt="gofundme-icon"
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube-icon"
                                 height={75}
                                 width={75}
                                 priority
