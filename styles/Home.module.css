@@ -33,7 +33,7 @@
   
 }
 .word {
-  font-size: 52px;
+  font-size: 64px;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -373,6 +373,9 @@
          text-align: left;
          left: 15px;
     }
+  .word {
+        text-align: center;
+  }
     .title {
         display: block;
         padding: 0;
