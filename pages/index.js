@@ -30,7 +30,7 @@ export default function Home() {
              </p>
                          
                               <div  className={styles.image}>
-                     <a href="https://matthew-coral.vercel.app/">
+                     <a href="#">
                                <Image 
                                 src="/Jesus-color-silhouette-low-poly-pattern.svg"
                                 alt="Jason Illustrated and praising"
