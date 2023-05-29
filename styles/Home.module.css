@@ -369,12 +369,11 @@
          display: block;
          padding: 0;
          position: relative;
-         top: -40;
+         top: -50;
          text-align: left;
     }
   .word {
-    
-         top: -40;
+         top: -50;
          text-align: left;
   }
     .title {
