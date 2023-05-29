@@ -194,6 +194,7 @@
     background-image: url(/bg-for-any-app.png); 
     /*background-image: url(/19-wordle-psalms.jpeg);*/
     background-size: contain;
+    background-repeat: no-repeat;
     opacity: 0.2;
     padding-left: 100px;
     padding-right: 100px;
