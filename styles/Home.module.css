@@ -23,7 +23,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 25px;
+  top: 45px;
   font-size: 56px;
   display: grid;
   align-items: center;
@@ -37,7 +37,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 83px;
+  top: 103px;
   text-align: center;
 }
 
@@ -57,9 +57,9 @@
 }
 .risen {
   position: relative;
-  top: -25px;
+  top: -15px;
   text-align: center;
-  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  font-family:  cursive, fantasy, Ariel, sans, serif, sans-serif;
   color: white;
   font-size: 52px;
 }
@@ -367,9 +367,11 @@
   .holy {
          display: block;
          padding: 0;
+         top: -40;
          text-align: left;
     }
   .word {
+         top: -40;
          text-align: left;
   }
     .title {
