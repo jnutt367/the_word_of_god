@@ -193,16 +193,16 @@
     background-color: white;
     background-image: url(/bg-for-any-app.png); 
     /*background-image: url(/19-wordle-psalms.jpeg);*/
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
-    opacity: 0.2;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
     place-items: center;
     max-height: 900px; 
     border: 50px 0 10px solid #5D3FD3;
-    opacity: 1;
+    opacity: 0.8;
+    margin-bottom: 25px;
 }
 .hero {
   margin-left: 0px;
