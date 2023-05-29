@@ -23,7 +23,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 5px;
+  top: 25px;
   font-size: 56px;
   display: grid;
   align-items: center;
@@ -37,7 +37,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 63px;
+  top: 83px;
   text-align: center;
 }
 
@@ -193,9 +193,8 @@
     background-color: white;
     background-image: url(/bg-for-any-app.png); 
     /*background-image: url(/19-wordle-psalms.jpeg);*/
-    background-size: cover;
+    background-size: contain;
     opacity: 0.2;
-    margin-top: 10px;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
