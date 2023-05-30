@@ -99,9 +99,12 @@ export default function Home() {
                          PROVERBS
                        </p>
                </a>   
-
-
-                    <p className={styles.new}>
+ <a href="https://second-thessalonians.vercel.app/ ">
+                     <p className={styles.parables}>
+                         SALVATION & PRAYER GUIDE
+                       </p>
+               </a>   
+                   <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
               
