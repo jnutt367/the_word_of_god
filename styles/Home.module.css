@@ -56,12 +56,12 @@
   tex-align: left;
 }
 .risen {
-  position: sticky;
   top: 0px;
   text-align: center;
   font-family:  cursive, fantasy, Ariel, sans, serif, sans-serif;
   color: white;
   font-size: 52px;
+  position:sticky;
 }
 .title {
   position:relative;
