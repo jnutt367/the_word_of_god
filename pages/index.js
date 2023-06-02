@@ -218,15 +218,7 @@ export default function Home() {
                           <p className={styles.fund}>Help Fund This Bible</p>  
                       </a>
         </p>
-            <div  className={styles.image}>
-       <Image 
-                                src="/pointing_to_jesus.webp"
-                                alt="the Last supper"
-                                 height={900}
-                                width={2000}
-                                priority
-                              />
-           </div>
+        
 
 
 <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                   
