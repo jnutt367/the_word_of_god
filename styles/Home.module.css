@@ -23,7 +23,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 10px;
+  top: 30px;
   font-size: 52px;
   display: grid;
   align-items: center;
@@ -37,7 +37,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 63px;
+  top: 83px;
   text-align: center;
 }
 
