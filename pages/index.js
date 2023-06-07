@@ -80,8 +80,10 @@ export default function Home() {
        </a>           
          
                </div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                        <p className={styles.new}>
+        <div className={styles.iframe}>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>                  
+        <p className={styles.new}>
                        &darr; SCROLL DOWN &darr;       
                     </p> 
    <a href="https://jesusparables.vercel.app/">
