@@ -23,7 +23,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 90px;
+  top: 20px;
   font-size: 52px;
   display: grid;
   align-items: center;
@@ -37,7 +37,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 143px;
+  top: 73px;
   text-align: center;
 }
 
@@ -356,6 +356,12 @@
   .iframe {
          padding-left: 25px;
          padding-right: 25px;    
+  }
+  .holy {
+    top: 85px;
+  }
+  .word {
+    top: 143px;
   }
 }
 @media (min-width: 769px) {
