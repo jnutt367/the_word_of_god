@@ -18,13 +18,13 @@
 }
 
 .holy {
-  backgroud-color: silver;
+  backgroud-color: black;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
-  top: 45px;
-  font-size: 56px;
+  top: 0px;
+  font-size: 50px;
   display: grid;
   align-items: center;
   justify-items: center;
