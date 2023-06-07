@@ -163,8 +163,9 @@
     font-weight: 200;
 }
 .nav {
-    top: -60px;
+    top: 0px;
     background-color: black;
+    border: 2px solid  #bf9b30;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -172,6 +173,7 @@
     justify-content: space-around;
     position: relative;
 }
+
 .iframe {
   margin-top: 50px;
   background-size: contain;
