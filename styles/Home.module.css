@@ -354,8 +354,8 @@
          padding-right: 300px;    
   }
   .iframe {
-         padding-left: 75px;
-         padding-right: 75px;    
+         padding-left: 25px;
+         padding-right: 25px;    
   }
 }
 @media (min-width: 769px) {
