@@ -176,6 +176,7 @@
 
 .iframe {
   width: 100%;
+  top: -200px;
 }
 .glory {
     text-align: center;
@@ -352,8 +353,8 @@
          padding-right: 300px;    
   }
   .iframe {
-         padding-left: 100px;
-         padding-right: 100px;    
+         padding-left: 75px;
+         padding-right: 75px;    
   }
 }
 @media (min-width: 769px) {
