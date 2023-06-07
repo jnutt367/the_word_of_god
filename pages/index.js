@@ -42,7 +42,7 @@ export default function Home() {
                 
                        </div>     
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
  </div>               
   
                       <div className={styles.nav}>           
@@ -80,7 +80,8 @@ export default function Home() {
        </a>           
          
                </div>
-                      <p className={styles.new}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <p className={styles.new}>
                        &darr; SCROLL DOWN &darr;       
                     </p> 
    <a href="https://jesusparables.vercel.app/">
@@ -101,9 +102,9 @@ export default function Home() {
                </a>   
  <a href="https://second-thessalonians.vercel.app/ ">
                      <p className={styles.parables}>
-                         SALVATION & PRAYER GUIDE
+                         RECEIVING CHRIST
                        </p>
-               </a>   
+               </a> 
                    <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
