@@ -86,7 +86,13 @@ export default function Home() {
         <p className={styles.new}>
                        &darr; SCROLL DOWN &darr;       
                     </p> 
-   <a href="https://jesusparables.vercel.app/">
+<a href="https://first-thessalonians.vercel.app/">
+                     <p className={styles.parables}>
+                         THE REVELATION  
+                    </p>
+               </a>   
+
+<a href="https://jesusparables.vercel.app/">
                      <p className={styles.parables}>
                          PARABLES   
                     </p>
