@@ -90,7 +90,7 @@ export default function Home() {
                        &darr; SCROLL DOWN &darr;       
                     </p> 
 <a href="https://first-thessalonians.vercel.app/">
-                     <p className={styles.parables}>
+                     <p className={styles.revelation}>
                          THE REVELATION  
                     </p>
                </a>   
@@ -102,17 +102,17 @@ export default function Home() {
                </a>   
 
                           <a href="https://mypsalms.vercel.app/">
-                     <p className={styles.parables}>
+                     <p className={styles.psalms}>
                          PSALMS  
                     </p>
                </a>   
   <a href="https://myproverbs.vercel.app/">
-                     <p className={styles.parables}>
+                     <p className={styles.proverbs}>
                          PROVERBS
                        </p>
                </a>   
  <a href="https://second-thessalonians.vercel.app/ ">
-                     <p className={styles.parables}>
+                     <p className={styles.receiving}>
                          RECEIVING CHRIST
                        </p>
                </a> 
@@ -120,9 +120,6 @@ export default function Home() {
                          THE NEW TESTAMENT NIV       
                     </p>
               
-          
-                         <p className={styles.fund}>"the people living in darkness have seen a great light; on those living in the land of the shadow of death a light has dawned. (Matthew 4:16)</p> 
-  
                     <ul id="index" className={styles.index}>
                          
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
