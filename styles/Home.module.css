@@ -172,6 +172,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: relative;
+    margin-top: 10px;
 }
 
 .iframe {
@@ -221,7 +222,7 @@
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
-    top: -175px;
+    top: -195px;
     font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
 }
