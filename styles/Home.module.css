@@ -214,16 +214,17 @@
 }
 
 .parables {
-  position: relative;
-  top: 10px;
-  
-  text-align: center;
-  background-color: white;
-  color: black;
-  font-weight: 900;
-  padding: 15px;
-}  
-
+    display: grid;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 25px;
+    top: -15px;
+    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-weight: 200;
+}
 .transcribed {
    text-align:center;
    color: white;
