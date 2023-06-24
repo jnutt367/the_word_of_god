@@ -192,8 +192,36 @@ export default function Home() {
                                 priority
                               />
            </div>
+                                  <div className={style.sideprojects}>
+<a href="https://first-thessalonians.vercel.app/">
+                     <p>
+                         THE REVELATION  
+                    </p>
+               </a>   
 
-        <p className={styles.description}> 
+<a href="https://jesusparables.vercel.app/">
+                     <p>
+                         PARABLES   
+                    </p>
+               </a>   
+
+                          <a href="https://mypsalms.vercel.app/">
+                     <p>
+                         PSALMS  
+                    </p>
+               </a>   
+  <a href="https://myproverbs.vercel.app/">
+                     <p>
+                         PROVERBS
+                       </p>
+               </a>   
+ <a href="https://second-thessalonians.vercel.app/ ">
+                     <p>
+                         RECEIVING CHRIST
+                       </p>
+               </a> 
+                                  </div>                      
+                                  <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
