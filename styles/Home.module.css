@@ -163,7 +163,7 @@
     font-weight: 200;
 }
 .nav {
-    top: -50px;
+    top: -150px;
     background-color: black;
     border: 2px solid  #bf9b30;
     opacity: 1;
@@ -218,8 +218,6 @@
     display: grid;
     text-align: center;
     color: white;
-    margin-top: 20px;
-    margin-bottom: 20px;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
