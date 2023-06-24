@@ -89,33 +89,7 @@ export default function Home() {
         <p className={styles.new}>
                        &darr; SCROLL DOWN &darr;       
                     </p> 
-<a href="https://first-thessalonians.vercel.app/">
-                     <p className={styles.revelation}>
-                         THE REVELATION  
-                    </p>
-               </a>   
 
-<a href="https://jesusparables.vercel.app/">
-                     <p className={styles.parables}>
-                         PARABLES   
-                    </p>
-               </a>   
-
-                          <a href="https://mypsalms.vercel.app/">
-                     <p className={styles.psalms}>
-                         PSALMS  
-                    </p>
-               </a>   
-  <a href="https://myproverbs.vercel.app/">
-                     <p className={styles.proverbs}>
-                         PROVERBS
-                       </p>
-               </a>   
- <a href="https://second-thessalonians.vercel.app/ ">
-                     <p className={styles.receiving}>
-                         RECEIVING CHRIST
-                       </p>
-               </a> 
                    <p className={styles.new}>
                          THE NEW TESTAMENT NIV       
                     </p>
