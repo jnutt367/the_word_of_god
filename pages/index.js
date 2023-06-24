@@ -44,8 +44,11 @@ export default function Home() {
 
 
  </div>               
-  
-                      <div className={styles.nav}>           
+  <p className={styles.parables}>
+         God was, God is & God forever will be...the long awaited messiah, King Jesus! And He has RISEN!                               
+</p>
+                                  
+                                  <div className={styles.nav}>           
         <a href="#testimony">
            <Image
                                 src="/testify.png"
