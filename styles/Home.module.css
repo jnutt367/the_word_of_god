@@ -192,6 +192,7 @@
 }
 .image {
     background-color: white;
+    display: hidden;
     background-image: url(/risen_19.png); 
     /*background-image: url(/19-wordle-psalms.jpeg);*/
     background-size: cover;
@@ -345,6 +346,7 @@
 }
 @media (min-width: 1080px) {
          .image {
+        display: grid;   
         padding-left: 100px;
         padding-right: 100px;  
         background-image: url(/risen_17.png);   
