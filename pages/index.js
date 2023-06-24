@@ -32,11 +32,10 @@ export default function Home() {
                               <div  className={styles.image}>
                      <a href="#">
                                <Image 
-                                src="/Jesus-color-silhouette-low-poly-pattern.svg"
-                                alt="Jason Illustrated and praising"
+                                src="/risen_17.png"
+                                alt="Jesus"
                                 height={900}
                                 width={2000}
-                                opacity="0"
                                 priority
                               />
                      </a>
