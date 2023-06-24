@@ -32,7 +32,7 @@ export default function Home() {
                               <div  className={styles.image}>
                      <a href="#">
                                <Image 
-                                src="/risen_19.png"
+                                src="/risen_17.png"
                                 alt="Jesus"
                                 height={900}
                                 width={2000}
