@@ -36,6 +36,7 @@ export default function Home() {
                                 alt="Jason Illustrated and praising"
                                 height={900}
                                 width={2000}
+                                opacity="0"
                                 priority
                               />
                      </a>
