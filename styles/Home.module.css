@@ -345,6 +345,18 @@
   color: #ffa500;
   padding-right: 5px;
 }
+.sideprojects {
+  width:100%;
+  backgoud-color: grey;
+  color: white;
+  font-family: fantasy, Ariel, serif, sans-serif;
+  display: grid;
+  gap: 0.2%;
+  justify-content: space-around;
+  background-color: transparent;
+  list-style-type: none; 
+}
+
 @media (min-width: 1080px) {
          .image {
         display: grid;   
