@@ -192,7 +192,7 @@ export default function Home() {
                                 priority
                               />
            </div>
-                                  <div className={style.sideprojects}>
+                                  <div className={styles.sideprojects}>
 <a href="https://first-thessalonians.vercel.app/">
                      <p>
                          THE REVELATION  
