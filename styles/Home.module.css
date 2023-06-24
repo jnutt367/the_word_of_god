@@ -163,7 +163,7 @@
     font-weight: 200;
 }
 .nav {
-    top: -150px;
+    top: -200px;
     background-color: black;
     border: 2px solid  #bf9b30;
     opacity: 1;
@@ -200,7 +200,7 @@
     background-repeat: no-repeat;
     padding-left: 100px;
     padding-right: 100px;
-    top: -300px;
+    top: -325px;
     place-items: center;
     max-height: 900px; 
     border: 50px 0 10px solid #FF6C0C;
@@ -267,7 +267,7 @@
 }
 .new {
   position: relative;
-  top: 10px;
+  top: -100px;
   text-align: center;
   background-color: black;
   color: white;
