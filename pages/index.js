@@ -134,6 +134,7 @@ export default function Home() {
                         <a href="https://colossians.vercel.app/" target="_blank">
                             <li className={styles.li}>Letter of Paul to the Colossians</li>  
                         </a>
+                    /*
                         <a href="https://first-thessalonians.vercel.app/" target="_blank">
                            <li className={styles.li}>I Thessalonians</li> 
                         </a>
@@ -160,10 +161,11 @@ export default function Home() {
                            
                            <li className={styles.li}>III John</li>  
                            <li className={styles.li}>Letter of Jude</li>  
+                       
                             <li className={styles.li}>The Revelation to John</li>  
                          
-                           
-                        </ul>
+                               */
+                      </ul>
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
                             My Testimony:
@@ -172,7 +174,9 @@ export default function Home() {
                           As it is written: "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down. They triumphed over him by the blood of the Lamb and by the word of their testimony;"
                           </p>
                           <p className={styles.paragraph}>
-                            My name is Jason Nutt. I am an alcoholic. I was once a liar, one who easily becomes self-centered. A former rehab frequent flyer. A disappointment
+                            My name is Jason Nutt. I was an alcoholic. One of those that could probably be considered, as Paul calls himself, the chief of sinners... I was once a liar, one who lived a self-centered and selfish life
+                      of drinking & more drinking & responsibilities be damned. I am former rehab frequent flyer. I have been to more than I wih to admit but have completed a select few of which I am very delighted in & praise God for them both. 
+                        I was a disappointment
                             as a son, brother, father and friend. A real know it all. A denier of defects of character. An isolater. And even a thief. 
                             Having been born again by the Holy Spirit, I have now been made a priest forever, in the order of Melchizedek. I have been made holy by the blood of the lamb of God. Set aside for His good purpose. 3 years ago, I started learning to code and build apps and websites. Today, I have been empowered to create a fully functional bible reading application. You can follow the build on this Youtube channel if you want... 
                              <a className={styles.a} href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw" target="_blank">
