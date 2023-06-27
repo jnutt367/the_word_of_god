@@ -194,10 +194,25 @@
     font-weight: 900;
 }
 .image {
+    text-align: center;
+    background-color: black;
+    opacity: 0.5;
+    margin-top: -50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: grid;
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+    max-height: 900px; 
+    alig-items: center;
+    opacity: 1;
+}
+/*
+.image {
     background-color: white;
     display: hidden;
     background-image: url(/risen_17.png); 
-    /*background-image: url(/19-wordle-psalms.jpeg);*/
     background-size: cover;
     background-repeat: no-repeat;
     padding-left: 100px;
@@ -209,6 +224,7 @@
     margin-top: -80px;
     margin-bottom: 95px;
 }
+*/
 .hero {
   margin-left: 0px;
   position:relative;
