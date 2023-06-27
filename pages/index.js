@@ -132,39 +132,9 @@ export default function Home() {
                         </a>
                          
                         <a href="https://colossians.vercel.app/" target="_blank">
-                            <li className={styles.li}>Letter of Paul to the Colossians</li>  
+                            <li className={styles.li}>I Epistle of Peter</li>  
                         </a>
-                    /*
-                        <a href="https://first-thessalonians.vercel.app/" target="_blank">
-                           <li className={styles.li}>I Thessalonians</li> 
-                        </a>
-                        <a href="https://second-thessalonians.vercel.app/" target="_blank">
-                           <li className={styles.li}>II Thessalonians</li>  
-                        </a>
-                        <a href="https://first-timothy.vercel.app/" target="_blank">
-                             <li className={styles.li}>I Timothy</li>  
-                        </a>
-                        <a href="https://second-timothy.vercel.app/" target="_blank">
-                           <li className={styles.li}>II Timothy</li> 
-                        </a>
-                     
-                            <li className={styles.li}>Letter of Paul to Titus</li>  
-                           <li className={styles.li}>Letter of Paul to Philemon</li>  
-                           <li className={styles.li}>Letter to the Hebrews</li>  
-
-
-                               <li className={styles.li}>Letter of James</li>  
-                           <li className={styles.li}>I Peter</li>  
-                            <li className={styles.li}>II Peter</li>  
-                           <li className={styles.li}>I John</li>  
-                           <li className={styles.li}>II John</li>  
-                           
-                           <li className={styles.li}>III John</li>  
-                           <li className={styles.li}>Letter of Jude</li>  
-                       
-                            <li className={styles.li}>The Revelation to John</li>  
-                         
-                               */
+               
                       </ul>
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
