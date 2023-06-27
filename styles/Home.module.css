@@ -65,7 +65,7 @@
 }
 .title {
   position:relative;
-  top: -240px;
+  top: -340px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
@@ -209,7 +209,7 @@
 .hero {
   margin-left: 0px;
   position:relative;
-  top: -170px;
+  top: -270px;
   backgroud-color:  #800080;
 }
 
