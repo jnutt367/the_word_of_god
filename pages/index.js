@@ -30,7 +30,7 @@ export default function Home() {
              </p>
                          
                               <div  className={styles.image}>
-                     <a href="#">
+                    
                                <Image 
                                 src="/risen_2.png"
                                 alt="Jesus"
@@ -38,7 +38,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                     </a>
+                    
                 
                        </div>     
 
