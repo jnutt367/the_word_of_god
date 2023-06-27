@@ -200,10 +200,9 @@
     background-repeat: no-repeat;
     padding-left: 100px;
     padding-right: 100px;
-    top: -350px;
+    top: -450px;
     place-items: center;
     max-height: 900px; 
-    border: 50px 0 10px solid #FF6C0C;
     opacity: 0.8;
     margin-bottom: 95px;
 }
