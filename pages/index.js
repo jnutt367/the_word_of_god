@@ -84,7 +84,7 @@ export default function Home() {
          
                </div>
         <div className={styles.iframe}>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/xrzq_X1NNaA" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/ak06MSETeo4" title="YouTube video player" frameborder="1" allow="accelerometer; &autoplay=1 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>                  
         <p className={styles.new}>
                        &darr; SCROLL DOWN &darr;       
