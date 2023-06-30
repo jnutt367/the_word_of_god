@@ -207,7 +207,7 @@
     max-height: 900px; 
     alig-items: center;
     opacity: 1;
-}
+} 
 /*
 .image {
     background-color: white;
@@ -377,10 +377,7 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 200px;
-        padding-right: 200px;
-        margin-left: 100px; 
-        margin-right: 100px;   
+        width:100%;
          }
   .aside {
          padding-left: 300px;
