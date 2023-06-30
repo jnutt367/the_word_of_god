@@ -84,7 +84,7 @@ export default function Home() {
          
                </div>
         <div className={styles.iframe}>
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/ak06MSETeo4" title="YouTube video player" frameborder="1" allow="accelerometer; &autoplay=1 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="315" src="https://www.youtube.com/embed/ak06MSETeo4?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; &autoplay=1 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>                  
         <p className={styles.new}>
                        &darr; SCROLL DOWN &darr;       
@@ -206,8 +206,11 @@ export default function Home() {
         
 
 
-<iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                   
-<p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20</p> 
+               
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/7_CGP-12AE0?autoplay=1&mute=1" title="YouTube video player" frameborder="7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+                                  
+                                  <p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20</p> 
 
 
                <p className={styles.hide}> understanding proverbs and parables,
