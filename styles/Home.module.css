@@ -285,7 +285,7 @@
 }
 .new {
   position: relative;
-  top: -100px;
+  top: -175px;
   text-align: center;
   background-color: black;
   color: white;
@@ -298,7 +298,7 @@
   opacity: 1;
   background-size: cover;
   position: relative;
-  top: 10px;
+  top: -110px;
   display: grid;
   gap: 0.2%;
   justify-content: space-around;
