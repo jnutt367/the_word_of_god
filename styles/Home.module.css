@@ -165,7 +165,7 @@
     font-weight: 200;
 }
 .nav {
-    top: -200px;
+    top: -225px;
     background-color: black;
     border: 2px solid  #bf9b30;
     opacity: 1;
@@ -180,7 +180,7 @@
 .iframe {
   position: relative;
   width: 100%;
-  top: -200px;
+  top: -225px;
 }
 .glory {
     text-align: center;
@@ -285,7 +285,7 @@
 }
 .new {
   position: relative;
-  top: -175px;
+  top: -210px;
   text-align: center;
   background-color: black;
   color: white;
