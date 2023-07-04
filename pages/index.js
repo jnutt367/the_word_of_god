@@ -132,7 +132,7 @@ export default function Home() {
                         </a>
                          
                         <a href="https://colossians.vercel.app/" target="_blank">
-                            <li className={styles.li}>I Epistle of Peter</li>  
+                            <li className={styles.li}>Letter of Paul to the Colossians</li>  
                         </a>
                
                       </ul>
