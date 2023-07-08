@@ -51,7 +51,7 @@ export default function Home() {
                                   <div className={styles.nav}>           
         <a href="#testimony">
            <Image
-                                src="/testify.png"
+                                src="/previous.webp"
                                 alt="testimonials button"
                                 height={75}
                                 width={75}
@@ -62,7 +62,7 @@ export default function Home() {
                   
          <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
            <Image
-                                src="/youtube-logo-png-hd-21.png"
+                                src="/upward_pointing.webp"
                                 alt="youtube-icon"
                                 height={75}
                                 width={75}
@@ -72,9 +72,9 @@ export default function Home() {
           
          
      
-         <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+         <a href="https://mypsalms.vercel.app/">
              <Image className={styles.youtubeicon}
-                                src="/youtube_logo_dark.webp"
+                                src="/next.webp"
                                 alt="youtube icon"
                                 height={75}
                                 width={75}
