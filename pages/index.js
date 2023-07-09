@@ -49,7 +49,7 @@ export default function Home() {
 </p>
                                   
                                   <div className={styles.nav}>           
-        <a href="#testimony">
+        <a href="https://the-revelation.vercel.app/">
            <Image
                                 src="/previous.webp"
                                 alt="testimonials button"
@@ -95,7 +95,9 @@ export default function Home() {
                     </p>
               
                     <ul id="index" className={styles.index}>
-                         
+                      <a href="#testimony" target="_blank">  
+                          <li className={styles.li}>My Salvation Story</li>  
+                      </a>
                       <a href="https://matthew-coral.vercel.app/" target="_blank">  
                           <li className={styles.li}>The gospel of Matthew</li>  
                       </a>
