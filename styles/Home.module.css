@@ -184,7 +184,7 @@
 }
 .nav a:hover {
     scale: 1.1;
-    background-color: white;
+    background-color: #8a0303;
     opacity: 0.7;
     border: 2px dotted whitesmoke;
     border-radius: 50%;
