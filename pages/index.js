@@ -136,7 +136,37 @@ export default function Home() {
                         <a href="https://colossians.vercel.app/" target="_blank">
                             <li className={styles.li}>Letter of Paul to the Colossians</li>  
                         </a>
-               
+
+<a href="https://first-thessalonians.vercel.app/" target="_blank"
+                      <li className={styles.li}>
+                         THE REVELATION  
+                    </li>
+               </a>   
+
+<a href="https://jesusparables.vercel.app/" target="_blank">
+                    <li className={styles.li}>
+                         PARABLES   
+                      </li>
+               </a>   
+
+                          <a href="https://mypsalms.vercel.app/" target="_blank">
+                    <li className={styles.li}>
+                         PSALMS  
+                      </li>
+               </a>   
+  <a href="https://myproverbs.vercel.app/" target="_blank">
+                        <li className={styles.li}>
+                         PROVERBS
+                       </li>
+               </a>   
+ <a href="https://second-thessalonians.vercel.app/" target="_blank"
+                     <li className={styles.li}>
+                         RECEIVING CHRIST
+                      </li>
+               </a> 
+                      
+
+                      
                       </ul>
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
@@ -169,33 +199,7 @@ export default function Home() {
                               />
            </div>
                                   <div className={styles.sideprojects}>
-<a href="https://first-thessalonians.vercel.app/">
-                     <p>
-                         THE REVELATION  
-                    </p>
-               </a>   
 
-<a href="https://jesusparables.vercel.app/">
-                     <p>
-                         PARABLES   
-                    </p>
-               </a>   
-
-                          <a href="https://mypsalms.vercel.app/">
-                     <p>
-                         PSALMS  
-                    </p>
-               </a>   
-  <a href="https://myproverbs.vercel.app/">
-                     <p>
-                         PROVERBS
-                       </p>
-               </a>   
- <a href="https://second-thessalonians.vercel.app/ ">
-                     <p>
-                         RECEIVING CHRIST
-                       </p>
-               </a> 
                                   </div>                      
                                   <p className={styles.description}> 
         <code className={styles.publisher}>
