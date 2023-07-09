@@ -56,15 +56,15 @@
   tex-align: left;
 }
 .risen {
-  color: white;
+  color: #8a0303;
   position: sticky; 
   display: grid;
   align-items: center;
   justify-items: center;
   background-color: black;
-  opacity: 0.5;
+  opacity: 0.75;
   z-index: 2;
-  top: -10px;
+  top: 10px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-weigt: bold;
   font-size: 72px;
