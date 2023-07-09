@@ -304,7 +304,7 @@
   opacity: 1;
   background-size: cover;
   position: relative;
-  top: -110px;
+  top: -160px;
   display: grid;
   gap: 0.2%;
   justify-content: space-around;
@@ -356,7 +356,7 @@
   position: relative;
   padding-top: 15px;
   text-align: center;
-  top: 40px;
+  top: 0px;
 }
 #testimony {
   top: 100px;
