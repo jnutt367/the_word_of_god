@@ -61,8 +61,8 @@
   display: grid;
   align-items: center;
   justify-items: center;
-  background-color: black;
-  opacity: 0.3;
+  background-color: whitesmoke;
+  opacity: 0.75;
   z-index: 2;
   top: 10px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
