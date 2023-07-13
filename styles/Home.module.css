@@ -377,6 +377,11 @@
   color: #ffa500;
   padding-right: 5px;
 }
+.gfm-embed {
+background-color: black;
+  padding: 15px;
+}
+
 .sideprojects {
   width:100%;
   backgoud-color: grey;
