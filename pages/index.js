@@ -221,8 +221,8 @@ export default function Home() {
                <p className={styles.hide}> understanding proverbs and parables,
     the sayings and riddles of the wise.
                                   </p>
-                        
-                
+                                  </p>
+                                  </div>
             </main>
     </div>
 
