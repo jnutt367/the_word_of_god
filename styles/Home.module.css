@@ -358,7 +358,8 @@
   justify-content: center;
   align-self: center;
   color: white;
-  top: -100px;
+  position: relative;
+  top: -150px;
   text-align: center;
 }
 .testimony {
