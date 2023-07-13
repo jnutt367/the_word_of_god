@@ -49,7 +49,7 @@ export default function Home() {
 </p>
                                   
                                   <div className={styles.nav}>           
-        <a href="https://the-revelation.vercel.app/">
+        <a href="https://second-thessalonians.vercel.app/">
            <Image
                                 src="/previous.webp"
                                 alt="testimonials button"
