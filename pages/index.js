@@ -159,6 +159,12 @@ export default function Home() {
                          PROVERBS
                        </li>
                </a>   
+ <a href="#meaningless" target="_blank">
+                        <li className={styles.li}>
+                         ECCLESIASTES
+                       </li>
+               </a>   
+                      
  <a href="https://second-thessalonians.vercel.app/" target="_blank">
                      <li className={styles.li}>
                          RECEIVING CHRIST
