@@ -159,7 +159,7 @@ export default function Home() {
                          PROVERBS
                        </li>
                </a>   
- <a href="https://myproverbs.vercel.app/#meaningless" target="_blank">
+ <a href="https://myproverbs.vercel.app/#ecclesiastes" target="_blank">
                         <li className={styles.li}>
                          ECCLESIASTES
                        </li>
