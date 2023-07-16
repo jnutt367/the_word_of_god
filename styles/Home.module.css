@@ -12,7 +12,7 @@
  /*  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
   min-height: 100vh;  
   padding: 4rem 0;  
-  max-width: 900px;
+  max-width: 1200px;
   position:relative;
   top: 10px;
 }
@@ -450,9 +450,7 @@ background-color: black;
       left: 15px;
   }
   
-  .container {
-      margin-left: 15px;
-  }
+  
 }
 
 
