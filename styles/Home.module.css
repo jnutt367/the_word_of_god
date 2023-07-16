@@ -29,7 +29,7 @@
   align-items: center;
   justify-items: center;
   text-align: center;
-  padding-left: 40px;
+  
   
 }
 .word {
@@ -40,7 +40,7 @@
   z-index:5;
   top: 123px;
   text-align: center;
-  padding-left: 10px;
+  
 }
 
 .bible {
@@ -436,10 +436,12 @@ background-color: black;
          position: relative;
          top: -50;
          text-align: left;
-    }
+         padding-left: 20px;
+  }
   .word {
          top: -50;
          text-align: left;
+         padding-left: 20px;
   }
     .title {
         display: block;
