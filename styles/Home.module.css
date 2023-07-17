@@ -249,9 +249,12 @@
 }
 .cashapp {
     color: white;
-    backgroud-color:  #800080;
+    background-color:  #800080;
     z-index:10;
     position: relative;
+    text-align: center;
+    font-size: 32px;
+    font-family: cursive, fantasy, Ariel;
 }  
 
 .parables {
