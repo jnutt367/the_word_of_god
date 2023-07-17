@@ -171,15 +171,17 @@ export default function Home() {
                       </li>
                </a> 
                       
- <div className={styles.cashapp}>
+    
+                      </ul>
+<div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
                          DONATE    
                                
                                  
                                   </a>                                  
            
-                 </div>                      
-                      </ul>
+                 </div>                   
+                      
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
                             My Testimony:
