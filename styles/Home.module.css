@@ -249,8 +249,8 @@
 }
 .cashapp {
     color: white;
-    top: -100px;
-    background-color:  #800080;
+    top: -200px;
+    background-color: #8a0303;
     z-index:10;
     position: relative;
     text-align: center;
