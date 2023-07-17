@@ -250,6 +250,8 @@
 .cashapp {
     color: white;
     backgroud-color:  #800080;
+    z-index:10;
+    position: relative;
 }  
 
 .parables {
