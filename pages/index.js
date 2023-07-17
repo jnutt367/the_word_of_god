@@ -211,14 +211,14 @@ export default function Home() {
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
-                                  <div className={styles.cashapp}>
-<a href="https://cash.app/$JNutt367">
+                <div className={styles.cashapp}>
+                                  <a href="https://cash.app/$JNutt367">
                         $JNutt367 CASH APP ME!     
-                                  </div>
+                               
+                                 
                                   </a>                                  
            
-
-
+                 </div>
                
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7_CGP-12AE0?autoplay=1&mute=1" title="YouTube video player" frameborder="7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
