@@ -211,8 +211,12 @@ export default function Home() {
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
- <div className="gfm-embed" bg-black data-url="https://www.gofundme.com/f/thewordofgodrisen/widget/large"></div>
-            <script defer src="https://www.gofundme.com/static/js/embed.js"></script>        
+                                  <div className={styles.cashapp}>
+<a href="https://cash.app/$JNutt367">
+                        $JNutt367 CASH APP ME!     
+                                  </div>
+                                  </a>                                  
+           
 
 
                
