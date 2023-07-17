@@ -171,8 +171,14 @@ export default function Home() {
                       </li>
                </a> 
                       
-
-                      
+ <div className={styles.cashapp}>
+                                  <a href="https://cash.app/$JNutt367">
+                         DONATE    
+                               
+                                 
+                                  </a>                                  
+           
+                 </div>                      
                       </ul>
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
@@ -213,7 +219,7 @@ export default function Home() {
         </code>
                 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                        $JNutt367 CASH APP ME!     
+                        $JNutt367 DONATE    
                                
                                  
                                   </a>                                  
