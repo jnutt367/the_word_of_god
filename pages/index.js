@@ -164,7 +164,11 @@ export default function Home() {
                          ECCLESIASTES
                        </li>
                </a>   
-                      
+ <a href="https://myproverbs.vercel.app/#job" target="_blank">
+                        <li className={styles.li}>
+                         JOB
+                       </li>
+               </a>   
  <a href="https://second-thessalonians.vercel.app/" target="_blank">
                      <li className={styles.li}>
                          RECEIVING CHRIST
