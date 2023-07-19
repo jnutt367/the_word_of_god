@@ -62,7 +62,7 @@ export default function Home() {
                   
          <a href="https://www.facebook.com/DiscipleofChristJasonNutt">
            <Image
-                                src="/upward_pointing.webp"
+                                src="/home.webp"
                                 alt="youtube-icon"
                                 height={75}
                                 width={75}
