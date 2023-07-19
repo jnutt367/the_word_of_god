@@ -255,7 +255,7 @@
     position: relative;
     text-align: center;
     font-size: 32px;
-    font-family: cursive, fantasy, Ariel;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }  
 
 .parables {
