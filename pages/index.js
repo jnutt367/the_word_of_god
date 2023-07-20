@@ -61,6 +61,7 @@ export default function Home() {
          
                   
          <a className={styles.a} href="https://cash.app/$JNutt367">
+                                  <h1>Give</h1>
            <Image
                                 src="/give.webp"
                                 alt="give with cashapp"
