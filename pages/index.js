@@ -54,7 +54,7 @@ export default function Home() {
                                 src="/previous.webp"
                                 alt="testimonials button"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
@@ -62,10 +62,10 @@ export default function Home() {
                   
          <a href="https://www.facebook.com/DiscipleofChristJasonNutt">
            <Image
-                                src="/home.webp"
+                                src="/give.png"
                                 alt="youtube-icon"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>
@@ -77,7 +77,7 @@ export default function Home() {
                                 src="/next.webp"
                                 alt="youtube icon"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>           
