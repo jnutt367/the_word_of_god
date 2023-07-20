@@ -189,14 +189,15 @@
     margin-top: 10px;
 }
 .nav a {
- border-radius: 50%;  
+ border-radius: 50%; 
+ opacity: 0.8;
 }
   
 
 .nav a:hover {
-    scale: 1.1;
-    background-color: #8a0303;
-    opacity: 0.7;
+    scale: 1.05;
+    background-color: black;
+    opacity: 1;
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
