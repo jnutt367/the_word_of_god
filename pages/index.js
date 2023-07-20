@@ -49,7 +49,7 @@ export default function Home() {
 </p>
                                   
                                   <div className={styles.nav}>           
-        <a href="https://second-thessalonians.vercel.app/">
+        <a className={styles.a} href="https://second-thessalonians.vercel.app/">
            <Image
                                 src="/previous.webp"
                                 alt="testimonials button"
@@ -60,7 +60,7 @@ export default function Home() {
        </a>
          
                   
-         <a href="https://cash.app/$JNutt367">
+         <a className={styles.a} href="https://cash.app/$JNutt367">
            <Image
                                 src="/give.png"
                                 alt="youtube-icon"
@@ -72,7 +72,7 @@ export default function Home() {
           
          
      
-         <a href="https://mypsalms.vercel.app/">
+         <a className={styles.a} href="https://mypsalms.vercel.app/">
              <Image className={styles.youtubeicon}
                                 src="/next.webp"
                                 alt="youtube icon"
