@@ -190,12 +190,12 @@
 }
 .nav a {
  border-radius: 50%; 
- opacity: 0.8;
+ opacity: 0.9;
 }
   
 
 .nav a:hover {
-    scale: 1.05;
+    scale: 1.005;
     background-color: black;
     opacity: 1;
     border: 2px dotted whitesmoke;
