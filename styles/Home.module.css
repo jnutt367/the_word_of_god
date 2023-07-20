@@ -184,6 +184,11 @@
     position: relative;
     margin-top: 10px;
 }
+.nav a {
+ border-radius: 50%;  
+}
+  
+
 .nav a:hover {
     scale: 1.1;
     background-color: #8a0303;
