@@ -62,8 +62,8 @@ export default function Home() {
                   
          <a className={styles.a} href="https://cash.app/$JNutt367">
            <Image
-                                src="/give.png"
-                                alt="youtube-icon"
+                                src="/give.webp"
+                                alt="give with cashapp"
                                 height={75}
                                 width={90}
                                 priority
