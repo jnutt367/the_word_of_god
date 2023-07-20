@@ -60,7 +60,7 @@ export default function Home() {
        </a>
          
                   
-         <a href="https://www.facebook.com/DiscipleofChristJasonNutt">
+         <a href="https://cash.app/$JNutt367">
            <Image
                                 src="/give.png"
                                 alt="youtube-icon"
