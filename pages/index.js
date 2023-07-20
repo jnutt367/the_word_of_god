@@ -180,7 +180,7 @@ export default function Home() {
                       </ul>
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                         DONATE    
+                        Give a free will offering  
                                
                                  
                                   </a>                                  
@@ -226,7 +226,7 @@ export default function Home() {
         </code>
                 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                         DONATE    
+                          Give a free will offering  
                                
                                  
                                   </a>                                  
