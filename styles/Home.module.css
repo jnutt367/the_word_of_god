@@ -133,6 +133,10 @@
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
+
+.a {
+  border-radius: 50%;
+}
 .give:hover,
 .give:active,
 .give:focus {
