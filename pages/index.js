@@ -141,10 +141,10 @@ export default function Home() {
                             <li className={styles.li}>Letter of Paul to the Colossians</li>  
                         </a>
                         <a href="https://first-corinthians.vercel.app/#first_thessalonians" target="_blank">
-                            <li className={styles.li}>Paul's first Letter to the Tessalonians</li>  
+                            <li className={styles.li}>Paul's first Letter to the Thessalonians</li>  
                         </a>
                         <a href="https://first-corinthians.vercel.app/#first_thessalonians" target="_blank">
-                            <li className={styles.li}>Paul's Second Letter to the Tessalonians</li>  
+                            <li className={styles.li}>Paul's Second Letter to the Thessalonians</li>  
                         </a>                    
                       
                       
