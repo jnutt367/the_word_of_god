@@ -150,39 +150,39 @@ export default function Home() {
                       
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
-                         THE REVELATION  
+                         The Revelation  
                       </li>
                        </a>   
 
                       <a href="https://jesusparables.vercel.app/" target="_blank">
                       <li className={styles.li}>
-                         PARABLES   
+                         Parables
                       </li>
                    </a>   
 
                           <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
-                         PSALMS  
+                         Psalms  
                       </li>
                </a>   
   <a href="https://myproverbs.vercel.app/" target="_blank">
                         <li className={styles.li}>
-                         PROVERBS
+                         Proverbs
                        </li>
                </a>   
  <a href="https://myproverbs.vercel.app/#ecclesiastes" target="_blank">
                         <li className={styles.li}>
-                         ECCLESIASTES
+                         Ecclesiastes
                        </li>
                </a>   
  <a href="https://myproverbs.vercel.app/#job" target="_blank">
                         <li className={styles.li}>
-                         JOB
+                         Job
                        </li>
                </a>   
  <a href="https://second-thessalonians.vercel.app/" target="_blank">
                      <li className={styles.li}>
-                         RECEIVING CHRIST
+                         Salvation Station
                       </li>
                </a> 
                       
