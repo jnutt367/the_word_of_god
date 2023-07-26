@@ -145,8 +145,12 @@ export default function Home() {
                         </a>
                         <a href="https://second-corinthians.vercel.app/#second_thessalonians" target="_blank">
                             <li className={styles.li}>Paul's Second Letter to the Thessalonians</li>  
-                        </a>                    
-                      
+                        </a>   
+
+                         <a href=" https://matthew-coral.vercel.app/#first_timothy" target="_blank">
+                            <li className={styles.li}>Paul's First Letter to Timothy</li>  
+                          </a>       
+                     
                       
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
