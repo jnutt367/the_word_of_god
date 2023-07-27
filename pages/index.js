@@ -228,18 +228,8 @@ export default function Home() {
                           <p className={styles.paragraph}>
                             I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace of Jesus and the truth about His life, death and ressurection, and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
                           </p>  
-                         <div  className={styles.image}>
-       <Image 
-                                src="/workshop.png"
-                                alt="the Last supper"
-                                 height={900}
-                                width={2000}
-                                priority
-                              />
-           </div>
-                                  <div className={styles.sideprojects}>
-
-                                  </div>                      
+                       
+                                               
                                   <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
@@ -253,10 +243,7 @@ export default function Home() {
                                   </p> 
 
 
-               <p className={styles.hide}> understanding proverbs and parables,
-    the sayings and riddles of the wise.
-                                  </p>
-                                  </p>
+              
                                   </div>
             </main>
     </div>
