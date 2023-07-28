@@ -154,7 +154,7 @@ export default function Home() {
                             <li className={styles.li}>Paul's Second Letter to Timothy</li>  
                           </a>       
                     
-                        <a href="https://mark-alpha.vercel.app/#titus" target="_blank">
+                        <a href="https://luke-three.vercel.app/#titus" target="_blank">
                             <li className={styles.li}>Paul's Letter to Titus</li>  
                           </a>       
                       
