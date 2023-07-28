@@ -234,6 +234,7 @@ export default function Home() {
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
+                              </p>
                
                
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/7_CGP-12AE0?autoplay=1&mute=1" title="YouTube video player" frameborder="7" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
