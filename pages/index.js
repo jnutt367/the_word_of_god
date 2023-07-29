@@ -157,6 +157,14 @@ export default function Home() {
                         <a href="https://luke-three.vercel.app/#titus" target="_blank">
                             <li className={styles.li}>Paul's Letter to Titus</li>  
                           </a>       
+
+                        <a href="https://john-zeta.vercel.app/#philemon" target="_blank">
+                            <li className={styles.li}>Paul's Letter to Philemon</li>  
+                          </a>   
+
+                         <a href="https://acts-zeta.vercel.app/#hebrews" target="_blank">
+                            <li className={styles.li}>The book of Hebrews</li>  
+                          </a>  
                       
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
