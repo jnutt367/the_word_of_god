@@ -165,6 +165,10 @@ export default function Home() {
                          <a href="https://acts-zeta.vercel.app/#hebrews" target="_blank">
                             <li className={styles.li}>The book of Hebrews</li>  
                           </a>  
+                          <a href="https://romans-five.vercel.app/#james" target="_blank">
+                            <li className={styles.li}>The book of James “Ya'akov” (יעקב)</li>  
+                          </a>  
+                    
                       
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
