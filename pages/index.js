@@ -166,7 +166,7 @@ export default function Home() {
                             <li className={styles.li}>The book of Hebrews</li>  
                           </a>  
                           <a href="https://romans-five.vercel.app/#james" target="_blank">
-                            <li className={styles.li}>The book of James “Ya'akov” (יעקב)</li>  
+                            <li className={styles.li}>The book of James</li>  
                           </a>  
                     
                       
