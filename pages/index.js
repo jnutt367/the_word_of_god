@@ -168,7 +168,10 @@ export default function Home() {
                           <a href="https://romans-five.vercel.app/#james" target="_blank">
                             <li className={styles.li}>The book of James</li>  
                           </a>  
-                    
+                       <a href="https://galatians.vercel.app/#first_peter" target="_blank">
+                            <li className={styles.li}>The book of 1st Peter</li>  
+                          </a>  
+                     
                       
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
