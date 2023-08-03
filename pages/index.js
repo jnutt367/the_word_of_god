@@ -73,7 +73,7 @@ export default function Home() {
           
          
      
-         <a className={styles.a} href="https://mypsalms.vercel.app/">
+         <a className={styles.a} href="https://matthew-coral.vercel.app/">
              <Image className={styles.youtubeicon}
                                 src="/next.webp"
                                 alt="youtube icon"
