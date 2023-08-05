@@ -175,7 +175,18 @@ export default function Home() {
                          <a href="https://galatians.vercel.app/#second_peter" target="_blank">
                             <li className={styles.li}>The book of 2nd Peter</li>  
                           </a>  
-                                          
+
+                          <a href="https://ephesians.vercel.app/#first_john" target="_blank">
+                                      <li className={styles.li}>The book of 1st John</li>  
+                          </a>  
+
+                         <a href="https://ephesians.vercel.app/#second_john" target="_blank">
+                                      <li className={styles.li}>The book of 2nd John</li>  
+                          </a>  
+
+                         <a href="https://ephesians.vercel.app/#third_john" target="_blank">
+                                      <li className={styles.li}>The book of 3rd John</li>  
+                          </a>                        
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
                          The Revelation  
