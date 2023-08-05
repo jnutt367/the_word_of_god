@@ -194,7 +194,7 @@ export default function Home() {
                       
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
-                         The Revelation of Jesus to John on Patmos
+                         The Revelation
                       </li>
                        </a>   
 
