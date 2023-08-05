@@ -186,10 +186,15 @@ export default function Home() {
 
                          <a href="https://ephesians.vercel.app/#third_john" target="_blank">
                                       <li className={styles.li}>The book of 3rd John</li>  
-                          </a>                        
+                          </a>       
+
+                         <a href="https://phillipians.vercel.app/#jude" target="_blank">
+                                      <li className={styles.li}>The book of Jude</li>  
+                          </a>                           
+                      
                       <a href="https://first-thessalonians.vercel.app/" target="_blank">
                       <li className={styles.li}>
-                         The Revelation  
+                         The Revelation of Jesus to John on Patmos
                       </li>
                        </a>   
 
