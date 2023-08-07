@@ -220,7 +220,7 @@ export default function Home() {
                                   
             <ul>
 
-          <a href="#" target="_blank">
+          <a href="https://index-jnutt367.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Genesis
                       </li>
