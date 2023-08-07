@@ -91,8 +91,8 @@ export default function Home() {
        */
         </div>                  
     
-
-                   <p className={styles.new}>
+                              
+                    <p className={styles.new}>
                          NEW TESTAMENT NIV       
                     </p>
               
@@ -201,11 +201,31 @@ export default function Home() {
                          Parables
                       </li>
                    </a>   
-                    <p className={styles.new}>
-                         OLD TESTAMENT NIV       
-                    </p>
+                   
                                   
-                          <a href="https://mypsalms.vercel.app/" target="_blank">
+                        
+               <a href="https://second-thessalonians.vercel.app/" target="_blank">
+                     <li className={styles.li}>
+                         Salvation Station
+                      </li>
+               </a> 
+                      
+    
+                      </ul>
+             
+                                  
+               <p className={styles.new}>
+                   OLD TESTAMENT NIV       
+               </p>  
+                                  
+            <ul>
+
+          <a href="#" target="_blank">
+                    <li className={styles.li}>
+                         Genesis
+                      </li>
+           </a>                                     
+  <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Psalms  
                       </li>
@@ -225,14 +245,9 @@ export default function Home() {
                          Job
                        </li>
                </a>   
- <a href="https://second-thessalonians.vercel.app/" target="_blank">
-                     <li className={styles.li}>
-                         Salvation Station
-                      </li>
-               </a> 
-                      
-    
-                      </ul>
+                                  
+            </ul>
+                                            
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
                         Give 
