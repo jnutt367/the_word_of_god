@@ -422,6 +422,9 @@ background-color: black;
   text-align: center;
   background-color: black;
   color: white;
+  left: -10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   font-weight: 900;
 }
 @media (min-width: 1080px) {
