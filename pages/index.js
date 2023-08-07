@@ -201,26 +201,11 @@ export default function Home() {
                          Parables
                       </li>
                    </a>   
-                   
-                                  
-                        
-               <a href="https://second-thessalonians.vercel.app/" target="_blank">
-                     <li className={styles.li}>
-                         Salvation Station
-                      </li>
-               </a> 
-                      
-    
-                      </ul>
-             
-                                  
-               <p className={styles.new}>
-                   OLD TESTAMENT NIV       
-               </p>  
-                                  
-            <ul>
 
-          <a href="https://index-jnutt367.vercel.app/" target="_blank">
+                     <li className={styles.li.title}>
+                         Old Testament
+                      </li>
+                   <a href="https://index-jnutt367.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Genesis
                       </li>
@@ -244,9 +229,25 @@ export default function Home() {
                         <li className={styles.li}>
                          Job
                        </li>
-               </a>   
+               </a>                                     
+                        
+               <a href="https://second-thessalonians.vercel.app/" target="_blank">
+                     <li className={styles.li}>
+                         Salvation Station
+                      </li>
+               </a> 
+                      
+    
+                      </ul>
+             
                                   
-            </ul>
+             
+                                  
+          
+
+          
+                                  
+          
                                             
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
