@@ -382,7 +382,7 @@
   align-self: center;
   color: white;
   position: relative;
-  top: -300px;
+  top: 300px;
   text-align: center;
 }
 .testimony {
