@@ -202,7 +202,7 @@ export default function Home() {
                       </li>
                    </a>   
 
-                     <li className={styles.li.title}>
+                     <li className={styles.old}>
                          Old Testament
                       </li>
                    <a href="https://index-jnutt367.vercel.app/" target="_blank">
