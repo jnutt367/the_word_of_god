@@ -419,8 +419,11 @@ background-color: black;
   list-style-type: none; 
 }
 .old {
+  text-align: center;
+  background-color: black;
   color: white;
-  padding: 10px;
+  font-weight: 900;
+  padding: 12px;
 }
 @media (min-width: 1080px) {
          .image {
