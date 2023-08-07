@@ -90,12 +90,10 @@ export default function Home() {
        <iframe width="100%" height="315" src="https://www.youtube.com/embed/2qGfpHmpIqQ?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
        */
         </div>                  
-        <p className={styles.new}>
-                       &darr; SCROLL DOWN &darr;       
-                    </p> 
+    
 
                    <p className={styles.new}>
-                         THE NEW TESTAMENT NIV       
+                         NEW TESTAMENT NIV       
                     </p>
               
                     <ul id="index" className={styles.index}>
@@ -203,7 +201,10 @@ export default function Home() {
                          Parables
                       </li>
                    </a>   
-
+                    <p className={styles.new}>
+                         OLD TESTAMENT NIV       
+                    </p>
+                                  
                           <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Psalms  
