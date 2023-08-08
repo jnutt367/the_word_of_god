@@ -420,6 +420,7 @@ background-color: black;
   list-style-type: none; 
 }
 .old {
+  margin-left: -42px;
   text-align: center;
   background-color: black;
   color: white;
