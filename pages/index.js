@@ -251,7 +251,7 @@ export default function Home() {
                                             
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                        Give 
+                        Donations
                                
                                  
                                   </a>                                  
