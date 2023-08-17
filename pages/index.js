@@ -205,11 +205,38 @@ export default function Home() {
                      <li className={styles.old}>
                          OLD TESTAMENT NIV
                       </li>
-                   <a href="https://index-jnutt367.vercel.app/" target="_blank">
+                   <a href="https://mytorah.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Genesis
                       </li>
-           </a>                                     
+           </a>       
+
+<a href="https://mytorah.vercel.app/#exodus" target="_blank">
+                    <li className={styles.li}>
+                         Exodus
+                      </li>
+           </a>           
+<a href="https://mytorah.vercel.app/#leviticus" target="_blank">
+                    <li className={styles.li}>
+                         Leviticus
+                      </li>
+           </a>           
+<a href="https://mytorah.vercel.app/#numbers" target="_blank">
+                    <li className={styles.li}>
+                         Numbers
+                      </li>
+           </a>                                             
+
+<a href="https://mytorah.vercel.app/#deuteronomy" target="_blank">
+                    <li className={styles.li}>
+                         Deuteronomy
+                      </li>
+           </a>    
+<a href="https://mytorah.vercel.app/#joshua" target="_blank">
+                    <li className={styles.li}>
+                         Joshua under construction
+                      </li>
+           </a>                                              
   <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Psalms  
