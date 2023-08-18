@@ -234,7 +234,7 @@ export default function Home() {
            </a>    
 <a href="https://mytorah.vercel.app/#joshua" target="_blank">
                     <li className={styles.li}>
-                         Joshua under construction
+                         Joshua
                       </li>
            </a>                                              
   <a href="https://mypsalms.vercel.app/" target="_blank">
@@ -260,7 +260,7 @@ export default function Home() {
                         
                <a href="https://second-thessalonians.vercel.app/" target="_blank">
                      <li className={styles.li}>
-                         Salvation Station
+                         Salvation Guidance
                       </li>
                </a> 
                       
