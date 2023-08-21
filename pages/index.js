@@ -236,7 +236,20 @@ export default function Home() {
                     <li className={styles.li}>
                          Joshua
                       </li>
-           </a>                                              
+           </a>     
+
+<a href="https://mytorah.vercel.app/#judges" target="_blank">
+                    <li className={styles.li}>
+                         Judges
+                      </li>
+           </a>         
+
+<a href="https://mytorah.vercel.app/#ruth" target="_blank">
+                    <li className={styles.li}>
+                         Ruth
+                      </li>
+           </a>       
+
   <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Psalms  
