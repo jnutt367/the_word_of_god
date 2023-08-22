@@ -249,7 +249,62 @@ export default function Home() {
                          Ruth
                       </li>
            </a>       
+<a href="https://mytorah.vercel.app/#first_samuel" target="_blank">
+                    <li className={styles.li}>
+                        I Samuel
+                      </li>
+           </a>       
 
+<a href="https://mytorah.vercel.app/#second_samuel" target="_blank">
+                    <li className={styles.li}>
+                         II Samuel
+                      </li>
+           </a>       
+
+<a href="https://mytorah.vercel.app/#first_kings" target="_blank">
+                    <li className={styles.li}>
+                         I Kings
+                      </li>
+           </a>     
+
+<a href="https://mytorah.vercel.app/#second_kings" target="_blank">
+                    <li className={styles.li}>
+                        II Kings
+                      </li>
+           </a>       
+                                  
+<a href="https://mytorah.vercel.app/#first_chronicles" target="_blank">
+                    <li className={styles.li}>
+                         I Chronicles
+                      </li>
+           </a>     
+
+<a href="https://mytorah.vercel.app/#second_chronicles" target="_blank">
+                    <li className={styles.li}>
+                        II Chronicles
+                      </li>
+           </a>       
+
+<a href="https://mytorah.vercel.app/#ezra" target="_blank">
+                    <li className={styles.li}>
+                         Ezra
+                      </li>
+           </a>     
+
+<a href="https://mytorah.vercel.app/#nehemiah" target="_blank">
+                    <li className={styles.li}>
+                        II Nehemiah
+                      </li>
+           </a>       
+
+
+<a href="https://mytorah.vercel.app/#esther" target="_blank">
+                    <li className={styles.li}>
+                        Esther
+                      </li>
+           </a>                                         
+                                  
+                                  
   <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
                          Psalms  
