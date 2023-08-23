@@ -249,7 +249,7 @@ export default function Home() {
                          Ruth
                       </li>
            </a>       
-<a href="https://mytorah.vercel.app/#first_samuel" target="_blank">
+<a href="https://mytorah.vercel.app/#samuel" target="_blank">
                     <li className={styles.li}>
                         I Samuel
                       </li>
