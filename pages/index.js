@@ -293,7 +293,7 @@ export default function Home() {
 
 <a href="https://mytorah.vercel.app/#nehemiah" target="_blank">
                     <li className={styles.li}>
-                        II Nehemiah
+                         Nehemiah
                       </li>
            </a>       
 
@@ -302,8 +302,13 @@ export default function Home() {
                     <li className={styles.li}>
                         Esther
                       </li>
-           </a>                                         
+           </a>        
                                   
+<a href="https://myproverbs.vercel.app/#job" target="_blank">
+                        <li className={styles.li}>
+                         Job
+                       </li>
+               </a>         
                                   
   <a href="https://mypsalms.vercel.app/" target="_blank">
                     <li className={styles.li}>
@@ -320,11 +325,11 @@ export default function Home() {
                          Ecclesiastes
                        </li>
                </a>   
- <a href="https://myproverbs.vercel.app/#job" target="_blank">
+ <a href="https://myproverbs.vercel.app/#song_of_songs" target="_blank">
                         <li className={styles.li}>
-                         Job
+                         Song of Songs
                        </li>
-               </a>                                     
+               </a>   
                         
                <a href="https://second-thessalonians.vercel.app/" target="_blank">
                      <li className={styles.li}>
