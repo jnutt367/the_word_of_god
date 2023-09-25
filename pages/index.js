@@ -83,8 +83,7 @@ export default function Home() {
                                   
                                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/f9sqEX3-8jw?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
              
-                                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/ak06MSETeo4?si=A67XZBu2EdrRQYoy?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      </div>                  
-    
+                                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ak06MSETeo4?si=A67XZBu2EdrRQYoy?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                               
                     <p className={styles.new}>
                          NEW TESTAMENT NIV       
