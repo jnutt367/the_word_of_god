@@ -32,7 +32,7 @@ export default function Home() {
                               <div  className={styles.image}>
                     
                                <Image 
-                                src="/risen_2.png"
+                                src="/https://www.youtube.com/embed/2qGfpHmpIqQ?autoplay=1&mute=1"
                                 alt="Jesus"
                                 height={900}
                                 width={2000}
