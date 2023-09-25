@@ -31,13 +31,7 @@ export default function Home() {
                          
                               <div  className={styles.image}>
                     
-                               <Image 
-                                src="/https://www.youtube.com/embed/2qGfpHmpIqQ?autoplay=1&mute=1"
-                                alt="Jesus"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/2qGfpHmpIqQ?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     
                 
                        </div>     
