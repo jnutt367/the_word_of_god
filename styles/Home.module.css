@@ -206,8 +206,14 @@
 .iframe {
   position: relative;
   width: 100%;
+  top: -25px;
+}
+.iframe1 {
+  position: relative;
+  width: 100%;
   top: -225px;
 }
+
 .glory {
     text-align: center;
     color: white;
