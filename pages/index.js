@@ -420,7 +420,7 @@ export default function Home() {
 
 
                                   
-<a href="https://the-revelation.vercel.app/#zachariah" target="_blank">
+<a href="https://the-revelation.vercel.app/#zechariah" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Zechariah
                        </li>
@@ -455,14 +455,7 @@ export default function Home() {
                                   
           
                                             
-<div className={styles.cashapp}>
-                                  <a href="https://cash.app/$JNutt367">
-                        Contributions Welcome!
-                               
-                                 
-                                  </a>                                  
-           
-                 </div>                   
+        
                       
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
@@ -503,6 +496,16 @@ export default function Home() {
 
               
                                   </div>
+<div className={styles.cashapp}>
+                                  <a href="https://cash.app/$JNutt367">
+                        Contributions Welcome!
+                               
+                                 
+                                  </a>                                  
+           
+                 </div>           
+
+                              
             </main>
     </div>
 
