@@ -493,9 +493,6 @@ export default function Home() {
                                   <p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20
                                   </p> 
 
-
-              
-                                  </div>
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
                         Contributions Welcome!
@@ -504,6 +501,8 @@ export default function Home() {
                                   </a>                                  
            
                  </div>           
+              
+                                  </div>
 
                               
             </main>
