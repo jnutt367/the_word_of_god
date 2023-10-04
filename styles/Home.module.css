@@ -2,7 +2,7 @@
   background-color: black;
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);  display: grid;
   align-items: center;
-  max-height: 2000px;  
+  max-height: 2800px;  
   justify-content: center;
   text-align: left;
   position: relative;
@@ -11,9 +11,9 @@
 .main {
   background-color: black;
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
-  max-height: 2000px;  
+  max-height: 2800px;  
   padding: 4rem 0;  
-  max-width: 1400px;
+  max-width: 1200px;
   position:relative;
   top: 10px;
 }
