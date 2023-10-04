@@ -381,26 +381,26 @@ export default function Home() {
                </a> 
 
 
-<a href="/#jonah" target="_blank">
+<a href="https://the-revelation.vercel.app/#jonah" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Jonah
                        </li>
                </a>   
                         
-               <a href="/#micah" target="_blank">
+               <a href="https://first-thessalonians.vercel.app/#micah" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Micah
                       </li>
                </a> 
 
 
-<a href="/#nahum" target="_blank">
+<a href="https://first-thessalonians.vercel.app/#nahum" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Nahum
                        </li>
                </a>   
                         
-               <a href="/#habakkuk" target="_blank">
+               <a href="https://first-thessalonians.vercel.app/#habakkuk" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Habakkuk
                       </li>
