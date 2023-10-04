@@ -325,12 +325,124 @@ export default function Home() {
                        </li>
                </a>   
                         
-               <a href="https://second-thessalonians.vercel.app/" target="_blank">
+             
+
+<a href="https://the-revelation.vercel.app/#isaiah" target="_blank">
+                    <li className={styles.li}>
+                          The Prophet: Isaiah
+                      </li>
+               </a>   
+  <a href="#" target="_blank">
+                        <li className={styles.li}>
+                          The Prophet: Jeremiah
+                       </li>
+               </a>   
+ <a href="" target="_blank">
+                        <li className={styles.li}>
+                         Lamentations
+                       </li>
+               </a>   
+ <a href="/#ezekiel" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Ezekiel
+                       </li>
+               </a>   
+                        
+               <a href="/#daniel" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Daniel
+                      </li>
+               </a> 
+
+
+<a href="/#hosea" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Hosea
+                       </li>
+               </a>   
+                        
+               <a href="/#joel" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Joel
+                      </li>
+               </a> 
+
+
+<a href="/#amos" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Amos
+                       </li>
+               </a>   
+                        
+               <a href="/#obadiah" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Obadiah
+                      </li>
+               </a> 
+
+
+<a href="/#jonah" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Jonah
+                       </li>
+               </a>   
+                        
+               <a href="/#micah" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Micah
+                      </li>
+               </a> 
+
+
+<a href="/#nahum" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Nahum
+                       </li>
+               </a>   
+                        
+               <a href="/#habakkuk" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Habakkuk
+                      </li>
+               </a> 
+
+ <a href="https://the-revelation.vercel.app/#zephaniah" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Zephaniah
+                      </li>
+               </a> 
+
+<a href="https://the-revelation.vercel.app/#haggai" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Haggai
+                       </li>
+               </a>   
+
+
+                                  
+<a href="https://the-revelation.vercel.app/#zachariah" target="_blank">
+                        <li className={styles.li}>
+                         The Prophet: Zechariah
+                       </li>
+               </a>   
+
+
+ <a href="https://the-revelation.vercel.app/#malachi" target="_blank">
+                     <li className={styles.li}>
+                         The Prophet: Malachi
+                      </li>
+               </a> 
+                                  
+
+                                     
+
+                                  
+ <a href="https://second-thessalonians.vercel.app/" target="_blank">
                      <li className={styles.li}>
                          Salvation Guidance
                       </li>
                </a> 
-                      
+                                  
     
                       </ul>
              
@@ -345,7 +457,7 @@ export default function Home() {
                                             
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                        Donations
+                        Contributions Welcome!
                                
                                  
                                   </a>                                  
