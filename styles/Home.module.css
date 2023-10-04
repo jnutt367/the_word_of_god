@@ -281,7 +281,7 @@
     text-align: center;
     color: white;
     position: relative;
-    padding-right: 50px;
+    padding-top: 10px;
     padding-left: 50px;
     margin-top: 25px;
     top: -235px;
@@ -335,7 +335,7 @@
   background-color: black;
   color: white;
   font-weight: 900;
-  padding: 2px;
+  
 }
 .index  {
   background-color: #ffa500;
