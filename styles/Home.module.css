@@ -2,6 +2,7 @@
   background-color: black;
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);  display: grid;
   align-items: center;
+  min-height: 100vh;  
   justify-content: center;
   text-align: left;
   position: relative;
