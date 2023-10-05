@@ -355,26 +355,26 @@ export default function Home() {
                </a> 
 
 
-<a href="/#hosea" target="_blank">
+<a href="https://the-revelation.vercel.app/#hosea" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Hosea
                        </li>
                </a>   
                         
-               <a href="/#joel" target="_blank">
+               <a href="https://the-revelation.vercel.app/#joel" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Joel
                       </li>
                </a> 
 
 
-<a href="/#amos" target="_blank">
+<a href="https://the-revelation.vercel.app/#amos" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Amos
                        </li>
                </a>   
                         
-               <a href="/#obadiah" target="_blank">
+               <a href="https://the-revelation.vercel.app/#obadiah" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Obadiah
                       </li>
@@ -387,20 +387,20 @@ export default function Home() {
                        </li>
                </a>   
                         
-               <a href="https://first-thessalonians.vercel.app/#micah" target="_blank">
+               <a href="https://the-revelation.vercel.app/#micah" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Micah
                       </li>
                </a> 
 
 
-<a href="https://first-thessalonians.vercel.app/#nahum" target="_blank">
+<a href="https://the-revelation.vercel.app/#nahum" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Nahum
                        </li>
                </a>   
                         
-               <a href="https://first-thessalonians.vercel.app/#habakkuk" target="_blank">
+               <a href="https://the-revelation.vercel.app/#habakkuk" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Habakkuk
                       </li>
