@@ -348,7 +348,7 @@ export default function Home() {
                        </li>
                </a>   
                         
-               <a href="/#daniel" target="_blank">
+               <a href="https://the-revelation.vercel.app/#daniel" target="_blank">
                      <li className={styles.li}>
                          The Prophet: Daniel
                       </li>
