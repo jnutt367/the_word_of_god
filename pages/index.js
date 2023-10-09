@@ -332,17 +332,17 @@ export default function Home() {
                           The Prophet: Isaiah
                       </li>
                </a>   
-  <a href="#" target="_blank">
+  <a href="https://the-revelation.vercel.app/#jeremiah" target="_blank">
                         <li className={styles.li}>
                           The Prophet: Jeremiah
                        </li>
                </a>   
- <a href="" target="_blank">
+ <a href="https://the-revelation.vercel.app/#lamentations" target="_blank">
                         <li className={styles.li}>
                          Lamentations
                        </li>
                </a>   
- <a href="/#ezekiel" target="_blank">
+ <a href="https://the-revelation.vercel.app/#ezekiel" target="_blank">
                         <li className={styles.li}>
                          The Prophet: Ezekiel
                        </li>
