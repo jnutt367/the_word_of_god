@@ -319,7 +319,7 @@ export default function Home() {
                          Ecclesiastes
                        </li>
                </a>   
- <a href="https://the-revelation.vercel.app/#song_of_songs" target="_blank">
+ <a href="https://myproverbs.vercel.app/#song_of_songs" target="_blank">
                         <li className={styles.li}>
                          Song of Songs
                        </li>
