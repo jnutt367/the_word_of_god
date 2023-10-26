@@ -50,6 +50,9 @@ export default function Home() {
                                 width={90}
                                 priority
                               />
+<p>
+                          Previous      
+                            </p>                                     
        </a>
          
                   
@@ -76,6 +79,9 @@ export default function Home() {
                                 width={90}
                                 priority
                               />
+<p>
+                          Next
+                            </p>                                        
        </a>           
          
                </div>
