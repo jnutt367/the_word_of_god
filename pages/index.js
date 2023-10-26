@@ -51,7 +51,7 @@ export default function Home() {
                                 priority
                               />
 <p>
-                          Previous/ Last Page    
+                          Previous Book    
                             </p>                                     
        </a>
          
@@ -80,7 +80,7 @@ export default function Home() {
                                 priority
                               />
 <p>
-                          Next book in order
+                          Next Book
                             </p>                                        
        </a>           
          
