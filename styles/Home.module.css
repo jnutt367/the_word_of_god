@@ -1,5 +1,5 @@
 .container {
-  background-color: black;
+  background-color: #634E59;
   /*
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   */
@@ -12,7 +12,7 @@
 }
 
 .main {
-  background-color: black;
+  background-color: #634E59;
   /*
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
   max-height: 20000px;  
@@ -23,7 +23,7 @@
 }
 
 .holy {
-  backgroud-color: black;
+  backgroud-color: #634E59;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -68,7 +68,7 @@
   display: grid;
   align-items: center;
   justify-items: center;
-  background-color: black;
+  background-color: #634E59;
   opacity: 0.9;
   z-index: 10;
   top: 10px;
@@ -81,7 +81,7 @@
 .title {
   color: white;
   position: sticky; 
-  background-color: black;
+  background-color: #634E59;
   opacity: 0.1;
   padding-top: 40px;
   z-index: 2;
@@ -183,7 +183,7 @@
 }
 .nav {
     top: -225px;
-    background-color: black;
+    background-color: #634E59;
     border: 2px solid  #bf9b30;
     opacity: 1;
     padding: 5px;
