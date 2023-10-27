@@ -389,7 +389,8 @@
   /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
   border: 2px inset white;
   border-radius: 15px;
-  box-shadow: 12px 12px 2px 1px #294542;
+  box-shadow: 1px 1px #158577; -1em 0 .4em #294542;  
+  /* box-shadow: 12px 12px 2px 1px #294542;*/
   display: grid;
   algin-items: center;
   justify-content: center;
