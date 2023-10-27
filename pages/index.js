@@ -536,11 +536,15 @@ This is a video of the apps humble beginnings, well. this was about 5 months int
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
         </code>
                               </p>
-               
+
+
+                              
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/KSpB0un2S8g?si=UuJaUiMPkr9Paexd?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Dgeyy7CbxuM?si=bP7u7Scb24ZW7g3e?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+ <div  className={styles.iframe1}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Dgeyy7CbxuM?si=bP7u7Scb24ZW7g3e?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                              </div>
                               
                                   <p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20
                                   </p> 
