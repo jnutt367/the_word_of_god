@@ -385,8 +385,11 @@
   grid-template-columns: 2fr 2fr;
 }
 .aside {
-  background-color: black;
+  background-color: #158577;
   /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
+  border: 2px inset white;
+  border-radius: 15px;
+  box-shadow: 12px 12px 2px 1px #294542;
   display: grid;
   algin-items: center;
   justify-content: center;
