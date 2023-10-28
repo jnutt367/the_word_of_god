@@ -347,7 +347,7 @@ export default function Home() {
                       
 
                                   
-   <p className={styles.new}>
+   <li className={styles.old}>
                          NEW TESTAMENT NIV       
                     </p>
               
