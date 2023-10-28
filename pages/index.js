@@ -349,7 +349,7 @@ export default function Home() {
                                   
    <li className={styles.old}>
                          NEW TESTAMENT NIV       
-                    </p>
+                    </li>
               
                    
                       <a href="#testimony" target="_blank">  
