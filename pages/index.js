@@ -557,7 +557,7 @@ This is a video of the apps humble beginnings, well. this was about 5 months int
                               
                                   </div>
 
-                              
+                              </div>                
             </main>
     </div>
 
