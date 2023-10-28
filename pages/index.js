@@ -93,117 +93,10 @@ export default function Home() {
              
                                   </div>
                               
-                    <p className={styles.new}>
-                         NEW TESTAMENT NIV       
-                    </p>
-              
-                    <ul id="index" className={styles.index}>
-                      <a href="#testimony" target="_blank">  
-                          <li className={styles.li}>My Salvation Story</li>  
-                      </a>
-                      <a href="https://matthew-coral.vercel.app/" target="_blank">  
-                          <li className={styles.li}>The gospel of Matthew</li>  
-                      </a>
-                      <a href="https://mark-alpha.vercel.app/" target="_blank">  
-                           <li className={styles.li}>The gospel of Mark</li> 
-                      </a>
-                      <a href="https://luke-three.vercel.app/" target="_blank">  
-                            <li className={styles.li}>The gospel of Luke</li> 
-                       </a>
-                       <a href="https://john-zeta.vercel.app/" target="_blank">  
-                           <li className={styles.li}>The gospel of John</li> 
-                       </a>
-                       <a href="https://acts-zeta.vercel.app/" target="_blank">  
-                           <li className={styles.li}>Acts of the Apostles</li> 
-                       </a>
-                       <a href="https://romans-five.vercel.app/" target="_blank">
-                            <li className={styles.li}>Letter of Paul to the Romans</li>  
-                        </a>
-                        <a href="https://first-corinthians.vercel.app/" target="_blank">
-                           <li className={styles.li}>I Corinthians</li>  
-                        </a>
-                        <a href="https://second-corinthians.vercel.app/" target="_blank">
-                            <li className={styles.li}>II Corinthians</li> 
-                        </a>
-                        <a href="https://galatians.vercel.app/" target="_blank">
-                           <li className={styles.li}>Letter of Paul to the Galatians</li>  
-                        </a>
-                        <a href="https://ephesians.vercel.app/" target="_blank">
-                           <li className={styles.li}>Letter of Paul to the Ephesians</li>  
-                        </a>
-                      
-                        <a href="https://phillipians.vercel.app/" target="_blank">
-                               <li className={styles.li}>Letter of Paul to the Philippians</li>  
-                        </a>
-                         
-                        <a href="https://colossians.vercel.app/" target="_blank">
-                            <li className={styles.li}>Letter of Paul to the Colossians</li>  
-                        </a>
-                        <a href="https://first-corinthians.vercel.app/#first_thessalonians" target="_blank">
-                            <li className={styles.li}>Paul's first Letter to the Thessalonians</li>  
-                        </a>
-                        <a href="https://second-corinthians.vercel.app/#second_thessalonians" target="_blank">
-                            <li className={styles.li}>Paul's Second Letter to the Thessalonians</li>  
-                        </a>   
-
-                         <a href="https://matthew-coral.vercel.app/#first_timothy" target="_blank">
-                            <li className={styles.li}>Paul's First Letter to Timothy</li>  
-                          </a>       
-                      <a href="https://mark-alpha.vercel.app/#second_timothy" target="_blank">
-                            <li className={styles.li}>Paul's Second Letter to Timothy</li>  
-                          </a>       
-                    
-                        <a href="https://luke-three.vercel.app/#titus" target="_blank">
-                            <li className={styles.li}>Paul's Letter to Titus</li>  
-                          </a>       
-
-                        <a href="https://john-zeta.vercel.app/#philemon" target="_blank">
-                            <li className={styles.li}>Paul's Letter to Philemon</li>  
-                          </a>   
-
-                         <a href="https://acts-zeta.vercel.app/#hebrews" target="_blank">
-                            <li className={styles.li}>The book of Hebrews</li>  
-                          </a>  
-                          <a href="https://romans-five.vercel.app/#james" target="_blank">
-                            <li className={styles.li}>The book of James</li>  
-                          </a>  
-                       <a href="https://galatians.vercel.app/#first_peter" target="_blank">
-                            <li className={styles.li}>The book of 1st Peter</li>  
-                          </a>  
-
-                         <a href="https://galatians.vercel.app/#second_peter" target="_blank">
-                            <li className={styles.li}>The book of 2nd Peter</li>  
-                          </a>  
-
-                          <a href="https://ephesians.vercel.app/#first_john" target="_blank">
-                                      <li className={styles.li}>The book of 1st John</li>  
-                          </a>  
-
-                         <a href="https://ephesians.vercel.app/#second_john" target="_blank">
-                                      <li className={styles.li}>The book of 2nd John</li>  
-                          </a>  
-
-                         <a href="https://ephesians.vercel.app/#third_john" target="_blank">
-                                      <li className={styles.li}>The book of 3rd John</li>  
-                          </a>       
-
-                         <a href="https://phillipians.vercel.app/#jude" target="_blank">
-                                      <li className={styles.li}>The book of Jude</li>  
-                          </a>                           
-                      
-                      <a href="https://phillipians.vercel.app/#revelation" target="_blank">
-                      <li className={styles.li}>
-                         The Revelation
-                      </li>
-                       </a>   
-
-                      <a href="https://jesusparables.vercel.app/" target="_blank">
-                      <li className={styles.li}>
-                         Parables
-                      </li>
-                   </a>   
-
-                     <li className={styles.old}>
+                 
+ <ul id="index" className={styles.index}>
+                                  
+                                  <li className={styles.old}>
                          OLD TESTAMENT NIV
                       </li>
                    <a href="https://mytorah.vercel.app/" target="_blank">
@@ -452,8 +345,118 @@ export default function Home() {
                                   
     
                       </ul>
-             
+
                                   
+   <p className={styles.new}>
+                         NEW TESTAMENT NIV       
+                    </p>
+              
+                   
+                      <a href="#testimony" target="_blank">  
+                          <li className={styles.li}>My Salvation Story</li>  
+                      </a>
+                      <a href="https://matthew-coral.vercel.app/" target="_blank">  
+                          <li className={styles.li}>The gospel of Matthew</li>  
+                      </a>
+                      <a href="https://mark-alpha.vercel.app/" target="_blank">  
+                           <li className={styles.li}>The gospel of Mark</li> 
+                      </a>
+                      <a href="https://luke-three.vercel.app/" target="_blank">  
+                            <li className={styles.li}>The gospel of Luke</li> 
+                       </a>
+                       <a href="https://john-zeta.vercel.app/" target="_blank">  
+                           <li className={styles.li}>The gospel of John</li> 
+                       </a>
+                       <a href="https://acts-zeta.vercel.app/" target="_blank">  
+                           <li className={styles.li}>Acts of the Apostles</li> 
+                       </a>
+                       <a href="https://romans-five.vercel.app/" target="_blank">
+                            <li className={styles.li}>Letter of Paul to the Romans</li>  
+                        </a>
+                        <a href="https://first-corinthians.vercel.app/" target="_blank">
+                           <li className={styles.li}>I Corinthians</li>  
+                        </a>
+                        <a href="https://second-corinthians.vercel.app/" target="_blank">
+                            <li className={styles.li}>II Corinthians</li> 
+                        </a>
+                        <a href="https://galatians.vercel.app/" target="_blank">
+                           <li className={styles.li}>Letter of Paul to the Galatians</li>  
+                        </a>
+                        <a href="https://ephesians.vercel.app/" target="_blank">
+                           <li className={styles.li}>Letter of Paul to the Ephesians</li>  
+                        </a>
+                      
+                        <a href="https://phillipians.vercel.app/" target="_blank">
+                               <li className={styles.li}>Letter of Paul to the Philippians</li>  
+                        </a>
+                         
+                        <a href="https://colossians.vercel.app/" target="_blank">
+                            <li className={styles.li}>Letter of Paul to the Colossians</li>  
+                        </a>
+                        <a href="https://first-corinthians.vercel.app/#first_thessalonians" target="_blank">
+                            <li className={styles.li}>Paul's first Letter to the Thessalonians</li>  
+                        </a>
+                        <a href="https://second-corinthians.vercel.app/#second_thessalonians" target="_blank">
+                            <li className={styles.li}>Paul's Second Letter to the Thessalonians</li>  
+                        </a>   
+
+                         <a href="https://matthew-coral.vercel.app/#first_timothy" target="_blank">
+                            <li className={styles.li}>Paul's First Letter to Timothy</li>  
+                          </a>       
+                      <a href="https://mark-alpha.vercel.app/#second_timothy" target="_blank">
+                            <li className={styles.li}>Paul's Second Letter to Timothy</li>  
+                          </a>       
+                    
+                        <a href="https://luke-three.vercel.app/#titus" target="_blank">
+                            <li className={styles.li}>Paul's Letter to Titus</li>  
+                          </a>       
+
+                        <a href="https://john-zeta.vercel.app/#philemon" target="_blank">
+                            <li className={styles.li}>Paul's Letter to Philemon</li>  
+                          </a>   
+
+                         <a href="https://acts-zeta.vercel.app/#hebrews" target="_blank">
+                            <li className={styles.li}>The book of Hebrews</li>  
+                          </a>  
+                          <a href="https://romans-five.vercel.app/#james" target="_blank">
+                            <li className={styles.li}>The book of James</li>  
+                          </a>  
+                       <a href="https://galatians.vercel.app/#first_peter" target="_blank">
+                            <li className={styles.li}>The book of 1st Peter</li>  
+                          </a>  
+
+                         <a href="https://galatians.vercel.app/#second_peter" target="_blank">
+                            <li className={styles.li}>The book of 2nd Peter</li>  
+                          </a>  
+
+                          <a href="https://ephesians.vercel.app/#first_john" target="_blank">
+                                      <li className={styles.li}>The book of 1st John</li>  
+                          </a>  
+
+                         <a href="https://ephesians.vercel.app/#second_john" target="_blank">
+                                      <li className={styles.li}>The book of 2nd John</li>  
+                          </a>  
+
+                         <a href="https://ephesians.vercel.app/#third_john" target="_blank">
+                                      <li className={styles.li}>The book of 3rd John</li>  
+                          </a>       
+
+                         <a href="https://phillipians.vercel.app/#jude" target="_blank">
+                                      <li className={styles.li}>The book of Jude</li>  
+                          </a>                           
+                      
+                      <a href="https://phillipians.vercel.app/#revelation" target="_blank">
+                      <li className={styles.li}>
+                         The Revelation
+                      </li>
+                       </a>   
+
+                      <a href="https://jesusparables.vercel.app/" target="_blank">
+                      <li className={styles.li}>
+                         Parables
+                      </li>
+                   </a>   
+                                  </ul>
              
                                   
           
