@@ -344,7 +344,7 @@ export default function Home() {
                </a> 
                                   
     
-                      </ul>
+                      
 
                                   
    <p className={styles.new}>
@@ -456,7 +456,7 @@ export default function Home() {
                          Parables
                       </li>
                    </a>   
-                                  </ul>
+            </ul>
              
                                   
           
