@@ -469,6 +469,11 @@ background-color: black;
         padding-left: 150px;
         padding-right: 150px;  
   }
+
+.iframe1 {
+  height: 500px;
+}
+  
 } 
 @media (max-width: 769px) {
     .image {
