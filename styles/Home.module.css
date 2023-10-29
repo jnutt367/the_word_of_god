@@ -1,8 +1,6 @@
 .container {
   background-color: #634E59;
-  /*
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
-  */
   opacity:0.9;
   display: grid;
   align-items: center;
@@ -14,9 +12,7 @@
 
 .main {
   background-color: #634E59;
-  /*
   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
-  */
   opacity:0.8;
   max-height: 200000px;  
   padding: 4rem 0;  
