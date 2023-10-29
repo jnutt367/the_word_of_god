@@ -201,9 +201,7 @@
 
 .nav a:hover {
     scale: 1.005;
-    background-color: black;
     opacity: 1;
-    border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
 
