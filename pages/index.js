@@ -54,7 +54,7 @@ export default function Home() {
                   
          <a className={styles.a} href="https://cash.app/$JNutt367">
                             <p>
-                            Free Will Offerings      
+                            For Giving   
                             </p>    
            <Image
                                 src="/donations_please.webp"
