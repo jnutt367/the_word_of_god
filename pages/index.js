@@ -30,8 +30,7 @@ export default function Home() {
              </p>
                          
 <div className={styles.iframe1}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/Dgeyy7CbxuM?si=uQWqB8b9hUxNOeoe?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
- 
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/9rrklT73sXE?si=9Dqbu5y272AE6Ey-?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>   
   <p className={styles.parables}>
          God was, God is & God forever will be...the long awaited messiah, King Jesus! And He has RISEN!                               
