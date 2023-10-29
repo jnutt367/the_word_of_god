@@ -67,7 +67,7 @@
   display: grid;
   align-items: center;
   justify-items: center;
-  background-color: #634E59;
+  background-color: transparent;
   opacity: 0.9;
   z-index: 10;
   top: 10px;
