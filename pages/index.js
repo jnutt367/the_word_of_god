@@ -14,6 +14,13 @@ export default function Home() {
         <title>The WORD of GOD: "Risen"</title>
         <meta name="description" content="The WORD of GOD Risen, A bible application for prayer meditation and reading" />
         <link rel="icon" href="/favicon.ico" />
+
+<link
+  rel="apple-touch-icon"
+  href="/apple-icon?<generated>"
+  type="image/<generated>"
+  sizes="<generated>"
+/>    
       </Head>
        
      
