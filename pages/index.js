@@ -40,7 +40,7 @@ export default function Home() {
 <iframe width="100%" height="300" src="https://www.youtube.com/embed/9rrklT73sXE?si=9Dqbu5y272AE6Ey-?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>   
   <p className={styles.parables}>
-         Hebrews 4:12 (NIV)
+         
 For the word of God is alive and active. Sharper than any double-edged sword, it penetrates even to dividing soul and spirit, joints and marrow; it judges the thoughts and attitudes of the heart.                              
 </p>
                                   
