@@ -463,6 +463,10 @@ background-color: black;
   .word {
     top: 143px;
   }
+
+  .parables {
+    top: -100px; 
+  }
 }
 @media (min-width: 769px) {
   .aside {
