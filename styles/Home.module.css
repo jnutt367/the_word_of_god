@@ -465,7 +465,8 @@ background-color: black;
   }
 
   .parables {
-    top: -80px; 
+    top: -120px; 
+    z-index: 10;
   }
 }
 @media (min-width: 769px) {
