@@ -476,6 +476,11 @@ background-color: black;
         padding-right: 150px;  
   }
 
+  .parables {
+    z-index: 10;
+    margin-top: -200px;
+  }
+  
 .iframe1 {
   height: 500px;
 }
