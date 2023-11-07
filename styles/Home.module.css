@@ -283,7 +283,8 @@
     color: white;
     position: relative;
     padding: 15px;
-    margin-top: 25px;
+    margin-top: 125px;
+    margin-bottom: 25px;
     z-index: 10;
     top: -200px;
     font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
