@@ -36,8 +36,8 @@ export default function Home() {
                     RISEN
              </p>
                          
-<div className={styles.iframe}>
- <iframe width="100%" height="315" src="https://www.youtube.com/embed/zr54VtQNbgg?si=LrvNBtRZ_GAxX_BC?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div className={styles.iframe1}>
+ <iframe width="100%" height="315" margin-bottom="25" src="https://www.youtube.com/embed/zr54VtQNbgg?si=LrvNBtRZ_GAxX_BC?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
     </div>   
     
