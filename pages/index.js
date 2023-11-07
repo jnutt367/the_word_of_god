@@ -37,11 +37,11 @@ export default function Home() {
              </p>
                          
 <div className={styles.iframe1}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/9rrklT73sXE?si=9Dqbu5y272AE6Ey-?autoplay=1&mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/zr54VtQNbgg?si=LrvNBtRZ_GAxX_BC?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
     </div>   
     
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/zr54VtQNbgg?si=LrvNBtRZ_GAxX_BC?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    
+   
     <p className={styles.parables}>
          
 The word of God is alive & active. Sharper than any double-edged sword, it penetrates even to dividing soul & spirit, joints & marrow; it judges the thoughts & attitudes of the heart.                              
