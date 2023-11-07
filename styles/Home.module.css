@@ -213,7 +213,7 @@
   width: 100%;
   top: -100px;
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 150px;
   
 }
 
@@ -292,7 +292,7 @@
     font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 600;
     font-size: 16px;
-    text-shadow: 8a0303 3px 0 10px;
+    text-shadow: #8a0303 3px 0 10px;
 }
 .transcribed {
    text-align:center;
