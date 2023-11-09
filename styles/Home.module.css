@@ -472,6 +472,10 @@ background-color: black;
     text-align: center;
     
   }
+.wide {
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+}  
 }
 @media (min-width: 769px) {
   .aside {
@@ -490,12 +494,13 @@ background-color: black;
   width: 50%;
   padding-left: 5%;
 }
-  
-} 
 .wide {
   display: grid;
-  grid-template-columns: 2fr 2fr 2fr;
+  grid-template-columns: 1fr 2fr 1fr;
 }
+  
+} 
+
 
 @media (max-width: 769px) {
     .image {
