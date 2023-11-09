@@ -90,7 +90,7 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
        </a>           
          
                </div>
-        
+        <div className={styles.wide}>
                                    <div  className={styles.iframe}>
                                       <iframe width="100%" height="315" src="https://www.youtube.com/embed/2qGfpHmpIqQ?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
@@ -103,7 +103,7 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
                                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/f9sqEX3-8jw?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
              
                                   </div>
-                              
+      </div> 
                  
  <ul id="index" className={styles.index}>
                                   
