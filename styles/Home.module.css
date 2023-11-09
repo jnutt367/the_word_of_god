@@ -479,12 +479,14 @@ background-color: black;
   .parables {
     z-index: 10;
     margin-top: -200px;
-    float: right;
+    top: -200px;
+    left: 300px;
   }
   
 .iframe1 {
   height: 500px;
   width: 50%;
+  padding-left: 25%;
 }
   
 } 
