@@ -480,13 +480,12 @@ background-color: black;
     z-index: 10;
     margin-top: -200px;
     top: -200px;
-    left: 300px;
   }
   
 .iframe1 {
   height: 500px;
   width: 50%;
-  padding-left: 25%;
+  padding-left: 5%;
 }
   
 } 
