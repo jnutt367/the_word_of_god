@@ -470,6 +470,8 @@ background-color: black;
     top: -200px;
     left: 400px;
     padding-right: 15px;
+    text-align: right;
+    float: right;
   }
 }
 @media (min-width: 769px) {
