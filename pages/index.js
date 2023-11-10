@@ -16,7 +16,7 @@ export default function Home() {
         <title>The WORD of GOD: "Risen"</title>
       <meta
   name="description"
-  content="Check out The WORD of GOD Risen bible app!. Visit the Youtube channel at the same name. The entire NIV bible plus Testimony from the publisher, Jesus is salvation, Recovery for alcoholism in Christ Jesus, for prayer meditation and deep study"
+  content="Check out The WORD of GOD Risen bible app!. Visit the Youtube channel at the same name. The entire NIV bible plus Testimony from the publisher and programmer Jason Nutt, Jesus is salvation, Recovery for alcoholism in Christ Jesus, for prayer meditation and deep study"
 />
         <link rel="icon" href="/favicon.ico" />
 
