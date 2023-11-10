@@ -9,10 +9,15 @@ export default function Home() {
           <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
     
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
         <title>The WORD of GOD: "Risen"</title>
-        <meta name="description" content="The WORD of GOD Risen, A bible application for prayer meditation and reading" />
+      <meta
+  name="description"
+  content="Check out The WORD of GOD Risen bible app!. Visit the Youtube channel at the same name. The entire NIV bible plus Testimony from the publisher, Jesus is salvation, Recovery for alcoholism in Christ Jesus, for prayer meditation and deep study"
+/>
         <link rel="icon" href="/favicon.ico" />
 
 <link
