@@ -42,7 +42,7 @@ export default function Home() {
              </p>
                          
 <div className={styles.iframe1}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/afVN-7vY0KA?si=27o9Zi13vbACZ6Xr?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/_c3WIBen-aA?si=rmvqQ1-HLc6OrDGv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
     </div>   
     
