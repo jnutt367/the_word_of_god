@@ -57,8 +57,8 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
            <Image
                                 src="/previous.webp"
                                 alt="testimonials button"
-                                height={75}
-                                width={90}
+                              height={25}
+                                width={25}
                                 priority
                               />
 <p>
@@ -74,8 +74,8 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
            <Image
                                 src="/donations_please.webp"
                                 alt="give with cashapp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -86,8 +86,8 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
              <Image className={styles.youtubeicon}
                                 src="/next.webp"
                                 alt="youtube icon"
-                                height={75}
-                                width={90}
+                               height={25}
+                                width={25}
                                 priority
                               />
 <p>
