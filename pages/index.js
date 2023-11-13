@@ -48,7 +48,7 @@ export default function Home() {
    
     <p className={styles.parables}>
          
-The word of God is alive & active. Sharper than any double-edged sword, it penetrates even to dividing soul & spirit, joints & marrow; it judges the thoughts & attitudes of the heart.                              
+The word of God is alive & active. Sharper than any double-edged sword, {...}; it judges the thoughts & attitudes of the heart.                              
 </p>
                                   
                                   <div className={styles.nav}>           
