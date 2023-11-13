@@ -42,8 +42,7 @@ export default function Home() {
              </p>
                          
 <div className={styles.iframe1}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/_c3WIBen-aA?si=rmvqQ1-HLc6OrDGv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9rrklT73sXE?si=ASKzxE0IfWG_wPQA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>   
     
    
@@ -54,6 +53,9 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
                                   
                                   <div className={styles.nav}>           
         <a className={styles.a} href="https://second-thessalonians.vercel.app/">
+    <p className={styles.p}>
+Previous
+    </p>
            <Image
                                 src="/previous.webp"
                                 alt="testimonials button"
@@ -66,7 +68,9 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
          
                   
          <a className={styles.a} href="https://cash.app/$JNutt367">
-                          
+    <p className={styles.p}>
+Give
+    </p>
            <Image
                                 src="/donations_please.webp"
                                 alt="give with cashapp"
@@ -79,6 +83,10 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
          
      
          <a className={styles.a} href="https://matthew-coral.vercel.app/">
+
+    <p className={styles.p}>
+Next
+    </p>
              <Image className={styles.youtubeicon}
                                 src="/next.webp"
                                 alt="youtube icon"
