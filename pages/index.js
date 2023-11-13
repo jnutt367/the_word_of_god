@@ -61,16 +61,12 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
                                 width={25}
                                 priority
                               />
-<p>
-                          Previous Book    
-                            </p>                                     
+                            
        </a>
          
                   
          <a className={styles.a} href="https://cash.app/$JNutt367">
-                            <p>
-                            For Giving   
-                            </p>    
+                          
            <Image
                                 src="/donations_please.webp"
                                 alt="give with cashapp"
@@ -90,9 +86,7 @@ The word of God is alive & active. Sharper than any double-edged sword, it penet
                                 width={25}
                                 priority
                               />
-<p>
-                          Next Book
-                            </p>                                        
+                                   
        </a>           
          
                </div>
