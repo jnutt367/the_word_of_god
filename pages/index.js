@@ -566,7 +566,7 @@ This is a video of the apps humble beginnings, well. this was about 5 months int
 
 <div className={styles.cashapp}>
                                   <a href="https://cash.app/$JNutt367">
-                        Free will offerings Welcome!
+                        Free will offering
                                
                                  
                                   </a>                                  
