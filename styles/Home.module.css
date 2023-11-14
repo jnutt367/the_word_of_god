@@ -1,6 +1,7 @@
 .container {
-  background-color: #634E59;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+  background-color: black;
+  /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+  */
   opacity:1;
   display: grid;
   align-items: center;
@@ -11,8 +12,9 @@
 }
 
 .main {
-  background-color: #634E59;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+  background-color: black;
+ /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+  */
   opacity: 1;
   max-height: 200000px;  
   padding: 4rem 0;  
@@ -389,7 +391,7 @@
   grid-template-columns: 2fr 2fr;
 }
 .aside {
-  background-color: #293645;
+  background-color: #232b2b;
   /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
   border: 2px inset white;
   border-radius: 15px;
