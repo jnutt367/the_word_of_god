@@ -487,9 +487,10 @@ background-color: black;
   }
 
  .parables {
-    top: -300px; 
+    top: -400px; 
     font-size: 1.5rem;
    font-family: fantasy, cursive;
+   margin-bottom: -200px;
  }
    .iframe1 {
   height: 500px;
