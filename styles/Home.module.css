@@ -486,8 +486,10 @@ background-color: black;
         padding-right: 150px;  
   }
 
- 
-.iframe1 {
+ .parables {
+    top: -300px; 
+ }
+   .iframe1 {
   height: 500px;
   width: 50%;
   padding-left: 5%;
