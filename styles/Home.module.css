@@ -491,9 +491,9 @@ background-color: black;
   .parables {
     z-index: 10;
     margin-top: -200px;
-    top: -400px;
-    left: 300px;
-    padding-right: 100px;
+    top: -500px;
+    left: 500px;
+    margin-right: 100px;
     text-align: right;
   }
   
