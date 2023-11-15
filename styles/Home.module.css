@@ -470,13 +470,20 @@ background-color: black;
     top: 143px;
   }
 
-  .parables {
+  
+ .parables {
     z-index: 10;
-    top: -200px;
-    padding: 50px;
-    text-align: center;
-    
+    margin-top: -200px;
+    top: -300px;
+    width: 400px;
+    height: 500px;
+    text-align: right;
+    left: -100px;
+    float: right;
   }
+  
+
+  
 .wide {
   display: grid;
   grid-template-columns: 2fr 2fr 2fr;
@@ -488,17 +495,7 @@ background-color: black;
         padding-right: 150px;  
   }
 
-  .parables {
-    z-index: 10;
-    margin-top: -200px;
-    top: -300px;
-    width: 400px;
-    height: 500px;
-    text-align: right;
-    left: -100px;
-    float: right;
-  }
-  
+ 
 .iframe1 {
   height: 500px;
   width: 50%;
