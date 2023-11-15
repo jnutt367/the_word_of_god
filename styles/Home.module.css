@@ -488,6 +488,8 @@ background-color: black;
 
  .parables {
     top: -300px; 
+    font-size: 3rem;
+   font-family: fantasy, cursive;
  }
    .iframe1 {
   height: 500px;
