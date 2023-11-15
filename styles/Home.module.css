@@ -493,8 +493,9 @@ background-color: black;
     margin-top: -200px;
     top: -500px;
     left: 500px;
-    margin-right: 100px;
+    width: 300px;
     text-align: right;
+    float: right;
   }
   
 .iframe1 {
