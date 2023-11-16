@@ -42,7 +42,8 @@ export default function Home() {
              </p>
                          
 <div className={styles.iframe1}>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/TkwLE2OsVQ0?si=vH-3hHKvooBIXREO?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+
     
     </div>   
     
@@ -559,8 +560,7 @@ This is a video of the apps humble beginnings, well. this was about 5 months int
         </code>
                               </p>
 
-
-                              
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/0kSDHQCbtJE?si=xYNMODdJLZjKyF2C?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                               
  
