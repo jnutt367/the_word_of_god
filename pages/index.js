@@ -49,7 +49,11 @@ export default function Home() {
    
     <p className={styles.parables}>
          
-The word of God is alive & active. Sharper than any double-edged sword; ... it judges the thoughts & attitudes of the heart.                              
+Isaiah 41:10
+ So do not fear, for I am with you;
+    do not be dismayed, for I am your God.
+I will strengthen you and help you;
+    I will uphold you with my righteous right hand.                        
 </p>
                                   
                                   <div className={styles.nav}>           
