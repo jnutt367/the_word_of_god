@@ -295,7 +295,7 @@
     margin-bottom: 25px;
     z-index: 10;
     top: -200px;
-    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Decorative, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 600;
     font-size: 16px;
     text-shadow: #8a0303 1px 1px 1px;
@@ -489,8 +489,9 @@ background-color: black;
  .parables {
     top: -400px; 
     font-size: 1.5rem;
-   font-family: fantasy, cursive;
+   font-family: Decorative, fantasy, cursive;
    margin-bottom: -200px;
+   padding: 15px;
  }
    .iframe1 {
   height: 500px;
