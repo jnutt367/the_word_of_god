@@ -185,7 +185,8 @@
 }
 .nav {
     top: -225px;
-    background-color: #634E59;
+    background-color:black;
+    background-image: linear-gradient(to bottom right, #8a0303, black;  
     border: 2px solid  #bf9b30;
     opacity: 1;
     padding: 5px;
