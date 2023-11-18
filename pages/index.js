@@ -49,7 +49,7 @@ export default function Home() {
    
     <p className={styles.parables}>
          
-I. Better the poor whose walk is blameless than a fool whose lips are perverse. II. Desire without knowledge is not good— how much more will hasty feet miss the way! Proverbs XIX: I - II               
+Isaiah 41:10 (NIV) "So do not fear, for I am with you; do not be dismayed, for I am your God. ...               
 </p>
                                   
                                   <div className={styles.nav}>           
