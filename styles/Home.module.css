@@ -447,10 +447,11 @@ background-color: black;
   margin-left: -42px;
   text-align: center;
   background-color: gold;
-  color: white;
+  color: black;
   padding-top: 10px;
   padding-bottom: 10px;
   font-weight: 900;
+  background-image: linear-gradient(to bottom right, black, gold);
 }
 @media (min-width: 1080px) {
          .image {
