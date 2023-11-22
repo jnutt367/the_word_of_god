@@ -54,7 +54,7 @@ Isaiah 41:10 (NIV) "So do not fear, for I am with you; do not be dismayed, for I
                                   <div className={styles.nav}>           
         <a className={styles.a} href="https://second-thessalonians.vercel.app/">
     <p className={styles.p}>
-Previous
+Prev
     </p>
            <Image
                                 src="/previous.webp"
