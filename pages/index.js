@@ -48,7 +48,7 @@ export default function Home() {
    
     <p className={styles.parables}>
          
-Isaiah 41:10 (NIV) "So do not fear, for I am with you; do not be dismayed, for I am your God. ...               
+Isaiah 41:10 (NIV) "do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you;               
 </p>
                                   
                                   <div className={styles.nav}>           
