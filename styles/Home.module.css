@@ -75,7 +75,7 @@
   font-size: 72px;
   color: gold;
   animation-name: example;
-  animation-duration: 4s;  
+  animation-duration: 15s;  
   }
 @keyframes example {
   from {color: gold;}
