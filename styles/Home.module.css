@@ -75,7 +75,7 @@
   font-size: 72px;
   color: gold;
   animation-name: example;
-  animation-duration: 5s ease;  
+  animation-duration: 5s;  
   }
 @keyframes example {
   from {opacity: 0.9;}
