@@ -75,7 +75,7 @@
   font-size: 72px;
   color: gold;
   animation-name: example;
-  animation-duration: 2s;  
+  animation-duration: 1s;  
   animation-iteration-count: 10;
 }
 @keyframes example {
@@ -84,7 +84,7 @@
 }
 @keyframes example {
   from {color: gold;}
-  to {color: red;}
+  to {color: #880808;}
 }
 
 .title {
