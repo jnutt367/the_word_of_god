@@ -79,7 +79,7 @@
   }
 @keyframes example {
   from {color: gold;}
-  to {background-color: red;}
+  to {color: red;}
 }
 .title {
   color: white;
