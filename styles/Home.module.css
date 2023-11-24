@@ -75,11 +75,11 @@
   font-size: 72px;
   color: gold;
   animation-name: example;
-  animation-duration: 5s ease bounce;  
+  animation-duration: 5s ease;  
   }
 @keyframes example {
-  from {color: gold;}
-  to {color: red;}
+  from {top: -10px;}
+  to {top: -100px;}
 }
 .title {
   color: white;
