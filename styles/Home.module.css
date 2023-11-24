@@ -503,8 +503,8 @@ background-color: black;
   height: 500px ;
   width: 55%;
   padding-left: 25px;
-  marigin-bottom: -200px;
-  margin-top: -300px;     
+  margin-bottom: -300px;
+  margin-top: -250px;     
 }
 .wide {
   display: grid;
