@@ -76,12 +76,17 @@
   color: gold;
   animation-name: example;
   animation-duration: 2s;  
-  animation-iteration-count: -1;
+  animation-iteration-count: 10;
 }
 @keyframes example {
   from {opacity: 0.9;}
   to {opacity: 0.0005;}
 }
+@keyframes example {
+  from {color: gold;}
+  to {color: red;}
+}
+
 .title {
   color: white;
   position: sticky; 
