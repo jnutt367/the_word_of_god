@@ -80,7 +80,7 @@
 }
 @keyframes example {
   from {opacity: 0.9;}
-  to {opacity: 0.0005, repeat: -1;}
+  to {opacity: 0.0005;}
 }
 .title {
   color: white;
