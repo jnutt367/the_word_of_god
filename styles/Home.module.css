@@ -545,5 +545,10 @@ background-color: black;
  
   
 }
+@media (min-width: 900px) {
+  .parables {
+    left: 100px;
+  }
+}
 
 
