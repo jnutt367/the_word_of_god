@@ -75,7 +75,7 @@
   font-size: 72px;
   color: gold;
   animation-name: example;
-  animation-duration: 15s;  
+  animation-duration: 5s ease bounce;  
   }
 @keyframes example {
   from {color: gold;}
