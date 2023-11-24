@@ -62,24 +62,25 @@
   tex-align: left;
 }
 .risen {
-  color: gold;
   position: sticky; 
   display: grid;
   align-items: center;
   justify-items: center;
   background-color: transparent;
-  /*
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);  
-  */
   opacity: 0.9;
   z-index: 10;
   top: -10px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-weigt: 900;
   font-size: 72px;
+  color: gold;
+  animation-name: example;
+  animation-duration: 4s;  
+  }
+@keyframes example {
+  from {color: gold;}
+  to {background-color: red;}
 }
-
-
 .title {
   color: white;
   position: sticky; 
