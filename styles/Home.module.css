@@ -498,11 +498,13 @@ background-color: black;
    padding: 15px;
  }
    .iframe1 {
-  margin-top: -100px;
+ 
   top: 200px;
   height: 500px ;
   width: 55%;
   padding-left: 25px;
+  marigin-bottom: -200px;
+  margin-top: -300px;     
 }
 .wide {
   display: grid;
