@@ -78,8 +78,8 @@
   animation-duration: 5s ease;  
   }
 @keyframes example {
-  from { opacity: 0.9; }
-  to { opacity: 0.3; }
+  from {opacity: 0.9;}
+  to {opacity: 0.3;}
 }
 .title {
   color: white;
