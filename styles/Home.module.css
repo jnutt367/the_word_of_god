@@ -75,7 +75,7 @@
   font-size: 72px;
   color: gold;
   animation-name: example;
-  animation-duration: 1s;  
+  animation-duration: 3s;  
   animation-iteration-count: 10;
 }
 @keyframes example {
