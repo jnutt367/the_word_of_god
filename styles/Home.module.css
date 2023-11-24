@@ -471,8 +471,9 @@ background-color: black;
     top: 143px;
   }
 
-  
-
+.parables {
+    width: 500px;
+}
   
 
   
@@ -500,8 +501,10 @@ background-color: black;
  }
    .iframe1 {
   margin-top: -100px;
+  top: 200px;
   height: 500px ;
   width: 55%;
+  padding-left: 25px;
 }
 .wide {
   display: grid;
