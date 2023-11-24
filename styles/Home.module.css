@@ -78,8 +78,8 @@
   animation-duration: 5s ease;  
   }
 @keyframes example {
-  from {top: -10px;}
-  to {top: -100px;}
+  from {font-family: Ariel;}
+  to {font-family: fantasy,cursive;}
 }
 .title {
   color: white;
