@@ -500,9 +500,10 @@ background-color: black;
    font-size: 1.15rem;
    margin-top: 50px;
    padding: 15px;
+   line-height: 200%; 
  }
-   .iframe1 {
- 
+  
+.iframe1 {
   top: 225px;
   height: 400px ;
   width: 55%;
