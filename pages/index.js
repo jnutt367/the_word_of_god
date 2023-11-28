@@ -87,7 +87,7 @@ Give
     <p className={styles.p}>
 Next
     </p>
-             <Image className={styles.youtubeicon}
+             <Image
                                 src="/next.webp"
                                 alt="youtube icon"
                                height={25}
