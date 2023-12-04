@@ -27,7 +27,7 @@
 .holy {
   background-color: transparent;
   color: white;
-  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Montserrat,Roboto, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
   top: 70px;
@@ -40,7 +40,7 @@
 .word {
   font-size: 36px;
   color: white;
-  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Montserrat,Roboto, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:5;
   top: 123px;
@@ -52,7 +52,7 @@
   top: 17px;
   z-index: 5;
   margin-top: 0;
-  font-family: sans serif, sans-serif, cursive, fantasy;
+  font-family: Montserrat,Roboto, sans, serif, sans-serif, cursive, fantasy;
   color: white;
   font-size: 52px;
   padding-left: 5px;
