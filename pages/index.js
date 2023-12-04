@@ -11,7 +11,7 @@ export default function Home() {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  <link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
 <link
-          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
           rel="stylesheet"
         />        
         <title>The WORD of GOD: "Risen"</title>
