@@ -82,10 +82,10 @@
 }
 @keyframes example {
   0%   {color:#880808; left:0px; top:0px;}
-  25%  {color:gold; left:200px; top:0px; opacity: 0.3;}
-  50%  {color:#880808; left:200px; top:200px;}
+  25%  {color:gold; left:200px; top:0px; opacity: 0.6;}
+  50%  {color:purple; left:200px; top:200px;}
   75%  {color:gold; left:0px; top:200px;}
-  100% {color:#880808; left:0px; top:0px; opacity: 0.3;}
+  100% {color:red; left:0px; top:0px; opacity: 0.8;}
 }
 
 
