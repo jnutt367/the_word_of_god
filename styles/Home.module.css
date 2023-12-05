@@ -309,7 +309,16 @@
     font-family: Roboto, sans, serif, sans-serif, cursive, fantasy;
     font-size: 16px;
     text-shadow: grey 1px 1px 1px;
+    animation-name: parables;
+    animation-duration: 2s;  
+    animation-iteration-count: 1;
 }
+@keyframes parables {
+  0%  {left:-3000px}  
+  100% { left: 0px}  
+}
+  
+
 .transcribed {
    text-align:center;
    color: white;
