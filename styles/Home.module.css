@@ -315,7 +315,7 @@
 }
 @keyframes parables {
   0%  {left:-3000px}  
-  100% { left: 750px}  
+  100% { color: gold; left: 750px}  
 }
   
 
@@ -511,8 +511,8 @@ background-color: black;
    height: 450px;
    font-size: 1.15rem;
    margin-top: 50px;
-   background-color: black;
-   opacity: 0.7;
+   background-color: blue;
+   opacity: 0.4;
    padding: 15px;
    line-height: 350%; 
    border: 1px solid white;
