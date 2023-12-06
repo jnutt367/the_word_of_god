@@ -302,7 +302,7 @@
     color: whitesmoke;
     position: relative;
     padding: 15px;
-    background-image: linear-gradient(to bottom right, #002147, #87CEEB); 
+    background-color: transparent; 
     margin-bottom: 25px;
     margin-top: 25px;    
     z-index: 10;
