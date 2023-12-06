@@ -491,16 +491,15 @@ background-color: black;
     top: 143px;
   }
 
-.parables {
-    left: 900px;
-  }
-}
+
   
 .wide {
   display: grid;
   grid-template-columns: 2fr 2fr 2fr;
 }  
-
+.parables {
+    left: 900px;
+  }
 }
 @media (min-width: 769px) {
   .aside {
