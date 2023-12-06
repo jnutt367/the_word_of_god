@@ -498,6 +498,9 @@ background-color: black;
   display: grid;
   grid-template-columns: 2fr 2fr 2fr;
 }  
+.parables {
+    left: 750px;
+  }  
 }
 @media (min-width: 769px) {
   .aside {
@@ -570,9 +573,7 @@ background-color: black;
 }  
 
 @media (min-width: 900px) {
-  .parables {
-    left: 750px;
-  }
+  
 }
 
 
