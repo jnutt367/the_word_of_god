@@ -106,7 +106,7 @@ Next
                </div>
         <div className={styles.wide}>
                                    <div  className={styles.iframe}>
-                                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/2qGfpHmpIqQ&autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/2qGfpHmpIqQ?si=RG4oqIRY1AYfN3TX&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                                  
                                   
@@ -114,7 +114,7 @@ Next
                                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/ak06MSETeo4?si=A67XZBu2EdrRQYoy&autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                    </div>
                                    <div className={styles.iframe}>
-                                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/f9sqEX3-8jw&autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                  <iframe width="100%" height="315" src="https://www.youtube.com/embed/8oz1JK19_B0?si=kWnl5okXYksbRw7N&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
              
                                   </div>
       </div> 
