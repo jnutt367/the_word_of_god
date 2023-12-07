@@ -315,8 +315,8 @@
     animation-iteration-count: 1;
 }
 @keyframes parables {
-  0%  {left:-3000px}  
-  100% { color: gold; left: 750px}  
+  0%  {top:-3000px}  
+  100% { color: gold; top: -200px}  
 }
   
 
