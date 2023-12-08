@@ -318,7 +318,7 @@
 }
 @keyframes parables {
   0%  {top:-3000px}  
-  100% { color: gold; top: -200px}  
+  100% { color: silver; top: -200px}  
 }
   
 
@@ -521,7 +521,7 @@ background-color: black;
    line-height: 300%; 
    border: 1px solid white;
    border-radius: 15px;
-   box-shadow: 0px 0px 2px 2px black;    
+   box-shadow: 0px 0px 2px 2px gold;    
  }
   
 .iframe1 {
