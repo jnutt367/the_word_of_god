@@ -75,7 +75,7 @@
   font-family: Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-weight: 900;
   font-size: 72px;
-  color: black;
+  color: white;
   animation-name: example;
   animation-duration: 3s;  
   animation-iteration-count: 1;
@@ -521,7 +521,7 @@ background-color: black;
    line-height: 300%; 
    border: 1px solid white;
    border-radius: 15px;
-   box-shadow: 0px 0px 2px 2px gold;    
+   box-shadow: 0px 0px 2px 2px #002147;    
  }
   
 .iframe1 {
