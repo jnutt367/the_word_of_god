@@ -300,7 +300,7 @@
 .parables {
     display: grid;
     text-align: center;
-    color: gold;
+    color: white;
     position: relative;
     padding: 15px;
     background-color: transparent; 
@@ -308,8 +308,8 @@
     margin-top: 25px;    
     z-index: 10;
     top: -200px;
-    font-family: Roboto, sans, serif, sans-serif, cursive, fantasy;
-    font-size: 16px;
+    font-family: Dancing Script, sans, serif, sans-serif, cursive, fantasy;
+    font-size: 24px;
     text-shadow: grey 1px 1px 1px;
     animation-name: parables;
     animation-duration: 5s;  
@@ -518,7 +518,7 @@ background-color: black;
    color: gold;
    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
    padding: 15px;
-   line-height: 350%; 
+   line-height: 300%; 
    border: 1px solid white;
    border-radius: 15px;
    box-shadow: 0px 0px 2px 2px black;    
