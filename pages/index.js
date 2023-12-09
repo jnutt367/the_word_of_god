@@ -494,11 +494,55 @@ Next
                       
                         <div className={styles.aside}>
                           <h2 id="testimony" className={styles.testimony}>
-                            My Testimony:
+                            
+                             My Testimony: Breaking Free, Building Hope
                           </h2>
                           <p className={styles.paragraph}>
                           As it is written: "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down. They triumphed over him by the blood of the Lamb and by the word of their testimony;"
+
+                                  
                           </p>
+<h3>   
+In the echoes of Revelation, a voice proclaimed, "Now have come the salvation, power, and kingdom of our God." These words, a beacon of hope, resonate with my journey.
+
+                                  </h3>
+
+<p className={styles.paragraph}>I am Jason Nutt. Once, I was deeply entrenched in the throes of alcoholism, a life riddled with lies and self-indulgence. I wore the cloak of irresponsibility, blinding myself to my duties. I frequented rehab, a carousel of failed attempts until, by the grace of the Holy Spirit, I found redemption.
+
+Transformed, I embraced a new purpose. 
+                                  </p>
+
+  
+<p className={styles.paragraph}>
+                                  
+                                  Three years ago, I embarked on a path of learning—coding, crafting apps, and websites. Today, through divine guidance and tireless dedication, I've birthed a Bible application. Every word meticulously transcribed, each book coded, all freely available worldwide, devoid of advertisements.
+
+Yet, seeking support for this endeavor proved daunting. Pride and hesitation clouded my ability to ask, and my appeals often met silence. 
+  
+  </p>
+  <p className={styles.paragraph}>
+  
+  I pray for understanding, Lord, that every task You set forth deserves its reward.
+
+Your word, a steadfast promise, echoes in my heart. I stand firm, trusting in Your provision, believing that this app, meant to spread Your word freely, will receive the sustenance it needs.
+</p>
+  
+<p className={styles.paragraph}>I humbly ask for Your provision, Lord, through free-will offerings, turning the hearts of Your followers toward this passion project. May this app flourish, a vessel akin to Noah's ark—a beacon of Your word.
+
+Grateful for Your grace, I implore those touched by this mission to join the journey. The app, a testament to Your spirit within me, progresses from humble origins to its current form.
+  </p>
+
+  <p className={styles.paragraph}>
+  
+  Witness the evolution, a testament to perseverance inspired by Your divine guidance.
+  </p>
+Once lost in the depths of alcoholism, self-pity, and spiritual turmoil, I am now found in the grace of Jesus. His life, death, and resurrection have transformed me, saved by the enduring power of God's Holy Spirit.
+<p className={styles.paragraph}>
+  
+  This app stands as a testament, coded, published, and deployed by Your servant: Jason Daniel Nutt.
+  </p>
+
+                                  
                           <p className={styles.paragraph}>
                             My name is Jason Nutt. I was an alcoholic. One of those that could probably be considered, as Paul calls himself, the chief of sinners... I was once a liar, one who lived a self-centered and selfish life
                       of drinking & more drinking & responsibilities be damned. I am former rehab frequent flyer. I have been to more than I wih to admit but have completed a select few of which I am very delighted in & praise God for them both. 
@@ -529,16 +573,7 @@ Next
                             </p>
 
 
-                         <p className={styles.paragraph}>
-                            Thank you in Jesus name.
-The free will offerings button is the one that looks like me saying thank you so much for the Free Will offering with little stars around myself LOL have a blessed day!
-This is a video of the apps humble beginnings, well. this was about 5 months into the development of the project... 
-  </p>
-
-                             <p className={styles.paragraph}>
-  
-  Enjoy seeing how far it has come because of the God of Israel's spirit in me that pushed and prodded me along, even when the script was long and the stories were heart and gut wrenching and I could feel myself turning inside out... 
-  </p>  
+                      
   
   <p className={styles.paragraph}> 
   
