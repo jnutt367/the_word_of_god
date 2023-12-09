@@ -547,8 +547,8 @@ Once lost in the depths of alcoholism, self-pity, and spiritual turmoil, I am no
   
                           
                                                
-<iframe className={styles.iframe1}> width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              
-<iframe className={styles.iframe1}> width="100%" height="315" src="https://www.youtube.com/embed/0kSDHQCbtJE?si=xYNMODdJLZjKyF2C?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe> width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              
+<iframe> width="100%" height="315" src="https://www.youtube.com/embed/0kSDHQCbtJE?si=xYNMODdJLZjKyF2C?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                               
  
                               
