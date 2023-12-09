@@ -345,6 +345,11 @@
    width: 100%;
   
 }
+
+.paragraph {
+  font-size: 1.12em;
+  
+}
 .hide {
   display:none;
 }
