@@ -529,7 +529,9 @@ background-color: black;
   top: 125px;
   padding-left: 25px;
   margin-bottom: -200px;
-  margin-top: -250px;     
+  margin-top: -250px;   
+  height: 400px;
+  width: 75%;
 }
 .wide {
   display: grid;
