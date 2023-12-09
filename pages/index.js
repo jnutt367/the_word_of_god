@@ -498,7 +498,7 @@ Next
                              My Testimony: Breaking Free, Building Hope
                           </h2>
                          
-<h3className={styles.paragraph}> 
+<h3 className={styles.paragraph}> 
 In the echoes of Revelation, a voice proclaimed, "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God"... These words, a beacon of hope, resonate with my journey.
 
                                   </h3>
