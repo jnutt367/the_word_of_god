@@ -512,7 +512,7 @@ background-color: black;
    top: -200px;
    left: 550px;
    width: 300px;
-   height: 400px;
+   height: 375px;
    font-size: 1.5rem;
    margin-top: 50px;
    opacity: 0.6;
@@ -531,7 +531,7 @@ background-color: black;
   margin-bottom: -200px;
   margin-top: -250px;   
   height: 400px;
-  width: 75%;
+  width: 65%;
 }
 .wide {
   display: grid;
