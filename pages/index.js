@@ -497,13 +497,9 @@ Next
                             
                              My Testimony: Breaking Free, Building Hope
                           </h2>
-                          <p className={styles.paragraph}>
-                          As it is written: "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God, and the authority of his Messiah. For the accuser of our brothers and sisters, who accuses them before our God day and night, has been hurled down. They triumphed over him by the blood of the Lamb and by the word of their testimony;"
-
-                                  
-                          </p>
+                         
 <h3>   
-In the echoes of Revelation, a voice proclaimed, "Now have come the salvation, power, and kingdom of our God." These words, a beacon of hope, resonate with my journey.
+In the echoes of Revelation, a voice proclaimed, "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God"... These words, a beacon of hope, resonate with my journey.
 
                                   </h3>
 
