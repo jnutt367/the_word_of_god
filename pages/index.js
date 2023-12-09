@@ -539,17 +539,6 @@ Once lost in the depths of alcoholism, self-pity, and spiritual turmoil, I am no
   </p>
 
                                   
-
-
-
-                      
-  
-  
-                          
-                                               
-<iframe> width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              
-<iframe> width="100%" height="315" src="https://www.youtube.com/embed/0kSDHQCbtJE?si=xYNMODdJLZjKyF2C?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                              
  
                               
                                   <p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20
