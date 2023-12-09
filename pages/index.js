@@ -498,7 +498,7 @@ Next
                              My Testimony: Breaking Free, Building Hope
                           </h2>
                          
-<h3>   
+<h3className={styles.paragraph}> 
 In the echoes of Revelation, a voice proclaimed, "Then I heard a loud voice in heaven say: 'Now have come the salvation and the power and the kingdom of our God"... These words, a beacon of hope, resonate with my journey.
 
                                   </h3>
@@ -532,9 +532,11 @@ Grateful for Your grace, I implore those touched by this mission to join the jou
   
   Witness the evolution, a testament to perseverance inspired by Your divine guidance.
   </p>
-Once lost in the depths of alcoholism, self-pity, and spiritual turmoil, I am now found in the grace of Jesus. His life, death, and resurrection have transformed me, saved by the enduring power of God's Holy Spirit.
-<p className={styles.paragraph}>
+
+   <p className={styles.paragraph}>Once lost in the depths of alcoholism, self-pity, and spiritual turmoil, I am now found in the grace of Jesus. His life, death, and resurrection have transformed me, saved by the enduring power of God's Holy Spirit.
+ </p>
   
+  <p className={styles.paragraph}>  
   This app stands as a testament, coded, published, and deployed by Your servant: Jason Daniel Nutt.
   </p>
 
