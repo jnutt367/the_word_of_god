@@ -539,60 +539,16 @@ Once lost in the depths of alcoholism, self-pity, and spiritual turmoil, I am no
   </p>
 
                                   
-                          <p className={styles.paragraph}>
-                            My name is Jason Nutt. I was an alcoholic. One of those that could probably be considered, as Paul calls himself, the chief of sinners... I was once a liar, one who lived a self-centered and selfish life
-                      of drinking & more drinking & responsibilities be damned. I am former rehab frequent flyer. I have been to more than I wih to admit but have completed a select few of which I am very delighted in & praise God for them both. 
-                        I was a disappointment
-                            as a son, brother, father and friend. A real know it all. A denier of defects of character. An isolater. And even a thief. 
-                            Having been born again by the Holy Spirit, I have now been made a priest forever, in the order of Melchizedek. I have been made holy by the blood of the lamb of God. Set aside for His good purpose. 
-                        </p>
 
-                 <p className={styles.paragraph}>
-                        3 years ago, I started learning to code and build apps and websites. Today, 
-                        I have built a Bible application with the hands that God gave me and by the pulling of the Holy Spirit, transcribed every word into each book and developed it and coded it into an application that can be spread throughout the world free of charge with no advertisements.
-                        </p>
-                        
-                         <p className={styles.paragraph}>
-                        
-                        Lord I honestly thought it would be the easiest part, asking for contributions, however it has deemed the most daunting and difficult task. As my pride and ego getting the way of asking and upon asking I get no results.
- Please help me Lord to understand that everything that you have told me to do deserves its reward. 
-                        </p>
-                         <p className={styles.paragraph}>
-                        
-                        And that your word does not return void it accomplishes the mission for which you sent it. I believe wholeheartedly that I am standing on your word and that you will fund this Bible app somehow some way in order that I can share your word for free and without a guilty conscience of having it be a marketplace with a bunch of advertisements trying to sell products to people as that's not what I'm here for
-
-                          Help me oh Lord and help the work of your hands to prosper at this time lord please make haste if I may be so audacious to ask. I'm precariously close to giving up but I will not give up on you Lord thank you!
-                        </p>
-                         <p className={styles.paragraph}>
-                        
-                        God please fund this application through Free Will offerings in Jesus name and turn the hearts of your followers to give and for this passion project to prosper as it as it is my Noah's ark that you have put on my heart.
-                            </p>
 
 
                       
   
-  <p className={styles.paragraph}> 
   
-  God's spirit protected and preserved me in order that I would NOT give up but persist on towards the goal to win the prize for which I have been called heavenward.                        
-                        You can follow the build on this Youtube channel if you want... 
-                             <a className={styles.a} href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw" target="_blank">
-                           The WORD of GOD: "Risen"
-                             </a>
-                            The Old testament is being worked on already too! Hallelujah! Please follow the journey and become a member if you want. If NOT simply use the bible app at no cost whatsoever. Praise God.  
-                          </p>  
-                          <p className={styles.paragraph}>
-                            I once was lost in the sorrows of alcohlism, self-pity, defeat, worry, depression, PTSD, suicidal thoughts and all kinds of other spiritual attacks. I now am found by the grace of Jesus and the truth about His life, death and ressurection, and have been saved by the power of God's Holy Spirit and reborn in Christ everlasting love .   
-                          </p>  
-                       
+                          
                                                
-                                  <p className={styles.description}> 
-        <code className={styles.publisher}>
-        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </code>
-                              </p>
-
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/0kSDHQCbtJE?si=xYNMODdJLZjKyF2C?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe className={styles.iframe}> width="100%" height="315" src="https://www.youtube.com/embed/J5csl8rEJvA?si=imkzSfC209DR58qz?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                              
+<iframe className={styles.iframe}> width="100%" height="315" src="https://www.youtube.com/embed/0kSDHQCbtJE?si=xYNMODdJLZjKyF2C?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                               
  
                               
