@@ -87,7 +87,7 @@
   25%  {color:gold; left:200px; top:150px; opacity: 0.2;}
   50%  {color:gold; left:200px; top:100px;opacity: 0.3;}
   75%  {color:silver; left:0px; top:50px;opacity: 0.4;}
-  100% {color:red; left:0px; top:-200px; opacity: 1;}
+  100% {color:red; left:0px; top:-300px; opacity: 1;}
 }
 
 
@@ -531,7 +531,7 @@ background-color: black;
   padding-left: 25px;
   margin-bottom: -200px;
   margin-top: -250px;   
-  height: 400px;
+  height: 500px;
   width: 63%;
 }
 .wide {
