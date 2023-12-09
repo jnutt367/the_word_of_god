@@ -71,11 +71,11 @@
   background-color: transparent;
   opacity: 1;
   z-index: 10;
-  top: -200px;
+  top: -300px;
   font-family: Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
-  font-weight: 900;
+  font-weight: 1200;
   font-size: 82px;
-  color: #E31C5E;
+  color: whitesmoke;
   animation-name: example;
   animation-duration: 3s;  
   animation-iteration-count: 1;
