@@ -233,9 +233,16 @@
   margin-top: 100px;
   margin-bottom: 120px;
   opacity: 1;
-  
+  animation-name: iframe1;
+  animation-duration: 3s;  
+  animation-iteration-count: 1;
+  animation-timing-function: ease-out;  
 }
 
+@keyframes iframe1 {
+  0%  {opacity:0; left: -500px;}  
+  100% {opacity: 1; left: 0px}  
+}
 
 .glory {
     text-align: center;
