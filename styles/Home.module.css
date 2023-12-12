@@ -313,9 +313,9 @@
     font-size: 24px;
     text-shadow: grey 1px 1px 1px;
     animation-name: parables;
-    animation-duration: 5s;  
+    animation-duration: 1.5s;  
     animation-iteration-count: 1;
-    animation-timing-function: ease-in-out;  
+    animation-timing-function: ease-out;  
 }
 @keyframes parables {
   0%  {top:-3000px}  
