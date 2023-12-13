@@ -50,7 +50,7 @@ export default function Home() {
              </p>
                          
 <div className={styles.iframe1}>
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/ALsluAKBZ-c?si=yu2GwsK5Dkz2iKaW%&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/ALsluAKBZ-c?si=yu2GwsK5Dkz2iKaW%&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
     </div>   
     
