@@ -395,7 +395,7 @@ Next
                        <a href="https://john-zeta.vercel.app/" target="_blank">  
                            <li className={styles.li}>The gospel of John</li> 
                        </a>
-                       <a href="https://acts-zeta.vercel.app/" target="_blank">  
+                       <a href="https://john-zeta.vercel.app/#acts" target="_blank">  
                            <li className={styles.li}>Acts of the Apostles</li> 
                        </a>
                        <a href="https://romans-five.vercel.app/" target="_blank">
