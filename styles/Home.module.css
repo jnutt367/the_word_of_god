@@ -533,7 +533,8 @@ background-color: black;
 @media (min-width: 769px) {
   .aside {
         padding-left: 150px;
-        padding-right: 150px;  
+        padding-right: 150px; 
+        font-size: 1.5em;
   }
 
  .parables {
