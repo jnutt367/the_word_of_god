@@ -48,11 +48,10 @@ export default function Home() {
                
                     RISEN
              </p>
-                         
-<div className={styles.iframe1}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/ALsluAKBZ-c?si=yu2GwsK5Dkz2iKaW%&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/tpuEb_-cBZM?si=dvFKm-X7ie-YgUdF&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
-    </div>   
+
     
    
     <p className={styles.parables}>
@@ -108,9 +107,10 @@ Next
          
                </div>
         <div className={styles.wide}>
-                                   <div  className={styles.iframe}>
-                                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/2qGfpHmpIqQ?si=RG4oqIRY1AYfN3TX&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                                  </div>
+                                 <div className={styles.iframe}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ALsluAKBZ-c?si=yu2GwsK5Dkz2iKaW%&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    
+    </div>   
                                  
                                   
                                   <div className={styles.iframe}>
