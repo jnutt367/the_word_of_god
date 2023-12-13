@@ -31,6 +31,17 @@ export default function Home() {
   type="image/<generated>"
   sizes="<generated>"
 />    
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9F0M4T39PJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9F0M4T39PJ');
+</script>
+    
       </Head>
        
      
