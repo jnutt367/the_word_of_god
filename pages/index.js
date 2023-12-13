@@ -32,7 +32,6 @@ export default function Home() {
   sizes="<generated>"
 />    
 
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9F0M4T39PJ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
