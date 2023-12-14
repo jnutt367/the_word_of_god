@@ -333,7 +333,7 @@
     top: -200px;
     font-family: Dancing Script, sans, serif, sans-serif, cursive, fantasy;
     font-size: 24px;
-    text-shadow: gold 1px 1px 1px;
+    text-shadow: black 2px 2px 2px;
     animation-name: parables;
     animation-duration: 1.5s;  
     animation-iteration-count: 1;
@@ -550,7 +550,7 @@ background-color: black;
    padding: 15px;
    line-height: 285%; 
    border: 1px solid white;
-   text-shadow: gold 2px 2px 2px;
+   text-shadow: black 3px 3px 3px;
    border-radius: 15px;
    box-shadow: 0px 0px 2px 2px gold;    
  }
