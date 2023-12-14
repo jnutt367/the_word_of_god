@@ -323,7 +323,7 @@
 .parables {
     display: grid;
     text-align: center;
-    color: black;
+    color: #87CEEB;
     position: relative;
     padding: 15px;
     background-color: transparent; 
@@ -545,7 +545,7 @@ background-color: black;
    font-size: 1.5rem;
    margin-top: 50px;
    opacity: 0.6;
-   color: black;
+   color: #87CEEB;
    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
    padding: 15px;
    line-height: 285%; 
