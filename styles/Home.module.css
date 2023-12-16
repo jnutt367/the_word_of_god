@@ -554,7 +554,7 @@ background-color: black;
    color: #87CEEB;
    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
    padding: 15px;
-   line-height: 190%; 
+   line-height: 2.5em; 
    border: 1px solid white;
    text-shadow: black 3px 3px 3px;
    border-radius: 15px;
