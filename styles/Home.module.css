@@ -87,7 +87,7 @@
   25%  {color:gold; left:200px; top:150px; opacity: 0.2;}
   50%  {color:gold; left:200px; top:100px;opacity: 0.3;}
   75%  {color:silver; left:0px; top:50px;opacity: 0.4;}
-  100% {color:red; left:0px; top:-350px; opacity: 1;}
+  100% {color:red; left:0px; top: 0px; opacity: 1;}
 }
 
 
