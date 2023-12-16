@@ -548,14 +548,7 @@ Grateful for Your grace, I implore those touched by this mission to join the jou
                                   <p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20
                                   </p> 
 
-<div className={styles.cashapp}>
-                                  <a href="https://cash.app/$JNutt367">
-                        Free will offering
-                               
-                                 
-                                  </a>                                  
-           
-                 </div>           
+
 
 
                               
