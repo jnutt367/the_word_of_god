@@ -207,7 +207,7 @@
     justify-content: space-around;
     position: relative;
     margin-top: 10px;
-   font-family:Dancing Script,  Roboto, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Nanum Brush Script, Roboto, sans, serif, sans-serif, cursive, fantasy;
 }
 .nav a {
  border-radius: 50%; 
@@ -319,13 +319,13 @@
     position: relative;
     text-align: center;
     font-size: 32px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Nanum Brush Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }  
 
 .parables {
     display: grid;
     text-align: center;
-    color: #87CEEB;
+    color: whitesmoke;
     position: relative;
     padding: 15px;
     background-color: transparent; 
@@ -414,7 +414,7 @@
   justify-content: space-around;
   background-color: transparent;
   list-style-type: none; 
-  font-family: Dancing Script;
+  font-family: Nanum Brush Script;
     }
 
 .li {
@@ -428,7 +428,7 @@
   color: black; 
   padding: 10px;
   line-height:1.5;
-  font-family: Dancing Script, Rubik Doodle Shadow, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Nanum Brush Script, Dancing Script, Rubik Doodle Shadow, sans, serif, sans-serif, cursive, fantasy;
 }
 .li:hover,
 .li:focus,
@@ -463,7 +463,7 @@
   position: relative;
   top: 310px;
   text-align: center;
-  font-family: Dancing Script;
+  font-family: Nanum Brush Script;
 }
 .testimony {
   position: relative;
@@ -551,7 +551,7 @@ background-color: black;
    font-size: 1.5rem;
    margin-top: 50px;
    opacity: 0.6;
-   color: #87CEEB;
+   color: whitesmoke;
    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
    padding: 15px;
    line-height: 2.5em; 
