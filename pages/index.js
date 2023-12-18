@@ -10,15 +10,18 @@ export default function Home() {
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
  <link href="https://api.mapbox.com/mapbox-gl-js/v2.1.1/mapbox-gl.css" rel="stylesheet" />
-<link
-          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
+  <link
+          href="https://fonts.googleapis.com/css2?family=Lato:wght@400..700&display=swap, Montserrat,Roboto"
           rel="stylesheet"
         />   
-<link
-          href="https://fonts.googleapis.com/css2?family=Roboto:wght@400..700&display=swap"
-          rel="stylesheet"
-        />                   
-        <title>The WORD of GOD: "Risen"</title>
+
+            <link href="https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap" 
+            rel="stylesheet"  
+              />      
+                      <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
+              rel="stylesheet" 
+                />   
+        <title>PARABLES...The WORD of GOD: "Risen"</title>
       <meta
   name="description"
   content="Check out The WORD of GOD Risen bible app!. Visit the Youtube channel at the same name. The entire NIV bible plus Testimony from the publisher and programmer Jason Nutt, Jesus is salvation, Recovery for alcoholism in Christ Jesus, for prayer meditation and deep study"
