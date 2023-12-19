@@ -21,7 +21,7 @@ export default function Home() {
                       <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
               rel="stylesheet" 
                 />   
-        <title>PARABLES...The WORD of GOD: "Risen"</title>
+        <title>The WORD of GOD Risen: With PARABLES...Compilation included!</title>
       <meta
   name="description"
   content="Check out The WORD of GOD Risen bible app!. Visit the Youtube channel at the same name. The entire NIV bible plus Testimony from the publisher and programmer Jason Nutt, Jesus is salvation, Recovery for alcoholism in Christ Jesus, for prayer meditation and deep study"
