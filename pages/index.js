@@ -94,7 +94,7 @@ Give
           
          
      
-         <a className={styles.a} href="https://matthew-coral.vercel.app/">
+         <a className={styles.a} href="https://matthew-coral.vercel.app/" target="_blank">
 
     <p className={styles.p}>
 Next
