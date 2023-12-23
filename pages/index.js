@@ -546,7 +546,39 @@ Grateful for Your grace, I implore those touched by this mission to join the jou
   This app stands as a testament, coded, published, and deployed by Your servant: Jason Daniel Nutt.
   </p>
 
-                                  
+
+Are you seeking a way to merge your fervor for crafting
+   <p className={styles.paragraph}>  
+  and refining content with your fascination for digital marketing strategy? The role of Digital Content Specialist at BluShark Digital might just be the perfect fit for you! Whether you're inclined towards crafting informative content or enjoy the challenge of devising content strategies, BluShark Digital is in search of someone craving intellectual stimulation and unconventional thinking.
+
+At BluShark Digital, we're committed to forging effective and innovative Search Engine Optimization (SEO) solutions tailored for businesses of all sizes. Nestled in the vibrant heart of Washington, D.C. (and with a dispersed team spanning remote and hybrid setups across the country), our mission revolves around elevating our clients' online visibility.
+
+As a Digital Content Specialist, you'll helm a dedicated client portfolio, curating optimized content and strategic site planning to meet monthly milestones and long-term aspirations. The foundation lies in crafting and refining high-caliber content that embodies our established (yet continuously evolving) best practices. But beyond that, we're all about forward-thinking, granting specialists the opportunity to strategize through site structuring, content scheduling, competitor analysis, and pioneering SEO experiments.
+
+While prior marketing experience is advantageous, we acknowledge that content marketing enthusiasts come from diverse backgrounds. Our pride rests in our mentorship program, ensuring that from day one, you're geared for success. We tailor roles to harness the distinctive strengths of each team member. Hence, the key ingredients for this role are an appetite for learning, a passion for the written craft, and a keen eye for unraveling puzzles akin to Sherlock Holmes.
+
+We've outlined essential traits for success in this role:
+
+🌟 Eagerness and enthusiasm for learning
+🌟 Superb communication skills
+🌟 Positive and collaborative mindset
+🌟 Fondness for puzzles and organization
+🌟 Passion for editing
+🌟 Attention to detail
+🌟 Reliability
+🌟 Approachable nature
+🌟 Sense of humor (with an impressive collection of gifs)
+🌟 Strong stance on the Oxford comma
+🌟 Knowledge of G-suite and WordPress is advantageous
+
+In our selection process, each resume and writing sample undergoes meticulous review by our recruitment team. Make sure to include the latest book you've read in the cover letter section of your application! Shortlisted candidates will partake in a brief 15-minute phone interview—a golden chance to make a stellar first impression. We expect candidates to acquaint themselves with our identity and operations prior to the phone interview. Successful candidates will progress to a video call interview. The subsequent stage involves selected candidates completing a hands-on skills assessment. Finally, top contenders will be invited to shadow a session, offering a glimpse into the day-to-day responsibilities of the position.
+
+Our process demands a significant investment of time, and we request your commitment as well. At BluShark, we're dedicated to enlisting talented individuals who can grow and thrive by exhibiting unwavering dedication to high performance, self-discipline, and the drive to shoulder more responsibility.
+
+At BluShark Digital, our core values—innovation, collaboration, and a commitment to our broader community—steer us towards our objectives. New hires embark on a 90-day probationary period and receive comprehensive benefits including health, dental, and vision insurance, as well as 401(k) plans, and paid holiday/sick/vacation days.
+
+BluShark Digital is resolute in fostering a work environment where everyone is treated with esteem and fairness. We champion a professional setting that advocates equal opportunities and condemns discriminatory practices and harassment in any form. We extend equal employment opportunities to all, irrespective of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.  
+  </p>                                    
  
                               
                                   <p className={styles.glory}>"All glory to GOD, who is able, through His mighty power at work within us, to accomplish infinitely more than we ask or imagine"  Ephesians 3:20
