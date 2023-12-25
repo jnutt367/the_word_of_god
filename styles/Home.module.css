@@ -212,6 +212,7 @@
 .nav a {
  border-radius: 50%; 
  opacity: 0.9;
+  font-size: 1.75rem;
 }
   
 
@@ -396,6 +397,7 @@
   top: -210px;
   text-align: center;
   padding: 15px;
+  font-size: 2.5rem;
   background-color: black;
   color: white;
   font-weight: 900;
@@ -423,7 +425,7 @@
   margin-left: -42px;
   z-index: 10;
   width:100vw;
-  font-size: 20px;
+  font-size: 2rem;
   border: 1px solid grey;
   color: black; 
   padding: 10px;
@@ -506,6 +508,7 @@ background-color: black;
   padding-top: 10px;
   padding-bottom: 10px;
   font-weight: 900;
+  font-size: 2.5rem;  
   background-image: linear-gradient(to bottom right, white, gold);
   font-family: Rubik Doodle Shadow;  
 }
