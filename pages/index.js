@@ -81,7 +81,7 @@ Prev
                   
          <a className={styles.a} href="https://cash.app/$JNutt367">
     <p className={styles.p}>
-Give
+Gift
     </p>
            <Image
                                 src="/donations_please.webp"
