@@ -54,7 +54,7 @@ export default function Home() {
                     RISEN
              </p>
    <div className={styles.iframe1}>
-<iframe width="100%" height="300" src="https://www.youtube.com/embed/uAHhEKgii9s?si=gh9eLTycUmira4GI&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/uAHhEKgii9s?si=gh9eLTycUmira4GI" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
      </div>
     
    
