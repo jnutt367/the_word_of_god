@@ -330,7 +330,7 @@
     color: whitesmoke;
     position: relative;
     padding: 15px;
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+    background-color: black;
     margin-bottom: 25px;
     margin-top: 25px;    
     z-index: 10;
@@ -556,8 +556,7 @@ background-color: black;
    margin-top: 50px;
    opacity: 0.9;
    color: white;
-   background-image: linear-gradient(to bottom right, #002147, #87CEEB);
-   opacity: 0.7;
+   background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
    padding: 15px;
    line-height: 2.5em; 
    text-shadow: black 3px 3px 3px;
