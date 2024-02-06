@@ -324,11 +324,12 @@
 
 .parables {
     display: grid;
+    opacity: 0.7;
     text-align: center;
     color: whitesmoke;
     position: relative;
     padding: 15px;
-    background-color: transparent; 
+    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
     margin-bottom: 25px;
     margin-top: 25px;    
     z-index: 10;
@@ -555,6 +556,7 @@ background-color: black;
    opacity: 0.9;
    color: white;
    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
+   opacity: 0.7;
    padding: 15px;
    line-height: 2.5em; 
    text-shadow: black 3px 3px 3px;
