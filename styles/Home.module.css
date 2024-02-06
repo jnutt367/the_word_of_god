@@ -1,6 +1,6 @@
 .container {
   background-color: black;
-  background-image: linear-gradient(to bottom right, #002147, #87CEEB);
+ 
   opacity:0.9;
   display: grid;
   align-items: center;
