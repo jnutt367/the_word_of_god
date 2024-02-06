@@ -1,7 +1,6 @@
 .container {
   background-color: black;
   background-image: linear-gradient(to bottom right, #002147, #87CEEB);
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   opacity:0.9;
   display: grid;
   align-items: center;
