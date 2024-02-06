@@ -195,7 +195,8 @@
 .nav {
     top: -225px;
     background-color:black;
-    background-image: linear-gradient(to bottom right, #87CEEB, #002147);  
+    background-image: linear-gradient(to bottom right, #87CEEB, #002147); 
+    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
     border: 2px solid  #bf9b30;
     color:white;
     opacity: 1;
@@ -329,7 +330,7 @@
     color: whitesmoke;
     position: relative;
     padding: 15px;
-    background-image: linear-gradient(to bottom right, #002147, #87CEEB);
+    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
     margin-bottom: 25px;
     margin-top: 25px;    
     z-index: 10;
