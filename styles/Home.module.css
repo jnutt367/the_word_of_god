@@ -28,7 +28,12 @@ body {
   color: white;
   font-size: 36px;
 }
-
+.testimony {
+  font-family: Arial, sans-serif;
+}
+.paragraph {
+  font-family: Arial, sans-serif;
+}
 /* Navigation styles */
 .nav {
   background-color: #333;
