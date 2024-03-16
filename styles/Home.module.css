@@ -1,13 +1,3 @@
-/* Reset default margin and padding */
-body, h1, p {
-  margin: 0;
-  padding: 0;
-}
-
-/* Set font family */
-body {
-  font-family: 'Roboto', sans-serif;
-}
 
 /* Container styles */
 .container {
